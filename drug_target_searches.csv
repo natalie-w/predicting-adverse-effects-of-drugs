@@ -1,0 +1,2732 @@
+,drug_name,target
+97,pravastatin,Histone deacetylase 2 inhibitor
+98,fluvoxamine,Sodium-dependent serotonin transporter inhibitor
+99,fluvoxamine,Potassium voltage-gated channel subfamily H member 2 inhibitor
+100,valsartan,Type-1 angiotensin II receptor antagonist
+101,ramipril,Angiotensin-converting enzyme inhibitor
+103,flunisolide,Glucocorticoid receptor agonist
+106,amphetamine,Synaptic vesicular amine transporter inhibitor
+109,amphetamine,Sodium-dependent dopamine transporter inhibitor
+110,amphetamine,Sodium-dependent dopamine transporter agonist
+111,amphetamine,Sodium-dependent dopamine transporter binder
+118,amphetamine,Sodium-dependent noradrenaline transporter inhibitor
+119,amphetamine,Sodium-dependent noradrenaline transporter agonist
+120,amphetamine,Sodium-dependent noradrenaline transporter binder
+124,amphetamine,Beta adrenergic receptor inhibitor
+127,amphetamine,Dopamine D2 receptor inhibitor
+128,amphetamine,Dopamine D2 receptor agonist
+129,amphetamine,Dopamine D2 receptor binder
+130,amphetamine,Amine oxidase [flavin-containing] B inhibitor
+133,amphetamine,Sodium-dependent serotonin transporter inhibitor
+134,amphetamine,Sodium-dependent serotonin transporter agonist
+135,amphetamine,Sodium-dependent serotonin transporter binder
+142,nicotine,Neuronal acetylcholine receptor subunit alpha-4 agonist
+143,nicotine,Neuronal acetylcholine receptor subunit alpha-4 inhibitor
+168,cevimeline,Muscarinic acetylcholine receptor M3 agonist
+169,cevimeline,Muscarinic acetylcholine receptor M1 agonist
+170,lorazepam,GABA(A) Receptor ligand
+171,lorazepam,GABA(A) Receptor Benzodiazepine Binding Site ligand
+172,esmolol,Beta-1 adrenergic receptor antagonist
+176,phentermine,Sodium-dependent noradrenaline transporter inhibitor
+177,phentermine,Sodium-dependent noradrenaline transporter antagonist
+178,phentermine,Sodium-dependent serotonin transporter inhibitor
+179,phentermine,Sodium-dependent serotonin transporter antagonist
+180,phentermine,Sodium-dependent dopamine transporter inhibitor
+181,phentermine,Sodium-dependent dopamine transporter antagonist
+184,phentermine,Amine oxidase [flavin-containing] B inhibitor
+188,tramadol,Mu-type opioid receptor agonist
+189,tramadol,Mu-type opioid receptor inhibitor
+190,tramadol,Mu-type opioid receptor antagonist
+192,tramadol,Sodium-dependent noradrenaline transporter agonist
+193,tramadol,Sodium-dependent noradrenaline transporter inhibitor
+194,tramadol,Sodium-dependent noradrenaline transporter antagonist
+196,tramadol,Sodium-dependent serotonin transporter agonist
+197,tramadol,Sodium-dependent serotonin transporter inhibitor
+198,tramadol,Sodium-dependent serotonin transporter antagonist
+200,tramadol,5-hydroxytryptamine receptor 2C agonist
+201,tramadol,5-hydroxytryptamine receptor 2C inhibitor
+202,tramadol,5-hydroxytryptamine receptor 2C antagonist
+204,tramadol,Kappa-type opioid receptor agonist
+205,tramadol,Kappa-type opioid receptor inhibitor
+206,tramadol,Kappa-type opioid receptor antagonist
+208,tramadol,Delta-type opioid receptor agonist
+210,tramadol,Delta-type opioid receptor antagonist
+216,tramadol,Muscarinic acetylcholine receptor M3 agonist
+217,tramadol,Muscarinic acetylcholine receptor M3 inhibitor
+218,tramadol,Muscarinic acetylcholine receptor M3 antagonist
+220,tramadol,Muscarinic acetylcholine receptor M1 agonist
+221,tramadol,Muscarinic acetylcholine receptor M1 inhibitor
+222,tramadol,Muscarinic acetylcholine receptor M1 antagonist
+241,tramadol,Adenosine receptor A1 inhibitor
+242,tramadol,Adenosine receptor A1 antagonist
+244,tramadol,Alpha-2 adrenergic receptors agonist
+245,tramadol,Alpha-2 adrenergic receptors inhibitor
+246,tramadol,Alpha-2 adrenergic receptors antagonist
+248,betaxolol,Beta-1 adrenergic receptor antagonist
+249,betaxolol,Beta-2 adrenergic receptor antagonist
+251,troglitazone,Peroxisome proliferator-activated receptor gamma agonist
+252,troglitazone,Peroxisome proliferator-activated receptor gamma inhibitor
+272,troglitazone,Peroxisome proliferator-activated receptor alpha agonist
+273,troglitazone,Peroxisome proliferator-activated receptor alpha inhibitor
+285,erythromycin,Potassium voltage-gated channel subfamily H member 2 inhibitor
+294,caffeine,Adenosine receptor A1 antagonist
+295,caffeine,Adenosine receptor A1 inhibitor
+324,succinylcholine,Muscarinic acetylcholine receptor M3 agonist
+325,sildenafil,"cGMP-specific 3',5'-cyclic phosphodiesterase inhibitor"
+328,dofetilide,Potassium voltage-gated channel subfamily H member 2 inhibitor
+331,reserpine,Synaptic vesicular amine transporter inhibitor
+336,trospium,Muscarinic acetylcholine receptor M1 antagonist
+337,trospium,Muscarinic acetylcholine receptor M3 antagonist
+338,midodrine,Alpha-1A adrenergic receptor agonist
+339,midodrine,Alpha-1B adrenergic receptor agonist
+340,midodrine,Alpha-1D adrenergic receptor agonist
+345,citalopram,Sodium-dependent serotonin transporter inhibitor
+346,citalopram,Sodium-dependent serotonin transporter binder
+347,citalopram,Histamine H1 receptor inhibitor
+348,citalopram,Histamine H1 receptor binder
+349,eletriptan,5-hydroxytryptamine receptor 1D agonist
+350,eletriptan,5-hydroxytryptamine receptor 1B agonist
+351,eletriptan,5-hydroxytryptamine receptor 1F agonist
+352,eletriptan,5-hydroxytryptamine receptor 1A agonist
+353,moxifloxacin,DNA topoisomerase 4 subunit A inhibitor
+354,moxifloxacin,DNA gyrase subunit A inhibitor
+355,moxifloxacin,DNA topoisomerase 2-alpha inhibitor
+363,indinavir,Human immunodeficiency virus type 1 protease inhibitor
+364,temazepam,GABA(A) Receptor ligand
+365,temazepam,GABA(A) Receptor Benzodiazepine Binding Site ligand
+366,reboxetine,Sodium-dependent noradrenaline transporter inhibitor
+367,milrinone,"cGMP-inhibited 3',5'-cyclic phosphodiesterase A inhibitor"
+368,butabarbital,GABA(A) Receptor inhibitor
+369,butabarbital,GABA(A) Receptor antagonist
+399,cladribine,DNA inhibitor
+429,ranolazine,Alpha-1 adrenergic receptors inhibitor
+430,ranolazine,Alpha-1 adrenergic receptors antagonist
+432,ranolazine,Beta-1 adrenergic receptor inhibitor
+433,ranolazine,Beta-1 adrenergic receptor antagonist
+438,ziprasidone,Dopamine D2 receptor antagonist
+439,ziprasidone,Dopamine D2 receptor agonist
+440,ziprasidone,Dopamine D1 receptor antagonist
+441,ziprasidone,Dopamine D1 receptor agonist
+442,ziprasidone,Dopamine D5 receptor antagonist
+443,ziprasidone,Dopamine D5 receptor agonist
+444,ziprasidone,5-hydroxytryptamine receptor 2A antagonist
+445,ziprasidone,5-hydroxytryptamine receptor 2A agonist
+446,ziprasidone,Dopamine D3 receptor antagonist
+447,ziprasidone,Dopamine D3 receptor agonist
+448,ziprasidone,Dopamine D4 receptor antagonist
+449,ziprasidone,Dopamine D4 receptor agonist
+450,ziprasidone,5-hydroxytryptamine receptor 1A antagonist
+451,ziprasidone,5-hydroxytryptamine receptor 1A agonist
+452,ziprasidone,5-hydroxytryptamine receptor 1B antagonist
+453,ziprasidone,5-hydroxytryptamine receptor 1B agonist
+454,ziprasidone,5-hydroxytryptamine receptor 1D antagonist
+455,ziprasidone,5-hydroxytryptamine receptor 1D agonist
+456,ziprasidone,5-hydroxytryptamine receptor 1E antagonist
+458,ziprasidone,5-hydroxytryptamine receptor 2C antagonist
+459,ziprasidone,5-hydroxytryptamine receptor 2C agonist
+460,ziprasidone,5-hydroxytryptamine receptor 6 antagonist
+462,ziprasidone,5-hydroxytryptamine receptor 7 antagonist
+463,ziprasidone,5-hydroxytryptamine receptor 7 agonist
+464,ziprasidone,Histamine H1 receptor antagonist
+465,ziprasidone,Histamine H1 receptor agonist
+466,ziprasidone,Alpha-1A adrenergic receptor antagonist
+467,ziprasidone,Alpha-1A adrenergic receptor agonist
+468,ziprasidone,Alpha-1B adrenergic receptor antagonist
+469,ziprasidone,Alpha-1B adrenergic receptor agonist
+470,ziprasidone,Alpha-2A adrenergic receptor antagonist
+471,ziprasidone,Alpha-2A adrenergic receptor agonist
+472,ziprasidone,Alpha-2B adrenergic receptor antagonist
+473,ziprasidone,Alpha-2B adrenergic receptor agonist
+474,ziprasidone,Alpha-2C adrenergic receptor antagonist
+475,ziprasidone,Alpha-2C adrenergic receptor agonist
+476,ziprasidone,Muscarinic acetylcholine receptor M1 antagonist
+477,ziprasidone,Muscarinic acetylcholine receptor M1 agonist
+478,ziprasidone,Muscarinic acetylcholine receptor M2 antagonist
+480,ziprasidone,Muscarinic acetylcholine receptor M3 antagonist
+481,ziprasidone,Muscarinic acetylcholine receptor M3 agonist
+482,ziprasidone,Muscarinic acetylcholine receptor M4 antagonist
+484,ziprasidone,Muscarinic acetylcholine receptor M5 antagonist
+490,methysergide,5-hydroxytryptamine receptor 2B antagonist
+491,methysergide,5-hydroxytryptamine receptor 2B agonist
+492,methysergide,5-hydroxytryptamine receptor 2B binder
+493,methysergide,5-hydroxytryptamine receptor 2C antagonist
+494,methysergide,5-hydroxytryptamine receptor 2C agonist
+495,methysergide,5-hydroxytryptamine receptor 2C binder
+496,methysergide,5-hydroxytryptamine receptor 2A antagonist
+497,methysergide,5-hydroxytryptamine receptor 2A agonist
+498,methysergide,5-hydroxytryptamine receptor 2A binder
+499,methysergide,5-hydroxytryptamine receptor 1A antagonist
+500,methysergide,5-hydroxytryptamine receptor 1A agonist
+501,methysergide,5-hydroxytryptamine receptor 1A binder
+502,methysergide,5-hydroxytryptamine receptor 7 antagonist
+503,methysergide,5-hydroxytryptamine receptor 7 agonist
+504,methysergide,5-hydroxytryptamine receptor 7 binder
+505,methysergide,5-hydroxytryptamine receptor 1B antagonist
+506,methysergide,5-hydroxytryptamine receptor 1B agonist
+509,methysergide,5-hydroxytryptamine receptor 1F agonist
+511,methysergide,5-hydroxytryptamine receptor 1E antagonist
+514,cabergoline,Dopamine D2 receptor agonist
+515,cabergoline,Dopamine D2 receptor antagonist
+516,cabergoline,Dopamine D2 receptor binder
+517,cabergoline,5-hydroxytryptamine receptor 2B agonist
+518,cabergoline,5-hydroxytryptamine receptor 2B antagonist
+519,cabergoline,5-hydroxytryptamine receptor 2B binder
+520,cabergoline,Dopamine D3 receptor agonist
+521,cabergoline,Dopamine D3 receptor antagonist
+522,cabergoline,Dopamine D3 receptor binder
+523,cabergoline,5-hydroxytryptamine receptor 2A agonist
+524,cabergoline,5-hydroxytryptamine receptor 2A antagonist
+525,cabergoline,5-hydroxytryptamine receptor 2A binder
+526,cabergoline,Alpha-2B adrenergic receptor agonist
+527,cabergoline,Alpha-2B adrenergic receptor antagonist
+528,cabergoline,Alpha-2B adrenergic receptor binder
+529,cabergoline,5-hydroxytryptamine receptor 1D agonist
+530,cabergoline,5-hydroxytryptamine receptor 1D antagonist
+532,cabergoline,Dopamine D4 receptor agonist
+533,cabergoline,Dopamine D4 receptor antagonist
+535,cabergoline,Alpha-2A adrenergic receptor agonist
+536,cabergoline,Alpha-2A adrenergic receptor antagonist
+537,cabergoline,Alpha-2A adrenergic receptor binder
+538,cabergoline,5-hydroxytryptamine receptor 1A agonist
+539,cabergoline,5-hydroxytryptamine receptor 1A antagonist
+540,cabergoline,5-hydroxytryptamine receptor 1A binder
+541,cabergoline,Alpha-2C adrenergic receptor agonist
+542,cabergoline,Alpha-2C adrenergic receptor antagonist
+544,cabergoline,Dopamine D5 receptor agonist
+545,cabergoline,Dopamine D5 receptor antagonist
+547,cabergoline,Dopamine D1 receptor agonist
+548,cabergoline,Dopamine D1 receptor antagonist
+550,cabergoline,5-hydroxytryptamine receptor 1B agonist
+551,cabergoline,5-hydroxytryptamine receptor 1B antagonist
+553,cabergoline,5-hydroxytryptamine receptor 2C agonist
+554,cabergoline,5-hydroxytryptamine receptor 2C antagonist
+555,cabergoline,5-hydroxytryptamine receptor 2C binder
+556,cabergoline,5-hydroxytryptamine receptor 7 agonist
+557,cabergoline,5-hydroxytryptamine receptor 7 antagonist
+558,cabergoline,5-hydroxytryptamine receptor 7 binder
+559,cabergoline,Alpha-1A adrenergic receptor agonist
+560,cabergoline,Alpha-1A adrenergic receptor antagonist
+561,cabergoline,Alpha-1A adrenergic receptor binder
+562,cabergoline,Alpha-1B adrenergic receptor agonist
+563,cabergoline,Alpha-1B adrenergic receptor antagonist
+564,cabergoline,Alpha-1B adrenergic receptor binder
+565,cabergoline,Alpha-1D adrenergic receptor agonist
+566,cabergoline,Alpha-1D adrenergic receptor antagonist
+567,cabergoline,Alpha-1D adrenergic receptor binder
+568,cabergoline,Beta-1 adrenergic receptor agonist
+569,cabergoline,Beta-1 adrenergic receptor antagonist
+571,cabergoline,Beta-2 adrenergic receptor agonist
+572,cabergoline,Beta-2 adrenergic receptor antagonist
+574,cabergoline,D(1) dopamine receptor agonist
+575,cabergoline,D(1) dopamine receptor antagonist
+576,cabergoline,D(1) dopamine receptor binder
+579,phenytoin,Sodium channel protein type 5 subunit alpha inhibitor
+581,phenytoin,Nuclear receptor subfamily 1 group I member 2 inhibitor
+584,phenytoin,Potassium voltage-gated channel subfamily H member 2 inhibitor
+588,phenytoin,GABA(A) Receptor inhibitor
+590,anagrelide,"cGMP-inhibited 3',5'-cyclic phosphodiesterase A inhibitor"
+591,metoprolol,Beta-1 adrenergic receptor antagonist
+592,metoprolol,Beta-2 adrenergic receptor antagonist
+593,ropinirole,Dopamine D3 receptor agonist
+594,ropinirole,Dopamine D3 receptor antagonist
+595,ropinirole,Dopamine D4 receptor agonist
+596,ropinirole,Dopamine D4 receptor antagonist
+599,ropinirole,Dopamine D2 receptor agonist
+600,ropinirole,Dopamine D2 receptor antagonist
+601,isradipine,Voltage-dependent L-type calcium channel subunit alpha-1C inhibitor
+602,isradipine,Voltage-dependent calcium channel subunit alpha-2/delta-1 inhibitor
+603,isradipine,Voltage-dependent L-type calcium channel subunit beta-2 inhibitor
+606,isradipine,Voltage-dependent L-type calcium channel subunit alpha-1D inhibitor
+607,isradipine,Voltage-dependent L-type calcium channel subunit alpha-1S inhibitor
+608,topiramate,Gamma-aminobutyric acid receptor subunit alpha-1 agonist
+610,topiramate,Gamma-aminobutyric acid receptor subunit alpha-1 antagonist
+618,topiramate,Carbonic anhydrase 2 inhibitor
+624,topiramate,Carbonic anhydrase 1 inhibitor
+627,topiramate,Carbonic anhydrase 3 inhibitor
+635,olmesartan,Type-1 angiotensin II receptor antagonist
+636,amsacrine,DNA inhibitor
+637,amsacrine,DNA topoisomerase 2-alpha inhibitor
+638,amsacrine,Potassium voltage-gated channel subfamily H member 2 inhibitor
+641,theophylline,Adenosine receptor A1 antagonist
+642,theophylline,Adenosine receptor A1 inhibitor
+654,theophylline,"cGMP-specific 3',5'-cyclic phosphodiesterase inhibitor"
+660,theophylline,"cGMP-inhibited 3',5'-cyclic phosphodiesterase A inhibitor"
+663,theophylline,Histone deacetylase 2 inhibitor
+684,disopyramide,Sodium channel protein type 5 subunit alpha inhibitor
+686,disopyramide,Muscarinic acetylcholine receptor M1 inhibitor
+687,disopyramide,Muscarinic acetylcholine receptor M1 antagonist
+688,disopyramide,Muscarinic acetylcholine receptor M2 inhibitor
+689,disopyramide,Muscarinic acetylcholine receptor M2 antagonist
+690,disopyramide,Muscarinic acetylcholine receptor M3 inhibitor
+691,disopyramide,Muscarinic acetylcholine receptor M3 antagonist
+696,disopyramide,Potassium voltage-gated channel subfamily H member 2 inhibitor
+697,disopyramide,Potassium voltage-gated channel subfamily H member 2 antagonist
+700,lidocaine,Sodium channel protein type 10 subunit alpha inhibitor
+704,lidocaine,Sodium channel protein type 5 subunit alpha inhibitor
+714,clemastine,Histamine H1 receptor antagonist
+715,venlafaxine,Sodium-dependent serotonin transporter inhibitor
+716,venlafaxine,Sodium-dependent noradrenaline transporter inhibitor
+717,venlafaxine,Sodium-dependent dopamine transporter inhibitor
+719,atomoxetine,Sodium-dependent noradrenaline transporter inhibitor
+720,atomoxetine,Sodium-dependent noradrenaline transporter binder
+722,atomoxetine,Sodium-dependent serotonin transporter inhibitor
+723,atomoxetine,Sodium-dependent serotonin transporter binder
+731,atomoxetine,Kappa-type opioid receptor inhibitor
+732,atomoxetine,Kappa-type opioid receptor binder
+733,atomoxetine,Kappa-type opioid receptor partial agonist
+735,bleomycin,DNA inhibitor
+737,etomidate,Gamma-aminobutyric acid receptor subunit alpha-1 agonist
+738,etomidate,Alpha-2B adrenergic receptor agonist
+739,etomidate,GABA(A) Receptor agonist
+740,raltitrexed,Thymidylate synthase inhibitor
+744,morphine,Mu-type opioid receptor agonist
+746,morphine,Kappa-type opioid receptor agonist
+748,morphine,Delta-type opioid receptor agonist
+752,ropivacaine,Sodium channel protein type 10 subunit alpha inhibitor
+753,bupivacaine,Sodium channel protein type 10 subunit alpha inhibitor
+757,penciclovir,DNA polymerase catalytic subunit inhibitor
+773,ibutilide,Voltage-dependent L-type calcium channel subunit alpha-1C inhibitor
+777,ibutilide,Potassium voltage-gated channel subfamily H member 2 inhibitor
+779,ibutilide,Voltage-dependent calcium channel subunit alpha-2/delta-1 inhibitor
+792,pentobarbital,Gamma-aminobutyric acid receptor subunit alpha-1 potentiator
+793,pentobarbital,Gamma-aminobutyric acid receptor subunit alpha-1 antagonist
+811,pentobarbital,Neuronal acetylcholine receptor subunit alpha-4 antagonist
+814,pentobarbital,Neuronal acetylcholine receptor subunit alpha-7 antagonist
+823,pentobarbital,GABA(A) Receptor antagonist
+831,zolmitriptan,5-hydroxytryptamine receptor 1B agonist
+832,zolmitriptan,5-hydroxytryptamine receptor 1D agonist
+833,zolmitriptan,5-hydroxytryptamine receptor 1F agonist
+835,zolmitriptan,5-hydroxytryptamine receptor 7 agonist
+836,zolmitriptan,5-hydroxytryptamine receptor 1A agonist
+837,zolmitriptan,5-hydroxytryptamine receptor 2A agonist
+838,zolmitriptan,5-hydroxytryptamine receptor 2B agonist
+841,acetaminophen,Prostaglandin G/H synthase 2 inhibitor
+843,acetaminophen,Prostaglandin G/H synthase 1 inhibitor
+848,codeine,Mu-type opioid receptor agonist
+849,codeine,Kappa-type opioid receptor agonist
+850,codeine,Delta-type opioid receptor agonist
+851,dihydroergotamine,5-hydroxytryptamine receptor 1B agonist
+852,dihydroergotamine,5-hydroxytryptamine receptor 1D agonist
+853,dihydroergotamine,5-hydroxytryptamine receptor 1F agonist
+854,dihydroergotamine,Alpha-2A adrenergic receptor agonist
+855,dihydroergotamine,5-hydroxytryptamine receptor 1A agonist
+857,dihydroergotamine,5-hydroxytryptamine receptor 2A agonist
+858,dihydroergotamine,5-hydroxytryptamine receptor 2B agonist
+859,dihydroergotamine,5-hydroxytryptamine receptor 2C agonist
+860,dihydroergotamine,Alpha-1 adrenergic receptors agonist
+861,dihydroergotamine,Alpha-2 adrenergic receptors agonist
+862,dihydroergotamine,Dopamine D2 receptor agonist
+863,dihydroergotamine,Dopamine D3 receptor agonist
+864,dihydroergotamine,Dopamine D4 receptor agonist
+866,dihydroergotamine,Beta-3 adrenergic receptor agonist
+867,amitriptyline,Sodium-dependent noradrenaline transporter inhibitor
+868,amitriptyline,Sodium-dependent noradrenaline transporter antagonist
+870,amitriptyline,Sodium-dependent noradrenaline transporter agonist
+872,amitriptyline,Sodium-dependent noradrenaline transporter binder
+874,amitriptyline,Sodium-dependent serotonin transporter inhibitor
+875,amitriptyline,Sodium-dependent serotonin transporter antagonist
+877,amitriptyline,Sodium-dependent serotonin transporter agonist
+879,amitriptyline,Sodium-dependent serotonin transporter binder
+881,amitriptyline,5-hydroxytryptamine receptor 2A inhibitor
+882,amitriptyline,5-hydroxytryptamine receptor 2A antagonist
+884,amitriptyline,5-hydroxytryptamine receptor 2A agonist
+886,amitriptyline,5-hydroxytryptamine receptor 2A binder
+888,amitriptyline,5-hydroxytryptamine receptor 1A inhibitor
+889,amitriptyline,5-hydroxytryptamine receptor 1A antagonist
+891,amitriptyline,5-hydroxytryptamine receptor 1A agonist
+893,amitriptyline,5-hydroxytryptamine receptor 1A binder
+896,amitriptyline,Delta-type opioid receptor antagonist
+898,amitriptyline,Delta-type opioid receptor agonist
+902,amitriptyline,Kappa-type opioid receptor inhibitor
+903,amitriptyline,Kappa-type opioid receptor antagonist
+905,amitriptyline,Kappa-type opioid receptor agonist
+907,amitriptyline,Kappa-type opioid receptor binder
+923,amitriptyline,Alpha-1A adrenergic receptor inhibitor
+924,amitriptyline,Alpha-1A adrenergic receptor antagonist
+926,amitriptyline,Alpha-1A adrenergic receptor agonist
+928,amitriptyline,Alpha-1A adrenergic receptor binder
+930,amitriptyline,Alpha-1D adrenergic receptor inhibitor
+931,amitriptyline,Alpha-1D adrenergic receptor antagonist
+933,amitriptyline,Alpha-1D adrenergic receptor agonist
+935,amitriptyline,Alpha-1D adrenergic receptor binder
+937,amitriptyline,Alpha-2A adrenergic receptor inhibitor
+938,amitriptyline,Alpha-2A adrenergic receptor antagonist
+940,amitriptyline,Alpha-2A adrenergic receptor agonist
+942,amitriptyline,Alpha-2A adrenergic receptor binder
+944,amitriptyline,Histamine H1 receptor inhibitor
+945,amitriptyline,Histamine H1 receptor antagonist
+947,amitriptyline,Histamine H1 receptor agonist
+949,amitriptyline,Histamine H1 receptor binder
+966,amitriptyline,Histamine H2 receptor antagonist
+973,amitriptyline,Histamine H4 receptor antagonist
+977,amitriptyline,Histamine H4 receptor binder
+986,amitriptyline,5-hydroxytryptamine receptor 2C inhibitor
+987,amitriptyline,5-hydroxytryptamine receptor 2C antagonist
+989,amitriptyline,5-hydroxytryptamine receptor 2C agonist
+991,amitriptyline,5-hydroxytryptamine receptor 2C binder
+993,amitriptyline,Alpha-1B adrenergic receptor inhibitor
+994,amitriptyline,Alpha-1B adrenergic receptor antagonist
+996,amitriptyline,Alpha-1B adrenergic receptor agonist
+998,amitriptyline,Alpha-1B adrenergic receptor binder
+1000,amitriptyline,5-hydroxytryptamine receptor 7 inhibitor
+1001,amitriptyline,5-hydroxytryptamine receptor 7 antagonist
+1003,amitriptyline,5-hydroxytryptamine receptor 7 agonist
+1005,amitriptyline,5-hydroxytryptamine receptor 7 binder
+1008,amitriptyline,5-hydroxytryptamine receptor 1D antagonist
+1010,amitriptyline,5-hydroxytryptamine receptor 1D agonist
+1014,amitriptyline,Mu-type opioid receptor inhibitor
+1015,amitriptyline,Mu-type opioid receptor antagonist
+1017,amitriptyline,Mu-type opioid receptor agonist
+1022,amitriptyline,5-hydroxytryptamine receptor 1B antagonist
+1024,amitriptyline,5-hydroxytryptamine receptor 1B agonist
+1028,amitriptyline,5-hydroxytryptamine receptor 6 inhibitor
+1029,amitriptyline,5-hydroxytryptamine receptor 6 antagonist
+1033,amitriptyline,5-hydroxytryptamine receptor 6 binder
+1049,amitriptyline,Muscarinic acetylcholine receptor inhibitor
+1050,amitriptyline,Muscarinic acetylcholine receptor antagonist
+1054,amitriptyline,Muscarinic acetylcholine receptor binder
+1065,hydromorphone,Mu-type opioid receptor agonist
+1067,hydromorphone,Delta-type opioid receptor agonist
+1069,hydromorphone,Kappa-type opioid receptor agonist
+1070,hydromorphone,Kappa-type opioid receptor partial agonist
+1071,indomethacin,Prostaglandin G/H synthase 1 inhibitor
+1076,indomethacin,Prostaglandin G/H synthase 2 inhibitor
+1091,indomethacin,Peroxisome proliferator-activated receptor gamma inhibitor
+1094,indomethacin,Peroxisome proliferator-activated receptor gamma agonist
+1106,indomethacin,Peroxisome proliferator-activated receptor alpha inhibitor
+1109,indomethacin,Peroxisome proliferator-activated receptor alpha agonist
+1133,ipratropium,Muscarinic acetylcholine receptor M1 antagonist
+1134,ipratropium,Muscarinic acetylcholine receptor M2 antagonist
+1135,ipratropium,Muscarinic acetylcholine receptor M3 antagonist
+1136,methadone,Mu-type opioid receptor agonist
+1137,methadone,Mu-type opioid receptor antagonist
+1140,methadone,Delta-type opioid receptor agonist
+1141,methadone,Delta-type opioid receptor antagonist
+1142,methadone,5-hydroxytryptamine receptor 3A agonist
+1143,methadone,5-hydroxytryptamine receptor 3A antagonist
+1145,methadone,Neuronal acetylcholine receptor subunit alpha-7 antagonist
+1148,methadone,Neuronal acetylcholine receptor subunit alpha-4 agonist
+1149,methadone,Neuronal acetylcholine receptor subunit alpha-4 antagonist
+1152,olanzapine,5-hydroxytryptamine receptor 2A antagonist
+1153,olanzapine,5-hydroxytryptamine receptor 2A inhibitor
+1154,olanzapine,Dopamine D2 receptor antagonist
+1155,olanzapine,Dopamine D2 receptor inhibitor
+1156,olanzapine,Dopamine D1 receptor antagonist
+1157,olanzapine,Dopamine D1 receptor inhibitor
+1158,olanzapine,Dopamine D5 receptor antagonist
+1160,olanzapine,Dopamine D3 receptor antagonist
+1161,olanzapine,Dopamine D3 receptor inhibitor
+1162,olanzapine,Dopamine D4 receptor antagonist
+1164,olanzapine,5-hydroxytryptamine receptor 2C antagonist
+1165,olanzapine,5-hydroxytryptamine receptor 2C inhibitor
+1166,olanzapine,5-hydroxytryptamine receptor 3A antagonist
+1167,olanzapine,5-hydroxytryptamine receptor 3A inhibitor
+1168,olanzapine,5-hydroxytryptamine receptor 6 antagonist
+1169,olanzapine,5-hydroxytryptamine receptor 6 inhibitor
+1170,olanzapine,Histamine H1 receptor antagonist
+1171,olanzapine,Histamine H1 receptor inhibitor
+1172,olanzapine,Alpha-1A adrenergic receptor antagonist
+1173,olanzapine,Alpha-1A adrenergic receptor inhibitor
+1174,olanzapine,Alpha-1B adrenergic receptor antagonist
+1175,olanzapine,Alpha-1B adrenergic receptor inhibitor
+1176,olanzapine,Muscarinic acetylcholine receptor M1 antagonist
+1177,olanzapine,Muscarinic acetylcholine receptor M1 inhibitor
+1178,olanzapine,Muscarinic acetylcholine receptor M2 antagonist
+1179,olanzapine,Muscarinic acetylcholine receptor M2 inhibitor
+1180,olanzapine,Muscarinic acetylcholine receptor M3 antagonist
+1181,olanzapine,Muscarinic acetylcholine receptor M3 inhibitor
+1182,olanzapine,Muscarinic acetylcholine receptor M4 antagonist
+1183,olanzapine,Muscarinic acetylcholine receptor M4 inhibitor
+1184,olanzapine,D(1) dopamine receptor antagonist
+1185,olanzapine,D(1) dopamine receptor inhibitor
+1187,olanzapine,Beta adrenergic receptor inhibitor
+1192,atenolol,Beta-1 adrenergic receptor antagonist
+1193,atenolol,Beta-2 adrenergic receptor antagonist
+1198,cetirizine,Histamine H1 receptor antagonist
+1199,protriptyline,Sodium-dependent noradrenaline transporter inhibitor
+1200,protriptyline,Sodium-dependent serotonin transporter inhibitor
+1201,alfuzosin,Alpha-1A adrenergic receptor antagonist
+1202,alfuzosin,Alpha-1B adrenergic receptor antagonist
+1203,alfuzosin,Alpha-1D adrenergic receptor antagonist
+1204,alfuzosin,Alpha-1 adrenergic receptors antagonist
+1208,methylergometrine,Dopamine D1 receptor antagonist
+1209,methylergometrine,5-hydroxytryptamine receptor 2B antagonist
+1222,clozapine,Dopamine D2 receptor antagonist
+1223,clozapine,5-hydroxytryptamine receptor 2A antagonist
+1224,clozapine,Dopamine D1 receptor antagonist
+1225,clozapine,Dopamine D3 receptor antagonist
+1226,clozapine,Dopamine D4 receptor antagonist
+1227,clozapine,5-hydroxytryptamine receptor 1A antagonist
+1228,clozapine,5-hydroxytryptamine receptor 1B antagonist
+1229,clozapine,5-hydroxytryptamine receptor 1D antagonist
+1230,clozapine,5-hydroxytryptamine receptor 1E antagonist
+1231,clozapine,5-hydroxytryptamine receptor 3A antagonist
+1232,clozapine,5-hydroxytryptamine receptor 2C antagonist
+1233,clozapine,5-hydroxytryptamine receptor 6 antagonist
+1234,clozapine,5-hydroxytryptamine receptor 7 antagonist
+1235,clozapine,Histamine H1 receptor antagonist
+1236,clozapine,Histamine H4 receptor antagonist
+1237,clozapine,Alpha-1A adrenergic receptor antagonist
+1238,clozapine,Alpha-1B adrenergic receptor antagonist
+1239,clozapine,Alpha-2A adrenergic receptor antagonist
+1240,clozapine,Alpha-2B adrenergic receptor antagonist
+1241,clozapine,Alpha-2C adrenergic receptor antagonist
+1242,clozapine,Muscarinic acetylcholine receptor M1 antagonist
+1243,clozapine,Muscarinic acetylcholine receptor M2 antagonist
+1244,clozapine,Muscarinic acetylcholine receptor M3 antagonist
+1245,clozapine,Muscarinic acetylcholine receptor M4 antagonist
+1246,clozapine,Muscarinic acetylcholine receptor M5 antagonist
+1255,levonorgestrel,Estrogen receptor alpha inhibitor
+1258,levonorgestrel,Androgen receptor inhibitor
+1267,norepinephrine,Alpha-1A adrenergic receptor agonist
+1268,norepinephrine,Alpha-1A adrenergic receptor inhibitor
+1269,norepinephrine,Alpha-1A adrenergic receptor binder
+1270,norepinephrine,Alpha-1B adrenergic receptor agonist
+1271,norepinephrine,Alpha-1B adrenergic receptor inhibitor
+1272,norepinephrine,Alpha-1B adrenergic receptor binder
+1273,norepinephrine,Alpha-1D adrenergic receptor agonist
+1274,norepinephrine,Alpha-1D adrenergic receptor inhibitor
+1275,norepinephrine,Alpha-1D adrenergic receptor binder
+1276,norepinephrine,Alpha-2A adrenergic receptor agonist
+1277,norepinephrine,Alpha-2A adrenergic receptor inhibitor
+1278,norepinephrine,Alpha-2A adrenergic receptor binder
+1279,norepinephrine,Alpha-2B adrenergic receptor agonist
+1280,norepinephrine,Alpha-2B adrenergic receptor inhibitor
+1281,norepinephrine,Alpha-2B adrenergic receptor binder
+1282,norepinephrine,Alpha-2C adrenergic receptor agonist
+1283,norepinephrine,Alpha-2C adrenergic receptor inhibitor
+1285,norepinephrine,Beta-1 adrenergic receptor agonist
+1286,norepinephrine,Beta-1 adrenergic receptor inhibitor
+1288,norepinephrine,Beta-2 adrenergic receptor agonist
+1289,norepinephrine,Beta-2 adrenergic receptor inhibitor
+1291,norepinephrine,Beta-3 adrenergic receptor agonist
+1298,norepinephrine,Synaptic vesicular amine transporter inhibitor
+1303,cidofovir,DNA polymerase catalytic subunit inhibitor
+1304,mirtazapine,5-hydroxytryptamine receptor 2A antagonist
+1305,mirtazapine,5-hydroxytryptamine receptor 2A agonist
+1308,mirtazapine,Alpha-2A adrenergic receptor antagonist
+1309,mirtazapine,Alpha-2A adrenergic receptor agonist
+1310,mirtazapine,5-hydroxytryptamine receptor 2C antagonist
+1311,mirtazapine,5-hydroxytryptamine receptor 2C agonist
+1312,mirtazapine,Kappa-type opioid receptor antagonist
+1313,mirtazapine,Kappa-type opioid receptor agonist
+1314,mirtazapine,Histamine H1 receptor antagonist
+1315,mirtazapine,Histamine H1 receptor agonist
+1316,mirtazapine,Alpha-1 adrenergic receptors antagonist
+1317,mirtazapine,Alpha-1 adrenergic receptors agonist
+1318,meprobamate,Gamma-aminobutyric acid receptor subunit alpha-1 agonist
+1324,meprobamate,GABA(A) Receptor agonist
+1325,timolol,Beta-1 adrenergic receptor antagonist
+1326,timolol,Beta-2 adrenergic receptor antagonist
+1332,trihexyphenidyl,Muscarinic acetylcholine receptor M1 antagonist
+1333,trihexyphenidyl,Muscarinic acetylcholine receptor M2 antagonist
+1334,trihexyphenidyl,Muscarinic acetylcholine receptor M3 antagonist
+1335,trihexyphenidyl,Muscarinic acetylcholine receptor M4 antagonist
+1336,trihexyphenidyl,Muscarinic acetylcholine receptor M5 antagonist
+1337,palonosetron,5-hydroxytryptamine receptor 3A antagonist
+1338,mexiletine,Sodium channel protein type 5 subunit alpha inhibitor
+1342,dexrazoxane,DNA topoisomerase 2-alpha inhibitor
+1344,amlodipine,Voltage-dependent L-type calcium channel subunit alpha-1C inhibitor
+1348,amlodipine,Carbonic anhydrase 1 inhibitor
+1352,phenylephrine,Alpha-1A adrenergic receptor agonist
+1353,phenylephrine,Alpha-1B adrenergic receptor agonist
+1354,phenylephrine,Alpha-1D adrenergic receptor agonist
+1356,nimodipine,Voltage-dependent L-type calcium channel subunit alpha-1C inhibitor
+1359,nimodipine,Voltage-dependent L-type calcium channel subunit alpha-1D inhibitor
+1365,nimodipine,Voltage-dependent L-type calcium channel subunit alpha-1S inhibitor
+1371,nimodipine,Voltage-dependent L-type calcium channel subunit beta-2 inhibitor
+1398,progesterone,Estrogen receptor alpha agonist
+1399,progesterone,Estrogen receptor alpha inhibitor
+1400,progesterone,Estrogen receptor alpha antagonist
+1419,progesterone,Kappa-type opioid receptor agonist
+1420,progesterone,Kappa-type opioid receptor inhibitor
+1421,progesterone,Kappa-type opioid receptor antagonist
+1424,progesterone,Kappa-type opioid receptor binder
+1425,progesterone,Kappa-type opioid receptor partial agonist
+1433,progesterone,Glucocorticoid receptor agonist
+1440,progesterone,Androgen receptor agonist
+1441,progesterone,Androgen receptor inhibitor
+1442,progesterone,Androgen receptor antagonist
+1454,progesterone,Estrogen receptor beta agonist
+1462,phenylpropanolamine,Dopamine D1 receptor agonist
+1463,phenylpropanolamine,Beta-1 adrenergic receptor partial agonist
+1464,phenylpropanolamine,Beta-1 adrenergic receptor agonist
+1465,phenylpropanolamine,Beta-2 adrenergic receptor partial agonist
+1466,phenylpropanolamine,Beta-2 adrenergic receptor agonist
+1468,phenylpropanolamine,Alpha-2 adrenergic receptors agonist
+1475,sorafenib,Vascular endothelial growth factor receptor 2 inhibitor
+1479,sorafenib,Platelet-derived growth factor receptor beta inhibitor
+1481,sorafenib,Mast/stem cell growth factor receptor Kit inhibitor
+1489,nisoldipine,Voltage-dependent L-type calcium channel subunit alpha-1C inhibitor
+1490,nisoldipine,Voltage-dependent calcium channel subunit alpha-2/delta-1 inhibitor
+1491,nisoldipine,Voltage-dependent L-type calcium channel subunit beta-2 inhibitor
+1492,nisoldipine,Voltage-dependent L-type calcium channel subunit alpha-1D inhibitor
+1493,nisoldipine,Voltage-dependent L-type calcium channel subunit alpha-1S inhibitor
+1494,alprazolam,GABA(A) Receptor ligand
+1495,alprazolam,GABA(A) Receptor Benzodiazepine Binding Site ligand
+1496,loxapine,Dopamine D2 receptor antagonist
+1497,loxapine,Dopamine D2 receptor binder
+1498,loxapine,Dopamine D1 receptor antagonist
+1500,loxapine,5-hydroxytryptamine receptor 2A antagonist
+1501,loxapine,5-hydroxytryptamine receptor 2A binder
+1502,loxapine,5-hydroxytryptamine receptor 2C antagonist
+1503,loxapine,5-hydroxytryptamine receptor 2C binder
+1504,loxapine,5-hydroxytryptamine receptor 1A antagonist
+1505,loxapine,5-hydroxytryptamine receptor 1A binder
+1506,loxapine,5-hydroxytryptamine receptor 1B antagonist
+1508,loxapine,5-hydroxytryptamine receptor 1D antagonist
+1510,loxapine,5-hydroxytryptamine receptor 1E antagonist
+1512,loxapine,5-hydroxytryptamine receptor 3A antagonist
+1513,loxapine,5-hydroxytryptamine receptor 3A binder
+1516,loxapine,5-hydroxytryptamine receptor 6 antagonist
+1517,loxapine,5-hydroxytryptamine receptor 6 binder
+1518,loxapine,5-hydroxytryptamine receptor 7 antagonist
+1519,loxapine,5-hydroxytryptamine receptor 7 binder
+1520,loxapine,Alpha-1A adrenergic receptor antagonist
+1521,loxapine,Alpha-1A adrenergic receptor binder
+1522,loxapine,Alpha-1B adrenergic receptor antagonist
+1523,loxapine,Alpha-1B adrenergic receptor binder
+1524,loxapine,Alpha-2A adrenergic receptor antagonist
+1525,loxapine,Alpha-2A adrenergic receptor binder
+1526,loxapine,Alpha-2B adrenergic receptor antagonist
+1527,loxapine,Alpha-2B adrenergic receptor binder
+1528,loxapine,Alpha-2C adrenergic receptor antagonist
+1530,loxapine,Beta-1 adrenergic receptor antagonist
+1532,loxapine,Muscarinic acetylcholine receptor M1 antagonist
+1533,loxapine,Muscarinic acetylcholine receptor M1 binder
+1534,loxapine,Muscarinic acetylcholine receptor M2 antagonist
+1536,loxapine,Muscarinic acetylcholine receptor M3 antagonist
+1537,loxapine,Muscarinic acetylcholine receptor M3 binder
+1538,loxapine,Muscarinic acetylcholine receptor M4 antagonist
+1540,loxapine,Muscarinic acetylcholine receptor M5 antagonist
+1542,loxapine,D(1) dopamine receptor antagonist
+1543,loxapine,D(1) dopamine receptor binder
+1544,loxapine,Dopamine D3 receptor antagonist
+1545,loxapine,Dopamine D3 receptor binder
+1546,loxapine,Dopamine D4 receptor antagonist
+1548,loxapine,Dopamine D5 receptor antagonist
+1550,loxapine,Histamine H1 receptor antagonist
+1551,loxapine,Histamine H1 receptor binder
+1552,loxapine,Histamine H2 receptor antagonist
+1554,loxapine,Histamine H4 receptor antagonist
+1555,loxapine,Histamine H4 receptor binder
+1556,loxapine,Sodium-dependent serotonin transporter antagonist
+1557,loxapine,Sodium-dependent serotonin transporter binder
+1558,loxapine,Sodium-dependent noradrenaline transporter antagonist
+1559,loxapine,Sodium-dependent noradrenaline transporter binder
+1560,loxapine,Sodium-dependent dopamine transporter antagonist
+1561,loxapine,Sodium-dependent dopamine transporter binder
+1562,rosiglitazone,Peroxisome proliferator-activated receptor gamma agonist
+1563,rosiglitazone,Peroxisome proliferator-activated receptor gamma inhibitor
+1566,rosiglitazone,Peroxisome proliferator-activated receptor alpha agonist
+1567,rosiglitazone,Peroxisome proliferator-activated receptor alpha inhibitor
+1576,pramipexole,Dopamine D3 receptor agonist
+1577,pramipexole,Dopamine D2 receptor agonist
+1578,pramipexole,Dopamine D4 receptor agonist
+1579,pramipexole,5-hydroxytryptamine receptor 1A agonist
+1580,pramipexole,Alpha-2A adrenergic receptor agonist
+1581,secobarbital,Gamma-aminobutyric acid receptor subunit alpha-1 potentiator
+1582,secobarbital,Gamma-aminobutyric acid receptor subunit alpha-1 antagonist
+1594,secobarbital,Neuronal acetylcholine receptor subunit alpha-4 antagonist
+1596,secobarbital,Neuronal acetylcholine receptor subunit alpha-7 antagonist
+1603,methylphenidate,Sodium-dependent dopamine transporter inhibitor
+1604,methylphenidate,Sodium-dependent noradrenaline transporter inhibitor
+1605,methylphenidate,5-hydroxytryptamine receptor 1A inhibitor
+1606,methocarbamol,Carbonic anhydrase 1 inhibitor
+1607,zolpidem,Gamma-aminobutyric acid receptor subunit alpha-1 agonist
+1611,famciclovir,DNA polymerase catalytic subunit inhibitor
+1612,prochlorperazine,Dopamine D2 receptor antagonist
+1613,prochlorperazine,Histamine H1 receptor antagonist
+1614,prochlorperazine,Alpha-1 adrenergic receptors antagonist
+1615,prochlorperazine,Alpha-2 adrenergic receptors antagonist
+1616,cyproheptadine,Histamine H1 receptor antagonist
+1617,cyproheptadine,Histamine H2 receptor antagonist
+1618,cyproheptadine,5-hydroxytryptamine receptor 2A antagonist
+1619,cyproheptadine,5-hydroxytryptamine receptor 2B antagonist
+1620,cyproheptadine,5-hydroxytryptamine receptor 2C antagonist
+1621,cyproheptadine,Muscarinic acetylcholine receptor M1 antagonist
+1622,cyproheptadine,Muscarinic acetylcholine receptor M2 antagonist
+1623,cyproheptadine,Muscarinic acetylcholine receptor M3 antagonist
+1624,cyproheptadine,5-hydroxytryptamine receptor 7 antagonist
+1630,gemcitabine,DNA inhibitor
+1632,gemcitabine,Thymidylate synthase inhibitor
+1634,teniposide,DNA topoisomerase 2-alpha inhibitor
+1637,dipivefrin,Alpha-1A adrenergic receptor agonist
+1638,dipivefrin,Alpha-1A adrenergic receptor inhibitor
+1639,dipivefrin,Alpha-2A adrenergic receptor agonist
+1640,dipivefrin,Alpha-2A adrenergic receptor inhibitor
+1641,dipivefrin,Beta-2 adrenergic receptor agonist
+1642,dipivefrin,Beta-2 adrenergic receptor inhibitor
+1644,dipivefrin,Cholinesterase inhibitor
+1646,dipivefrin,Acetylcholinesterase inhibitor
+1647,droperidol,Dopamine D2 receptor antagonist
+1648,droperidol,Alpha-1A adrenergic receptor antagonist
+1649,meperidine,Kappa-type opioid receptor antagonist
+1650,meperidine,Kappa-type opioid receptor binder
+1651,meperidine,Kappa-type opioid receptor agonist
+1652,meperidine,Kappa-type opioid receptor inhibitor
+1673,meperidine,Muscarinic acetylcholine receptor antagonist
+1674,meperidine,Muscarinic acetylcholine receptor binder
+1676,meperidine,Muscarinic acetylcholine receptor inhibitor
+1677,meperidine,Mu-type opioid receptor antagonist
+1679,meperidine,Mu-type opioid receptor agonist
+1680,meperidine,Mu-type opioid receptor inhibitor
+1681,meperidine,Sodium-dependent dopamine transporter antagonist
+1682,meperidine,Sodium-dependent dopamine transporter binder
+1683,meperidine,Sodium-dependent dopamine transporter agonist
+1684,meperidine,Sodium-dependent dopamine transporter inhibitor
+1685,meperidine,Sodium-dependent noradrenaline transporter antagonist
+1686,meperidine,Sodium-dependent noradrenaline transporter binder
+1687,meperidine,Sodium-dependent noradrenaline transporter agonist
+1688,meperidine,Sodium-dependent noradrenaline transporter inhibitor
+1689,meperidine,Sodium-dependent serotonin transporter antagonist
+1690,meperidine,Sodium-dependent serotonin transporter binder
+1691,meperidine,Sodium-dependent serotonin transporter agonist
+1692,meperidine,Sodium-dependent serotonin transporter inhibitor
+1697,loratadine,Histamine H1 receptor antagonist
+1698,loratadine,Potassium voltage-gated channel subfamily H member 2 antagonist
+1699,prazosin,Alpha-1A adrenergic receptor antagonist
+1700,prazosin,Alpha-1A adrenergic receptor inhibitor
+1701,prazosin,Alpha-1A adrenergic receptor binder
+1702,prazosin,Alpha-1B adrenergic receptor antagonist
+1703,prazosin,Alpha-1B adrenergic receptor inhibitor
+1704,prazosin,Alpha-1B adrenergic receptor binder
+1705,prazosin,Alpha-1D adrenergic receptor antagonist
+1706,prazosin,Alpha-1D adrenergic receptor inhibitor
+1707,prazosin,Alpha-1D adrenergic receptor binder
+1708,prazosin,Potassium voltage-gated channel subfamily H member 2 antagonist
+1709,prazosin,Potassium voltage-gated channel subfamily H member 2 inhibitor
+1710,prazosin,Potassium voltage-gated channel subfamily H member 2 binder
+1711,prazosin,Alpha-2A adrenergic receptor antagonist
+1712,prazosin,Alpha-2A adrenergic receptor inhibitor
+1713,prazosin,Alpha-2A adrenergic receptor binder
+1714,prazosin,Alpha-2B adrenergic receptor antagonist
+1715,prazosin,Alpha-2B adrenergic receptor inhibitor
+1716,prazosin,Alpha-2B adrenergic receptor binder
+1717,prazosin,Alpha-1 adrenergic receptors antagonist
+1718,prazosin,Alpha-1 adrenergic receptors inhibitor
+1719,prazosin,Alpha-1 adrenergic receptors binder
+1720,imipramine,Sodium-dependent noradrenaline transporter inhibitor
+1721,imipramine,Sodium-dependent noradrenaline transporter antagonist
+1722,imipramine,Sodium-dependent noradrenaline transporter binder
+1724,imipramine,5-hydroxytryptamine receptor 2A inhibitor
+1725,imipramine,5-hydroxytryptamine receptor 2A antagonist
+1726,imipramine,5-hydroxytryptamine receptor 2A binder
+1728,imipramine,Sodium-dependent serotonin transporter inhibitor
+1729,imipramine,Sodium-dependent serotonin transporter antagonist
+1730,imipramine,Sodium-dependent serotonin transporter binder
+1732,imipramine,Histamine H1 receptor inhibitor
+1733,imipramine,Histamine H1 receptor antagonist
+1734,imipramine,Histamine H1 receptor binder
+1736,imipramine,Alpha-1A adrenergic receptor inhibitor
+1737,imipramine,Alpha-1A adrenergic receptor antagonist
+1738,imipramine,Alpha-1A adrenergic receptor binder
+1740,imipramine,Alpha-1D adrenergic receptor inhibitor
+1741,imipramine,Alpha-1D adrenergic receptor antagonist
+1742,imipramine,Alpha-1D adrenergic receptor binder
+1744,imipramine,Muscarinic acetylcholine receptor M1 inhibitor
+1745,imipramine,Muscarinic acetylcholine receptor M1 antagonist
+1746,imipramine,Muscarinic acetylcholine receptor M1 binder
+1748,imipramine,Muscarinic acetylcholine receptor M2 inhibitor
+1749,imipramine,Muscarinic acetylcholine receptor M2 antagonist
+1752,imipramine,Muscarinic acetylcholine receptor M3 inhibitor
+1753,imipramine,Muscarinic acetylcholine receptor M3 antagonist
+1754,imipramine,Muscarinic acetylcholine receptor M3 binder
+1756,imipramine,Muscarinic acetylcholine receptor M4 inhibitor
+1757,imipramine,Muscarinic acetylcholine receptor M4 antagonist
+1760,imipramine,Muscarinic acetylcholine receptor M5 inhibitor
+1761,imipramine,Muscarinic acetylcholine receptor M5 antagonist
+1772,imipramine,5-hydroxytryptamine receptor 2C inhibitor
+1773,imipramine,5-hydroxytryptamine receptor 2C antagonist
+1774,imipramine,5-hydroxytryptamine receptor 2C binder
+1776,imipramine,Alpha-1B adrenergic receptor inhibitor
+1777,imipramine,Alpha-1B adrenergic receptor antagonist
+1778,imipramine,Alpha-1B adrenergic receptor binder
+1780,imipramine,5-hydroxytryptamine receptor 7 inhibitor
+1781,imipramine,5-hydroxytryptamine receptor 7 antagonist
+1782,imipramine,5-hydroxytryptamine receptor 7 binder
+1784,imipramine,D(1) dopamine receptor inhibitor
+1785,imipramine,D(1) dopamine receptor antagonist
+1786,imipramine,D(1) dopamine receptor binder
+1788,imipramine,Dopamine D2 receptor inhibitor
+1789,imipramine,Dopamine D2 receptor antagonist
+1790,imipramine,Dopamine D2 receptor binder
+1792,imipramine,Potassium voltage-gated channel subfamily H member 2 inhibitor
+1793,imipramine,Potassium voltage-gated channel subfamily H member 2 antagonist
+1794,imipramine,Potassium voltage-gated channel subfamily H member 2 binder
+1796,imipramine,Sodium-dependent dopamine transporter inhibitor
+1797,imipramine,Sodium-dependent dopamine transporter antagonist
+1798,imipramine,Sodium-dependent dopamine transporter binder
+1800,imipramine,5-hydroxytryptamine receptor 1A inhibitor
+1801,imipramine,5-hydroxytryptamine receptor 1A antagonist
+1802,imipramine,5-hydroxytryptamine receptor 1A binder
+1804,imipramine,5-hydroxytryptamine receptor 6 inhibitor
+1805,imipramine,5-hydroxytryptamine receptor 6 antagonist
+1806,imipramine,5-hydroxytryptamine receptor 6 binder
+1824,nabumetone,Prostaglandin G/H synthase 2 inhibitor
+1825,nabumetone,Prostaglandin G/H synthase 1 inhibitor
+1826,ketorolac,Prostaglandin G/H synthase 2 inhibitor
+1827,ketorolac,Prostaglandin G/H synthase 1 inhibitor
+1828,tenoxicam,Prostaglandin G/H synthase 2 inhibitor
+1829,tenoxicam,Prostaglandin G/H synthase 1 inhibitor
+1834,fluoxetine,Sodium-dependent serotonin transporter inhibitor
+1835,fluoxetine,Sodium-dependent serotonin transporter antagonist
+1836,fluoxetine,5-hydroxytryptamine receptor 2C inhibitor
+1837,fluoxetine,5-hydroxytryptamine receptor 2C antagonist
+1839,fluoxetine,Neuronal acetylcholine receptor subunit alpha-2 antagonist
+1846,fluoxetine,Potassium voltage-gated channel subfamily H member 2 inhibitor
+1847,fluoxetine,Potassium voltage-gated channel subfamily H member 2 antagonist
+1848,methohexital,Gamma-aminobutyric acid receptor subunit alpha-1 antagonist
+1849,duloxetine,Sodium-dependent serotonin transporter inhibitor
+1850,duloxetine,Sodium-dependent noradrenaline transporter inhibitor
+1851,duloxetine,Sodium-dependent dopamine transporter inhibitor
+1852,chlorpromazine,Dopamine D2 receptor antagonist
+1853,chlorpromazine,Dopamine D2 receptor inhibitor
+1854,chlorpromazine,Dopamine D2 receptor binder
+1855,chlorpromazine,Dopamine D1 receptor antagonist
+1856,chlorpromazine,Dopamine D1 receptor inhibitor
+1858,chlorpromazine,5-hydroxytryptamine receptor 1A antagonist
+1859,chlorpromazine,5-hydroxytryptamine receptor 1A inhibitor
+1860,chlorpromazine,5-hydroxytryptamine receptor 1A binder
+1861,chlorpromazine,5-hydroxytryptamine receptor 2A antagonist
+1862,chlorpromazine,5-hydroxytryptamine receptor 2A inhibitor
+1863,chlorpromazine,5-hydroxytryptamine receptor 2A binder
+1864,chlorpromazine,Alpha-1A adrenergic receptor antagonist
+1865,chlorpromazine,Alpha-1A adrenergic receptor inhibitor
+1866,chlorpromazine,Alpha-1A adrenergic receptor binder
+1867,chlorpromazine,Alpha-1B adrenergic receptor antagonist
+1868,chlorpromazine,Alpha-1B adrenergic receptor inhibitor
+1869,chlorpromazine,Alpha-1B adrenergic receptor binder
+1870,chlorpromazine,Histamine H1 receptor antagonist
+1871,chlorpromazine,Histamine H1 receptor inhibitor
+1872,chlorpromazine,Histamine H1 receptor binder
+1873,chlorpromazine,Potassium voltage-gated channel subfamily H member 2 antagonist
+1874,chlorpromazine,Potassium voltage-gated channel subfamily H member 2 inhibitor
+1875,chlorpromazine,Potassium voltage-gated channel subfamily H member 2 binder
+1876,chlorpromazine,D(1) dopamine receptor antagonist
+1877,chlorpromazine,D(1) dopamine receptor inhibitor
+1878,chlorpromazine,D(1) dopamine receptor binder
+1879,chlorpromazine,Dopamine D3 receptor antagonist
+1880,chlorpromazine,Dopamine D3 receptor inhibitor
+1881,chlorpromazine,Dopamine D3 receptor binder
+1882,chlorpromazine,Dopamine D4 receptor antagonist
+1885,chlorpromazine,Dopamine D5 receptor antagonist
+1888,chlorpromazine,5-hydroxytryptamine receptor 2C antagonist
+1889,chlorpromazine,5-hydroxytryptamine receptor 2C inhibitor
+1890,chlorpromazine,5-hydroxytryptamine receptor 2C binder
+1894,chlorpromazine,Alpha-1 adrenergic receptors antagonist
+1895,chlorpromazine,Alpha-1 adrenergic receptors inhibitor
+1896,chlorpromazine,Alpha-1 adrenergic receptors binder
+1897,chlorpromazine,Alpha-2 adrenergic receptors antagonist
+1898,chlorpromazine,Alpha-2 adrenergic receptors inhibitor
+1899,chlorpromazine,Alpha-2 adrenergic receptors binder
+1900,chlorpromazine,Muscarinic acetylcholine receptor M1 antagonist
+1901,chlorpromazine,Muscarinic acetylcholine receptor M1 inhibitor
+1902,chlorpromazine,Muscarinic acetylcholine receptor M1 binder
+1903,chlorpromazine,Muscarinic acetylcholine receptor M3 antagonist
+1904,chlorpromazine,Muscarinic acetylcholine receptor M3 inhibitor
+1905,chlorpromazine,Muscarinic acetylcholine receptor M3 binder
+1909,chlorpromazine,Calmodulin antagonist
+1910,chlorpromazine,Calmodulin inhibitor
+1915,chlorpromazine,5-hydroxytryptamine receptor 6 antagonist
+1916,chlorpromazine,5-hydroxytryptamine receptor 6 inhibitor
+1917,chlorpromazine,5-hydroxytryptamine receptor 6 binder
+1918,chlorpromazine,5-hydroxytryptamine receptor 7 antagonist
+1919,chlorpromazine,5-hydroxytryptamine receptor 7 inhibitor
+1920,chlorpromazine,5-hydroxytryptamine receptor 7 binder
+1921,chlorpromazine,Histamine H4 receptor antagonist
+1923,chlorpromazine,Histamine H4 receptor binder
+1931,lenalidomide,Prostaglandin G/H synthase 2 inhibitor
+1933,raloxifene,Estrogen receptor alpha agonist
+1934,raloxifene,Estrogen receptor beta agonist
+1937,celecoxib,Prostaglandin G/H synthase 2 inhibitor
+1939,celecoxib,Carbonic anhydrase 2 inhibitor
+1940,celecoxib,Carbonic anhydrase 3 inhibitor
+1942,brimonidine,Alpha-2A adrenergic receptor agonist
+1943,brimonidine,Alpha-2B adrenergic receptor agonist
+1944,brimonidine,Alpha-2C adrenergic receptor agonist
+1947,sotalol,Potassium voltage-gated channel subfamily H member 2 inhibitor
+1948,sotalol,Potassium voltage-gated channel subfamily H member 2 antagonist
+1949,sotalol,Beta-1 adrenergic receptor inhibitor
+1950,sotalol,Beta-1 adrenergic receptor antagonist
+1951,sotalol,Beta-2 adrenergic receptor inhibitor
+1952,sotalol,Beta-2 adrenergic receptor antagonist
+1953,buspirone,5-hydroxytryptamine receptor 1A partial agonist
+1954,buspirone,5-hydroxytryptamine receptor 1A antagonist
+1956,buspirone,Dopamine D2 receptor antagonist
+1958,buspirone,Dopamine D3 receptor antagonist
+1960,buspirone,Dopamine D4 receptor antagonist
+1962,buspirone,Alpha-1 adrenergic receptors antagonist
+1963,fosinopril,Angiotensin-converting enzyme inhibitor
+1965,zidovudine,Reverse transcriptase/RNaseH inhibitor
+1967,darifenacin,Muscarinic acetylcholine receptor M3 antagonist
+1968,darifenacin,Muscarinic acetylcholine receptor M1 antagonist
+1969,darifenacin,Muscarinic acetylcholine receptor M2 antagonist
+1970,darifenacin,Muscarinic acetylcholine receptor M4 antagonist
+1971,darifenacin,Muscarinic acetylcholine receptor M5 antagonist
+1972,oxycodone,Mu-type opioid receptor agonist
+1973,oxycodone,Kappa-type opioid receptor agonist
+1974,oxycodone,Delta-type opioid receptor agonist
+1975,tolmetin,Prostaglandin G/H synthase 2 inhibitor
+1976,tolmetin,Prostaglandin G/H synthase 1 inhibitor
+1977,cimetidine,Histamine H2 receptor antagonist
+1978,haloperidol,Dopamine D2 receptor antagonist
+1979,haloperidol,Dopamine D2 receptor other/unknown
+1980,haloperidol,Dopamine D1 receptor antagonist
+1984,haloperidol,5-hydroxytryptamine receptor 2A antagonist
+1985,haloperidol,5-hydroxytryptamine receptor 2A other/unknown
+1986,haloperidol,Dopamine D3 receptor antagonist
+1992,haloperidol,5-hydroxytryptamine receptor 2C antagonist
+1996,haloperidol,Histamine H1 receptor antagonist
+1998,haloperidol,Muscarinic acetylcholine receptor M3 antagonist
+2000,haloperidol,Alpha-1A adrenergic receptor antagonist
+2002,haloperidol,Alpha-2A adrenergic receptor antagonist
+2004,haloperidol,Alpha-2B adrenergic receptor antagonist
+2006,haloperidol,Alpha-2C adrenergic receptor antagonist
+2008,haloperidol,5-hydroxytryptamine receptor 1A antagonist
+2009,haloperidol,5-hydroxytryptamine receptor 1A other/unknown
+2010,haloperidol,5-hydroxytryptamine receptor 6 antagonist
+2012,haloperidol,5-hydroxytryptamine receptor 7 antagonist
+2014,ritonavir,Human immunodeficiency virus type 1 protease inhibitor
+2016,ritonavir,Nuclear receptor subfamily 1 group I member 2 inhibitor
+2020,trandolapril,Angiotensin-converting enzyme inhibitor
+2021,carteolol,Beta-2 adrenergic receptor antagonist
+2022,carteolol,Beta-2 adrenergic receptor partial agonist
+2023,carteolol,Beta-1 adrenergic receptor antagonist
+2024,carteolol,Beta-1 adrenergic receptor partial agonist
+2026,foscarnet,DNA polymerase catalytic subunit inhibitor
+2027,foscarnet,DNA polymerase catalytic subunit inhibitor
+2031,erlotinib,Nuclear receptor subfamily 1 group I member 2 agonist
+2032,rofecoxib,Prostaglandin G/H synthase 2 inhibitor
+2040,ciprofloxacin,DNA topoisomerase 4 subunit A inhibitor
+2041,ciprofloxacin,DNA gyrase subunit A inhibitor
+2042,ciprofloxacin,DNA topoisomerase 2-alpha inhibitor
+2043,ciprofloxacin,Potassium voltage-gated channel subfamily H member 2 inhibitor
+2044,ciprofloxacin,DNA gyrase subunit A inhibitor
+2045,ciprofloxacin,DNA topoisomerase 4 subunit A inhibitor
+2047,ciprofloxacin,DNA gyrase subunit A inhibitor
+2050,ciprofloxacin,DNA gyrase subunit A inhibitor
+2051,nortriptyline,Sodium-dependent noradrenaline transporter inhibitor
+2052,nortriptyline,Sodium-dependent noradrenaline transporter antagonist
+2053,nortriptyline,Sodium-dependent noradrenaline transporter binder
+2054,nortriptyline,Sodium-dependent serotonin transporter inhibitor
+2055,nortriptyline,Sodium-dependent serotonin transporter antagonist
+2056,nortriptyline,Sodium-dependent serotonin transporter binder
+2057,nortriptyline,5-hydroxytryptamine receptor 2A inhibitor
+2058,nortriptyline,5-hydroxytryptamine receptor 2A antagonist
+2059,nortriptyline,5-hydroxytryptamine receptor 2A binder
+2060,nortriptyline,5-hydroxytryptamine receptor 1A inhibitor
+2061,nortriptyline,5-hydroxytryptamine receptor 1A antagonist
+2062,nortriptyline,5-hydroxytryptamine receptor 1A binder
+2063,nortriptyline,Histamine H1 receptor inhibitor
+2064,nortriptyline,Histamine H1 receptor antagonist
+2065,nortriptyline,Histamine H1 receptor binder
+2066,nortriptyline,Alpha-1A adrenergic receptor inhibitor
+2067,nortriptyline,Alpha-1A adrenergic receptor antagonist
+2068,nortriptyline,Alpha-1A adrenergic receptor binder
+2069,nortriptyline,Alpha-1D adrenergic receptor inhibitor
+2070,nortriptyline,Alpha-1D adrenergic receptor antagonist
+2071,nortriptyline,Alpha-1D adrenergic receptor binder
+2072,nortriptyline,5-hydroxytryptamine receptor 2C inhibitor
+2073,nortriptyline,5-hydroxytryptamine receptor 2C antagonist
+2074,nortriptyline,5-hydroxytryptamine receptor 2C binder
+2075,nortriptyline,Alpha-1B adrenergic receptor inhibitor
+2076,nortriptyline,Alpha-1B adrenergic receptor antagonist
+2077,nortriptyline,Alpha-1B adrenergic receptor binder
+2078,nortriptyline,Alpha-2 adrenergic receptors inhibitor
+2079,nortriptyline,Alpha-2 adrenergic receptors antagonist
+2080,nortriptyline,Alpha-2 adrenergic receptors binder
+2081,nortriptyline,Beta adrenergic receptor inhibitor
+2084,nortriptyline,Dopamine D2 receptor inhibitor
+2085,nortriptyline,Dopamine D2 receptor antagonist
+2086,nortriptyline,Dopamine D2 receptor binder
+2093,nortriptyline,Muscarinic acetylcholine receptor inhibitor
+2094,nortriptyline,Muscarinic acetylcholine receptor antagonist
+2095,nortriptyline,Muscarinic acetylcholine receptor binder
+2098,benazepril,Angiotensin-converting enzyme inhibitor
+2099,amoxapine,Sodium-dependent noradrenaline transporter inhibitor
+2100,amoxapine,Sodium-dependent noradrenaline transporter antagonist
+2101,amoxapine,Sodium-dependent noradrenaline transporter binder
+2102,amoxapine,Sodium-dependent serotonin transporter inhibitor
+2103,amoxapine,Sodium-dependent serotonin transporter antagonist
+2104,amoxapine,Sodium-dependent serotonin transporter binder
+2105,amoxapine,Dopamine D2 receptor inhibitor
+2106,amoxapine,Dopamine D2 receptor antagonist
+2107,amoxapine,Dopamine D2 receptor binder
+2108,amoxapine,Dopamine D1 receptor inhibitor
+2109,amoxapine,Dopamine D1 receptor antagonist
+2111,amoxapine,Alpha-2A adrenergic receptor inhibitor
+2112,amoxapine,Alpha-2A adrenergic receptor antagonist
+2113,amoxapine,Alpha-2A adrenergic receptor binder
+2114,amoxapine,Alpha-1A adrenergic receptor inhibitor
+2115,amoxapine,Alpha-1A adrenergic receptor antagonist
+2116,amoxapine,Alpha-1A adrenergic receptor binder
+2117,amoxapine,Muscarinic acetylcholine receptor M1 inhibitor
+2118,amoxapine,Muscarinic acetylcholine receptor M1 antagonist
+2119,amoxapine,Muscarinic acetylcholine receptor M1 binder
+2121,amoxapine,Gamma-aminobutyric acid receptor subunit alpha-1 antagonist
+2123,amoxapine,5-hydroxytryptamine receptor 2A inhibitor
+2124,amoxapine,5-hydroxytryptamine receptor 2A antagonist
+2125,amoxapine,5-hydroxytryptamine receptor 2A binder
+2126,amoxapine,5-hydroxytryptamine receptor 2C inhibitor
+2127,amoxapine,5-hydroxytryptamine receptor 2C antagonist
+2128,amoxapine,5-hydroxytryptamine receptor 2C binder
+2129,amoxapine,5-hydroxytryptamine receptor 6 inhibitor
+2130,amoxapine,5-hydroxytryptamine receptor 6 antagonist
+2131,amoxapine,5-hydroxytryptamine receptor 6 binder
+2132,amoxapine,5-hydroxytryptamine receptor 7 inhibitor
+2133,amoxapine,5-hydroxytryptamine receptor 7 antagonist
+2134,amoxapine,5-hydroxytryptamine receptor 7 binder
+2135,amoxapine,Dopamine D3 receptor inhibitor
+2136,amoxapine,Dopamine D3 receptor antagonist
+2137,amoxapine,Dopamine D3 receptor binder
+2139,amoxapine,Dopamine D4 receptor antagonist
+2141,amoxapine,Histamine H1 receptor inhibitor
+2142,amoxapine,Histamine H1 receptor antagonist
+2143,amoxapine,Histamine H1 receptor binder
+2144,amoxapine,Alpha-1 adrenergic receptors inhibitor
+2145,amoxapine,Alpha-1 adrenergic receptors antagonist
+2146,amoxapine,Alpha-1 adrenergic receptors binder
+2147,amoxapine,Muscarinic acetylcholine receptor inhibitor
+2148,amoxapine,Muscarinic acetylcholine receptor antagonist
+2149,amoxapine,Muscarinic acetylcholine receptor binder
+2150,amoxapine,5-hydroxytryptamine receptor 2B inhibitor
+2151,amoxapine,5-hydroxytryptamine receptor 2B antagonist
+2152,amoxapine,5-hydroxytryptamine receptor 2B binder
+2153,amoxapine,5-hydroxytryptamine receptor 3A inhibitor
+2154,amoxapine,5-hydroxytryptamine receptor 3A antagonist
+2155,amoxapine,5-hydroxytryptamine receptor 3A binder
+2156,amoxapine,5-hydroxytryptamine receptor 1A inhibitor
+2157,amoxapine,5-hydroxytryptamine receptor 1A antagonist
+2158,amoxapine,5-hydroxytryptamine receptor 1A binder
+2160,amoxapine,5-hydroxytryptamine receptor 1B antagonist
+2162,amoxapine,Alpha-2 adrenergic receptors inhibitor
+2163,amoxapine,Alpha-2 adrenergic receptors antagonist
+2164,amoxapine,Alpha-2 adrenergic receptors binder
+2166,amoxapine,Histamine H4 receptor antagonist
+2167,amoxapine,Histamine H4 receptor binder
+2168,amoxapine,GABA(A) Receptor inhibitor
+2169,amoxapine,GABA(A) Receptor antagonist
+2171,amoxapine,Sodium-dependent dopamine transporter inhibitor
+2172,amoxapine,Sodium-dependent dopamine transporter antagonist
+2173,amoxapine,Sodium-dependent dopamine transporter binder
+2174,pyridostigmine,Acetylcholinesterase inhibitor
+2175,pyridostigmine,Cholinesterase inhibitor
+2177,piroxicam,Prostaglandin G/H synthase 2 inhibitor
+2178,piroxicam,Prostaglandin G/H synthase 1 inhibitor
+2187,lamotrigine,Adenosine receptor A1 inhibitor
+2189,lamotrigine,Adenosine receptor A1 antagonist
+2195,lamotrigine,Alpha-1A adrenergic receptor inhibitor
+2196,lamotrigine,Alpha-1A adrenergic receptor agonist
+2197,lamotrigine,Alpha-1A adrenergic receptor antagonist
+2199,lamotrigine,Alpha-2A adrenergic receptor inhibitor
+2200,lamotrigine,Alpha-2A adrenergic receptor agonist
+2201,lamotrigine,Alpha-2A adrenergic receptor antagonist
+2203,lamotrigine,Beta-1 adrenergic receptor inhibitor
+2204,lamotrigine,Beta-1 adrenergic receptor agonist
+2205,lamotrigine,Beta-1 adrenergic receptor antagonist
+2207,lamotrigine,D(1) dopamine receptor inhibitor
+2208,lamotrigine,D(1) dopamine receptor agonist
+2209,lamotrigine,D(1) dopamine receptor antagonist
+2211,lamotrigine,Dopamine D2 receptor inhibitor
+2212,lamotrigine,Dopamine D2 receptor agonist
+2213,lamotrigine,Dopamine D2 receptor antagonist
+2215,lamotrigine,GABA(A) Receptor inhibitor
+2216,lamotrigine,GABA(A) Receptor agonist
+2217,lamotrigine,GABA(A) Receptor antagonist
+2223,lamotrigine,Histamine H1 receptor inhibitor
+2224,lamotrigine,Histamine H1 receptor agonist
+2225,lamotrigine,Histamine H1 receptor antagonist
+2227,lamotrigine,Kappa-type opioid receptor inhibitor
+2228,lamotrigine,Kappa-type opioid receptor agonist
+2229,lamotrigine,Kappa-type opioid receptor antagonist
+2235,lamotrigine,5-hydroxytryptamine receptor 2A inhibitor
+2236,lamotrigine,5-hydroxytryptamine receptor 2A agonist
+2237,lamotrigine,5-hydroxytryptamine receptor 2A antagonist
+2239,lamotrigine,5-hydroxytryptamine receptor 3A inhibitor
+2240,lamotrigine,5-hydroxytryptamine receptor 3A agonist
+2241,lamotrigine,5-hydroxytryptamine receptor 3A antagonist
+2258,methotrexate,Thymidylate synthase inhibitor
+2262,carbamazepine,Neuronal acetylcholine receptor subunit alpha-4 inhibitor
+2264,carbamazepine,Nuclear receptor subfamily 1 group I member 2 inhibitor
+2266,cisatracurium,Neuronal acetylcholine receptor subunit alpha-2 antagonist
+2283,propranolol,Beta-1 adrenergic receptor antagonist
+2285,propranolol,Beta-2 adrenergic receptor antagonist
+2287,propranolol,Beta-3 adrenergic receptor antagonist
+2289,propranolol,5-hydroxytryptamine receptor 1A antagonist
+2290,propranolol,5-hydroxytryptamine receptor 1A other/unknown
+2291,propranolol,5-hydroxytryptamine receptor 1B antagonist
+2293,atropine,Muscarinic acetylcholine receptor M1 antagonist
+2294,atropine,Muscarinic acetylcholine receptor M2 antagonist
+2295,atropine,Muscarinic acetylcholine receptor M3 antagonist
+2296,atropine,Muscarinic acetylcholine receptor M4 antagonist
+2297,atropine,Muscarinic acetylcholine receptor M5 antagonist
+2299,atropine,Neuronal acetylcholine receptor subunit alpha-4 antagonist
+2301,fenoprofen,Prostaglandin G/H synthase 2 inhibitor
+2303,fenoprofen,Prostaglandin G/H synthase 1 inhibitor
+2305,fenoprofen,Peroxisome proliferator-activated receptor alpha inhibitor
+2307,fenoprofen,Peroxisome proliferator-activated receptor gamma inhibitor
+2309,clonidine,Alpha-2A adrenergic receptor agonist
+2310,clonidine,Alpha-2B adrenergic receptor agonist
+2311,clonidine,Alpha-2C adrenergic receptor agonist
+2312,clonidine,Alpha-1A adrenergic receptor agonist
+2313,clonidine,Alpha-1B adrenergic receptor agonist
+2314,clonidine,Alpha-1D adrenergic receptor agonist
+2315,valdecoxib,Prostaglandin G/H synthase 2 inhibitor
+2316,valdecoxib,Carbonic anhydrase 2 inhibitor
+2317,valdecoxib,Carbonic anhydrase 3 inhibitor
+2320,nizatidine,Histamine H2 receptor antagonist
+2321,diclofenac,Prostaglandin G/H synthase 2 inhibitor
+2322,diclofenac,Prostaglandin G/H synthase 1 inhibitor
+2323,lisuride,Dopamine D2 receptor agonist
+2324,lisuride,Dopamine D2 receptor antagonist
+2325,lisuride,Dopamine D2 receptor other/unknown
+2326,lisuride,Dopamine D3 receptor agonist
+2327,lisuride,Dopamine D3 receptor antagonist
+2329,lisuride,Dopamine D4 receptor agonist
+2330,lisuride,Dopamine D4 receptor antagonist
+2332,lisuride,Dopamine D1 receptor agonist
+2333,lisuride,Dopamine D1 receptor antagonist
+2335,lisuride,Dopamine D5 receptor agonist
+2336,lisuride,Dopamine D5 receptor antagonist
+2338,lisuride,5-hydroxytryptamine receptor 1A agonist
+2339,lisuride,5-hydroxytryptamine receptor 1A antagonist
+2340,lisuride,5-hydroxytryptamine receptor 1A other/unknown
+2341,lisuride,5-hydroxytryptamine receptor 1D agonist
+2342,lisuride,5-hydroxytryptamine receptor 1D antagonist
+2344,lisuride,5-hydroxytryptamine receptor 2B agonist
+2345,lisuride,5-hydroxytryptamine receptor 2B antagonist
+2347,lisuride,5-hydroxytryptamine receptor 2A agonist
+2348,lisuride,5-hydroxytryptamine receptor 2A antagonist
+2349,lisuride,5-hydroxytryptamine receptor 2A other/unknown
+2350,lisuride,5-hydroxytryptamine receptor 2C agonist
+2351,lisuride,5-hydroxytryptamine receptor 2C antagonist
+2353,lisuride,5-hydroxytryptamine receptor 1B agonist
+2354,lisuride,5-hydroxytryptamine receptor 1B antagonist
+2356,lisuride,Alpha-2A adrenergic receptor agonist
+2357,lisuride,Alpha-2A adrenergic receptor antagonist
+2359,lisuride,Alpha-2B adrenergic receptor agonist
+2360,lisuride,Alpha-2B adrenergic receptor antagonist
+2362,lisuride,Alpha-2C adrenergic receptor agonist
+2363,lisuride,Alpha-2C adrenergic receptor antagonist
+2365,lisuride,5-hydroxytryptamine receptor 7 agonist
+2366,lisuride,5-hydroxytryptamine receptor 7 antagonist
+2368,doxazosin,Alpha-1A adrenergic receptor antagonist
+2369,doxazosin,Alpha-1A adrenergic receptor inhibitor
+2370,doxazosin,Alpha-1D adrenergic receptor antagonist
+2371,doxazosin,Alpha-1D adrenergic receptor inhibitor
+2374,doxazosin,Alpha-1B adrenergic receptor antagonist
+2375,doxazosin,Alpha-1B adrenergic receptor inhibitor
+2388,labetalol,Beta-1 adrenergic receptor antagonist
+2389,labetalol,Beta-2 adrenergic receptor antagonist
+2390,labetalol,Alpha-1 adrenergic receptors antagonist
+2392,sulindac,Prostaglandin G/H synthase 2 inhibitor
+2394,sulindac,Prostaglandin G/H synthase 1 inhibitor
+2413,butorphanol,Kappa-type opioid receptor agonist
+2414,butorphanol,Kappa-type opioid receptor antagonist
+2415,butorphanol,Delta-type opioid receptor agonist
+2416,butorphanol,Delta-type opioid receptor antagonist
+2417,butorphanol,Mu-type opioid receptor agonist
+2418,butorphanol,Mu-type opioid receptor antagonist
+2419,bisoprolol,Beta-1 adrenergic receptor antagonist
+2420,bisoprolol,Beta-2 adrenergic receptor antagonist
+2425,imatinib,Mast/stem cell growth factor receptor Kit inhibitor
+2437,imatinib,Tyrosine-protein kinase ABL1 inhibitor
+2439,imatinib,Platelet-derived growth factor receptor beta inhibitor
+2441,triamcinolone,Glucocorticoid receptor agonist
+2442,nicardipine,Voltage-dependent L-type calcium channel subunit alpha-1C inhibitor
+2445,nicardipine,Voltage-dependent L-type calcium channel subunit beta-2 inhibitor
+2448,nicardipine,Voltage-dependent calcium channel subunit alpha-2/delta-1 inhibitor
+2451,nicardipine,Voltage-dependent L-type calcium channel subunit alpha-1D inhibitor
+2460,nicardipine,Alpha-1A adrenergic receptor inhibitor
+2461,nicardipine,Alpha-1A adrenergic receptor antagonist
+2463,nicardipine,Alpha-1B adrenergic receptor inhibitor
+2464,nicardipine,Alpha-1B adrenergic receptor antagonist
+2466,nicardipine,Alpha-1D adrenergic receptor inhibitor
+2467,nicardipine,Alpha-1D adrenergic receptor antagonist
+2469,nicardipine,Muscarinic acetylcholine receptor M1 inhibitor
+2470,nicardipine,Muscarinic acetylcholine receptor M1 antagonist
+2472,nicardipine,Muscarinic acetylcholine receptor M2 inhibitor
+2473,nicardipine,Muscarinic acetylcholine receptor M2 antagonist
+2475,nicardipine,Muscarinic acetylcholine receptor M3 inhibitor
+2476,nicardipine,Muscarinic acetylcholine receptor M3 antagonist
+2478,nicardipine,Muscarinic acetylcholine receptor M4 inhibitor
+2479,nicardipine,Muscarinic acetylcholine receptor M4 antagonist
+2481,nicardipine,Muscarinic acetylcholine receptor M5 inhibitor
+2482,nicardipine,Muscarinic acetylcholine receptor M5 antagonist
+2484,nicardipine,Calmodulin inhibitor
+2485,nicardipine,Calmodulin antagonist
+2487,fluphenazine,Dopamine D2 receptor antagonist
+2488,fluphenazine,Dopamine D2 receptor inhibitor
+2489,fluphenazine,Dopamine D1 receptor antagonist
+2490,fluphenazine,Dopamine D1 receptor inhibitor
+2491,fluphenazine,Calmodulin antagonist
+2492,fluphenazine,Calmodulin inhibitor
+2493,fluphenazine,Androgen receptor antagonist
+2494,fluphenazine,Androgen receptor inhibitor
+2495,fluphenazine,5-hydroxytryptamine receptor 2A antagonist
+2496,fluphenazine,5-hydroxytryptamine receptor 2A inhibitor
+2497,fluphenazine,5-hydroxytryptamine receptor 2C antagonist
+2498,fluphenazine,5-hydroxytryptamine receptor 2C inhibitor
+2499,testosterone,Androgen receptor agonist
+2500,testosterone,Androgen receptor inhibitor
+2502,testosterone,Estrogen receptor alpha agonist
+2503,testosterone,Estrogen receptor alpha inhibitor
+2508,efavirenz,Reverse transcriptase/RNaseH inhibitor
+2521,clofarabine,DNA inhibitor
+2523,dexmedetomidine,Alpha-2A adrenergic receptor agonist
+2524,prednisone,Glucocorticoid receptor agonist
+2529,pemetrexed,Thymidylate synthase inhibitor
+2542,dyphylline,Adenosine receptor A1 inhibitor
+2543,dyphylline,Adenosine receptor A1 antagonist
+2546,pentazocine,Mu-type opioid receptor antagonist
+2547,pentazocine,Mu-type opioid receptor agonist
+2548,pentazocine,Kappa-type opioid receptor antagonist
+2549,pentazocine,Kappa-type opioid receptor agonist
+2552,estrone,Estrogen receptor alpha agonist
+2553,estrone,Estrogen receptor beta agonist
+2554,estrone,Androgen receptor agonist
+2557,trazodone,5-hydroxytryptamine receptor 2A antagonist
+2558,trazodone,5-hydroxytryptamine receptor 2A agonist
+2559,trazodone,5-hydroxytryptamine receptor 2A inhibitor
+2561,trazodone,5-hydroxytryptamine receptor 2C antagonist
+2562,trazodone,5-hydroxytryptamine receptor 2C agonist
+2563,trazodone,5-hydroxytryptamine receptor 2C inhibitor
+2565,trazodone,Sodium-dependent serotonin transporter antagonist
+2566,trazodone,Sodium-dependent serotonin transporter agonist
+2567,trazodone,Sodium-dependent serotonin transporter inhibitor
+2569,trazodone,5-hydroxytryptamine receptor 1A antagonist
+2570,trazodone,5-hydroxytryptamine receptor 1A agonist
+2571,trazodone,5-hydroxytryptamine receptor 1A inhibitor
+2572,trazodone,5-hydroxytryptamine receptor 1A partial agonist
+2573,trazodone,Histamine H1 receptor antagonist
+2574,trazodone,Histamine H1 receptor agonist
+2575,trazodone,Histamine H1 receptor inhibitor
+2577,trazodone,Alpha-1A adrenergic receptor antagonist
+2578,trazodone,Alpha-1A adrenergic receptor agonist
+2579,trazodone,Alpha-1A adrenergic receptor inhibitor
+2581,trazodone,Alpha-2A adrenergic receptor antagonist
+2582,trazodone,Alpha-2A adrenergic receptor agonist
+2583,trazodone,Alpha-2A adrenergic receptor inhibitor
+2595,verapamil,Voltage-dependent L-type calcium channel subunit alpha-1C inhibitor
+2607,verapamil,Potassium voltage-gated channel subfamily H member 2 inhibitor
+2608,verapamil,Potassium voltage-gated channel subfamily H member 2 antagonist
+2609,verapamil,Sodium-dependent serotonin transporter inhibitor
+2610,verapamil,Sodium-dependent serotonin transporter antagonist
+2611,verapamil,Alpha-1A adrenergic receptor inhibitor
+2612,verapamil,Alpha-1A adrenergic receptor antagonist
+2613,verapamil,Alpha-1B adrenergic receptor inhibitor
+2614,verapamil,Alpha-1B adrenergic receptor antagonist
+2615,verapamil,Alpha-1D adrenergic receptor inhibitor
+2616,verapamil,Alpha-1D adrenergic receptor antagonist
+2617,nilutamide,Androgen receptor antagonist
+2620,epinephrine,Alpha-1A adrenergic receptor agonist
+2621,epinephrine,Alpha-1A adrenergic receptor antagonist
+2622,epinephrine,Alpha-1B adrenergic receptor agonist
+2623,epinephrine,Alpha-1B adrenergic receptor antagonist
+2624,epinephrine,Beta-1 adrenergic receptor agonist
+2625,epinephrine,Beta-1 adrenergic receptor antagonist
+2626,epinephrine,Beta-2 adrenergic receptor agonist
+2627,epinephrine,Beta-2 adrenergic receptor antagonist
+2628,epinephrine,Alpha-2A adrenergic receptor agonist
+2629,epinephrine,Alpha-2A adrenergic receptor antagonist
+2630,epinephrine,Alpha-2B adrenergic receptor agonist
+2631,epinephrine,Alpha-2B adrenergic receptor antagonist
+2632,epinephrine,Alpha-1D adrenergic receptor agonist
+2633,epinephrine,Alpha-1D adrenergic receptor antagonist
+2636,sumatriptan,5-hydroxytryptamine receptor 1D agonist
+2637,sumatriptan,5-hydroxytryptamine receptor 1B agonist
+2638,sumatriptan,5-hydroxytryptamine receptor 1F agonist
+2639,sumatriptan,5-hydroxytryptamine receptor 1A agonist
+2641,galantamine,Acetylcholinesterase inhibitor
+2644,galantamine,Cholinesterase inhibitor
+2645,tamoxifen,Estrogen receptor alpha antagonist
+2646,tamoxifen,Estrogen receptor alpha agonist
+2647,tamoxifen,Estrogen receptor alpha inhibitor
+2650,tamoxifen,Estrogen receptor beta agonist
+2661,tamoxifen,Androgen receptor antagonist
+2662,tamoxifen,Androgen receptor agonist
+2663,tamoxifen,Androgen receptor inhibitor
+2665,tamoxifen,Potassium voltage-gated channel subfamily H member 2 antagonist
+2667,tamoxifen,Potassium voltage-gated channel subfamily H member 2 inhibitor
+2670,tamoxifen,Nuclear receptor subfamily 1 group I member 2 agonist
+2671,tamoxifen,Nuclear receptor subfamily 1 group I member 2 inhibitor
+2685,losartan,Type-1 angiotensin II receptor antagonist
+2686,thioridazine,Dopamine D2 receptor antagonist
+2687,thioridazine,Dopamine D2 receptor inhibitor
+2688,thioridazine,Dopamine D1 receptor antagonist
+2689,thioridazine,Dopamine D1 receptor inhibitor
+2690,thioridazine,Alpha-1A adrenergic receptor antagonist
+2691,thioridazine,Alpha-1A adrenergic receptor inhibitor
+2692,thioridazine,Alpha-1B adrenergic receptor antagonist
+2693,thioridazine,Alpha-1B adrenergic receptor inhibitor
+2694,thioridazine,5-hydroxytryptamine receptor 2A antagonist
+2695,thioridazine,5-hydroxytryptamine receptor 2A inhibitor
+2696,thioridazine,Potassium voltage-gated channel subfamily H member 2 antagonist
+2697,thioridazine,Potassium voltage-gated channel subfamily H member 2 inhibitor
+2698,midazolam,GABA(A) Receptor ligand
+2699,midazolam,GABA(A) Receptor Benzodiazepine Binding Site ligand
+2700,trovafloxacin,DNA gyrase subunit A inhibitor
+2701,trovafloxacin,DNA topoisomerase 4 subunit A inhibitor
+2702,trovafloxacin,DNA topoisomerase 2-alpha inhibitor
+2704,fludrocortisone,Glucocorticoid receptor agonist
+2705,phentolamine,Alpha-2A adrenergic receptor antagonist
+2706,phentolamine,Alpha-1A adrenergic receptor antagonist
+2707,phentolamine,Alpha-1B adrenergic receptor antagonist
+2708,phentolamine,Alpha-1D adrenergic receptor antagonist
+2709,ergotamine,5-hydroxytryptamine receptor 1D agonist
+2711,ergotamine,5-hydroxytryptamine receptor 1B agonist
+2713,ergotamine,5-hydroxytryptamine receptor 2A agonist
+2715,ergotamine,Dopamine D2 receptor agonist
+2717,ergotamine,Alpha-1A adrenergic receptor agonist
+2719,ergotamine,Alpha-1B adrenergic receptor agonist
+2721,ergotamine,Alpha-1D adrenergic receptor agonist
+2723,ergotamine,Alpha-2A adrenergic receptor agonist
+2725,ergotamine,D(1) dopamine receptor agonist
+2727,ergotamine,5-hydroxytryptamine receptor 1A agonist
+2728,ergotamine,5-hydroxytryptamine receptor 1A partial agonist
+2729,ergotamine,5-hydroxytryptamine receptor 1F agonist
+2731,ergotamine,5-hydroxytryptamine receptor 2C agonist
+2733,ergotamine,5-hydroxytryptamine receptor 2B agonist
+2735,ergotamine,Alpha-2C adrenergic receptor agonist
+2737,tizanidine,Alpha-2 adrenergic receptors agonist
+2739,tizanidine,Alpha-1 adrenergic receptors agonist
+2747,amprenavir,Human immunodeficiency virus type 1 protease inhibitor
+2748,naltrexone,Delta-type opioid receptor antagonist
+2749,naltrexone,Mu-type opioid receptor antagonist
+2750,naltrexone,Kappa-type opioid receptor antagonist
+2752,delavirdine,Reverse transcriptase/RNaseH inhibitor
+2753,tamsulosin,Alpha-1A adrenergic receptor antagonist
+2754,tamsulosin,Alpha-1D adrenergic receptor antagonist
+2755,tamsulosin,Alpha-1B adrenergic receptor antagonist
+2756,sufentanil,Mu-type opioid receptor agonist
+2757,sufentanil,Delta-type opioid receptor agonist
+2758,sufentanil,Kappa-type opioid receptor agonist
+2759,lamivudine,Reverse transcriptase/RNaseH inhibitor
+2761,lamivudine,DNA inhibitor
+2771,flurbiprofen,Prostaglandin G/H synthase 1 inhibitor
+2772,flurbiprofen,Prostaglandin G/H synthase 2 inhibitor
+2773,apomorphine,Dopamine D4 receptor agonist
+2774,apomorphine,Dopamine D2 receptor agonist
+2775,apomorphine,Dopamine D3 receptor agonist
+2776,apomorphine,Dopamine D5 receptor agonist
+2777,apomorphine,Dopamine D1 receptor agonist
+2778,apomorphine,Alpha-2C adrenergic receptor agonist
+2779,apomorphine,Alpha-2B adrenergic receptor agonist
+2780,apomorphine,5-hydroxytryptamine receptor 1A agonist
+2781,apomorphine,5-hydroxytryptamine receptor 2A agonist
+2782,apomorphine,5-hydroxytryptamine receptor 2B agonist
+2783,apomorphine,5-hydroxytryptamine receptor 2C agonist
+2784,apomorphine,Alpha-2A adrenergic receptor agonist
+2785,apomorphine,5-hydroxytryptamine receptor 1D agonist
+2786,apomorphine,5-hydroxytryptamine receptor 1B agonist
+2787,paroxetine,Sodium-dependent serotonin transporter inhibitor
+2788,paroxetine,Sodium-dependent serotonin transporter agonist
+2789,paroxetine,Sodium-dependent serotonin transporter binder
+2791,paroxetine,Sodium-dependent noradrenaline transporter inhibitor
+2792,paroxetine,Sodium-dependent noradrenaline transporter agonist
+2793,paroxetine,Sodium-dependent noradrenaline transporter binder
+2795,paroxetine,5-hydroxytryptamine receptor 2A inhibitor
+2796,paroxetine,5-hydroxytryptamine receptor 2A agonist
+2797,paroxetine,5-hydroxytryptamine receptor 2A binder
+2798,paroxetine,5-hydroxytryptamine receptor 2A other/unknown
+2799,paroxetine,Alpha-1 adrenergic receptors inhibitor
+2800,paroxetine,Alpha-1 adrenergic receptors agonist
+2801,paroxetine,Alpha-1 adrenergic receptors binder
+2803,paroxetine,Alpha-2 adrenergic receptors inhibitor
+2804,paroxetine,Alpha-2 adrenergic receptors agonist
+2805,paroxetine,Alpha-2 adrenergic receptors binder
+2807,paroxetine,Beta adrenergic receptor inhibitor
+2811,paroxetine,Dopamine D2 receptor inhibitor
+2812,paroxetine,Dopamine D2 receptor agonist
+2813,paroxetine,Dopamine D2 receptor binder
+2814,paroxetine,Dopamine D2 receptor other/unknown
+2815,paroxetine,Histamine H1 receptor inhibitor
+2816,paroxetine,Histamine H1 receptor agonist
+2817,paroxetine,Histamine H1 receptor binder
+2823,paroxetine,Muscarinic acetylcholine receptor inhibitor
+2825,paroxetine,Muscarinic acetylcholine receptor binder
+2827,paroxetine,5-hydroxytryptamine receptor 2B inhibitor
+2828,paroxetine,5-hydroxytryptamine receptor 2B agonist
+2829,paroxetine,5-hydroxytryptamine receptor 2B binder
+2831,paroxetine,D(1) dopamine receptor inhibitor
+2832,paroxetine,D(1) dopamine receptor agonist
+2833,paroxetine,D(1) dopamine receptor binder
+2836,norethisterone,Androgen receptor agonist
+2837,norethisterone,Glucocorticoid receptor agonist
+2838,procaine,Sodium channel protein type 10 subunit alpha inhibitor
+2842,procaine,5-hydroxytryptamine receptor 3A inhibitor
+2843,procaine,5-hydroxytryptamine receptor 3A antagonist
+2844,procaine,Sodium-dependent dopamine transporter inhibitor
+2845,procaine,Sodium-dependent dopamine transporter antagonist
+2847,procaine,Neuronal acetylcholine receptor subunit alpha-2 antagonist
+2860,lisinopril,Angiotensin-converting enzyme inhibitor
+2864,trimipramine,Sodium-dependent serotonin transporter inhibitor
+2865,trimipramine,Sodium-dependent serotonin transporter agonist
+2866,trimipramine,Sodium-dependent serotonin transporter antagonist
+2868,trimipramine,Sodium-dependent serotonin transporter binder
+2869,trimipramine,Sodium-dependent noradrenaline transporter inhibitor
+2870,trimipramine,Sodium-dependent noradrenaline transporter agonist
+2871,trimipramine,Sodium-dependent noradrenaline transporter antagonist
+2873,trimipramine,Sodium-dependent noradrenaline transporter binder
+2874,trimipramine,Sodium-dependent dopamine transporter inhibitor
+2875,trimipramine,Sodium-dependent dopamine transporter agonist
+2876,trimipramine,Sodium-dependent dopamine transporter antagonist
+2878,trimipramine,Sodium-dependent dopamine transporter binder
+2879,trimipramine,5-hydroxytryptamine receptor 2A inhibitor
+2880,trimipramine,5-hydroxytryptamine receptor 2A agonist
+2881,trimipramine,5-hydroxytryptamine receptor 2A antagonist
+2882,trimipramine,5-hydroxytryptamine receptor 2A other/unknown
+2883,trimipramine,5-hydroxytryptamine receptor 2A binder
+2884,trimipramine,5-hydroxytryptamine receptor 1A inhibitor
+2885,trimipramine,5-hydroxytryptamine receptor 1A agonist
+2886,trimipramine,5-hydroxytryptamine receptor 1A antagonist
+2887,trimipramine,5-hydroxytryptamine receptor 1A other/unknown
+2888,trimipramine,5-hydroxytryptamine receptor 1A binder
+2889,trimipramine,Alpha-1A adrenergic receptor inhibitor
+2890,trimipramine,Alpha-1A adrenergic receptor agonist
+2891,trimipramine,Alpha-1A adrenergic receptor antagonist
+2893,trimipramine,Alpha-1A adrenergic receptor binder
+2894,trimipramine,Alpha-1B adrenergic receptor inhibitor
+2895,trimipramine,Alpha-1B adrenergic receptor agonist
+2896,trimipramine,Alpha-1B adrenergic receptor antagonist
+2898,trimipramine,Alpha-1B adrenergic receptor binder
+2899,trimipramine,Dopamine D2 receptor inhibitor
+2900,trimipramine,Dopamine D2 receptor agonist
+2901,trimipramine,Dopamine D2 receptor antagonist
+2902,trimipramine,Dopamine D2 receptor other/unknown
+2903,trimipramine,Dopamine D2 receptor binder
+2904,trimipramine,Alpha-2B adrenergic receptor inhibitor
+2905,trimipramine,Alpha-2B adrenergic receptor agonist
+2906,trimipramine,Alpha-2B adrenergic receptor antagonist
+2908,trimipramine,Alpha-2B adrenergic receptor binder
+2909,trimipramine,Histamine H1 receptor inhibitor
+2910,trimipramine,Histamine H1 receptor agonist
+2911,trimipramine,Histamine H1 receptor antagonist
+2913,trimipramine,Histamine H1 receptor binder
+2914,trimipramine,5-hydroxytryptamine receptor 2C inhibitor
+2915,trimipramine,5-hydroxytryptamine receptor 2C agonist
+2916,trimipramine,5-hydroxytryptamine receptor 2C antagonist
+2918,trimipramine,5-hydroxytryptamine receptor 2C binder
+2919,trimipramine,5-hydroxytryptamine receptor 3A inhibitor
+2920,trimipramine,5-hydroxytryptamine receptor 3A agonist
+2921,trimipramine,5-hydroxytryptamine receptor 3A antagonist
+2923,trimipramine,5-hydroxytryptamine receptor 3A binder
+2925,trimipramine,5-hydroxytryptamine receptor 1D agonist
+2926,trimipramine,5-hydroxytryptamine receptor 1D antagonist
+2929,trimipramine,Alpha-2A adrenergic receptor inhibitor
+2930,trimipramine,Alpha-2A adrenergic receptor agonist
+2931,trimipramine,Alpha-2A adrenergic receptor antagonist
+2933,trimipramine,Alpha-2A adrenergic receptor binder
+2934,trimipramine,D(1) dopamine receptor inhibitor
+2935,trimipramine,D(1) dopamine receptor agonist
+2936,trimipramine,D(1) dopamine receptor antagonist
+2938,trimipramine,D(1) dopamine receptor binder
+2939,trimipramine,Beta adrenergic receptor inhibitor
+2944,trimipramine,Muscarinic acetylcholine receptor inhibitor
+2946,trimipramine,Muscarinic acetylcholine receptor antagonist
+2948,trimipramine,Muscarinic acetylcholine receptor binder
+2955,rocuronium,Neuronal acetylcholine receptor subunit alpha-2 antagonist
+2956,rocuronium,Muscarinic acetylcholine receptor M2 antagonist
+2957,rocuronium,5-hydroxytryptamine receptor 3A antagonist
+2960,risperidone,5-hydroxytryptamine receptor 2A antagonist
+2961,risperidone,Dopamine D2 receptor antagonist
+2962,risperidone,Alpha-1B adrenergic receptor antagonist
+2963,risperidone,Alpha-2B adrenergic receptor antagonist
+2964,risperidone,Alpha-1A adrenergic receptor antagonist
+2965,risperidone,Alpha-2C adrenergic receptor antagonist
+2966,risperidone,Histamine H1 receptor antagonist
+2967,risperidone,5-hydroxytryptamine receptor 2C antagonist
+2968,risperidone,5-hydroxytryptamine receptor 1D antagonist
+2969,risperidone,5-hydroxytryptamine receptor 1A antagonist
+2970,risperidone,5-hydroxytryptamine receptor 7 antagonist
+2972,risperidone,Dopamine D1 receptor antagonist
+2975,riluzole,Sodium channel protein type 5 subunit alpha inhibitor
+2979,modafinil,Sodium-dependent dopamine transporter inhibitor
+2981,modafinil,Alpha-1B adrenergic receptor inhibitor
+2983,scopolamine,Muscarinic acetylcholine receptor M1 antagonist
+2984,scopolamine,Muscarinic acetylcholine receptor M1 inhibitor
+2986,scopolamine,Muscarinic acetylcholine receptor M2 antagonist
+2987,scopolamine,Muscarinic acetylcholine receptor M2 inhibitor
+2989,scopolamine,Muscarinic acetylcholine receptor M3 antagonist
+2990,scopolamine,Muscarinic acetylcholine receptor M3 inhibitor
+2992,scopolamine,Muscarinic acetylcholine receptor M4 antagonist
+2993,scopolamine,Muscarinic acetylcholine receptor M4 inhibitor
+2995,scopolamine,Muscarinic acetylcholine receptor M5 antagonist
+2996,scopolamine,Muscarinic acetylcholine receptor M5 inhibitor
+2998,scopolamine,Neuronal acetylcholine receptor subunit alpha-4 antagonist
+2999,scopolamine,Neuronal acetylcholine receptor subunit alpha-4 inhibitor
+3007,carbinoxamine,Histamine H1 receptor antagonist
+3008,etodolac,Prostaglandin G/H synthase 2 inhibitor
+3009,etodolac,Prostaglandin G/H synthase 1 inhibitor
+3011,prilocaine,Sodium channel protein type 5 subunit alpha inhibitor
+3012,tranylcypromine,Amine oxidase [flavin-containing] B inhibitor
+3014,isoflurane,Gamma-aminobutyric acid receptor subunit alpha-1 agonist
+3016,isoflurane,Gamma-aminobutyric acid receptor subunit alpha-1 antagonist
+3045,isoflurane,Calmodulin inhibitor
+3046,isoflurane,Calmodulin antagonist
+3049,isoflurane,GABA(A) Receptor agonist
+3050,isoflurane,GABA(A) Receptor inhibitor
+3051,isoflurane,GABA(A) Receptor antagonist
+3054,isoflurane,Neuronal acetylcholine receptor subunit alpha-4 agonist
+3055,isoflurane,Neuronal acetylcholine receptor subunit alpha-4 inhibitor
+3056,isoflurane,Neuronal acetylcholine receptor subunit alpha-4 antagonist
+3064,dolasetron,5-hydroxytryptamine receptor 3A antagonist
+3078,etoposide,DNA topoisomerase 2-alpha inhibitor
+3086,phenelzine,Amine oxidase [flavin-containing] B inhibitor
+3097,propantheline,Muscarinic acetylcholine receptor M1 antagonist
+3098,estradiol,Estrogen receptor alpha agonist
+3100,estradiol,Estrogen receptor alpha inhibitor
+3101,estradiol,Estrogen receptor beta agonist
+3104,estradiol,Nuclear receptor subfamily 1 group I member 2 agonist
+3106,estradiol,Nuclear receptor subfamily 1 group I member 2 inhibitor
+3107,estradiol,Neuronal acetylcholine receptor subunit alpha-4 agonist
+3109,estradiol,Neuronal acetylcholine receptor subunit alpha-4 inhibitor
+3122,acyclovir,DNA polymerase catalytic subunit inhibitor
+3124,acyclovir,DNA polymerase catalytic subunit inhibitor
+3125,naproxen,Prostaglandin G/H synthase 1 inhibitor
+3127,naproxen,Prostaglandin G/H synthase 2 inhibitor
+3128,perindopril,Angiotensin-converting enzyme inhibitor
+3133,sulfasalazine,Prostaglandin G/H synthase 2 inhibitor
+3136,sulfasalazine,Prostaglandin G/H synthase 1 inhibitor
+3139,sulfasalazine,Peroxisome proliferator-activated receptor gamma inhibitor
+3140,sulfasalazine,Peroxisome proliferator-activated receptor gamma agonist
+3160,fenoldopam,Dopamine D5 receptor agonist
+3161,fenoldopam,Dopamine D5 receptor antagonist
+3163,fenoldopam,Dopamine D1 receptor agonist
+3164,fenoldopam,Dopamine D1 receptor antagonist
+3165,fenoldopam,Dopamine D1 receptor inhibitor
+3166,fenoldopam,Alpha-2B adrenergic receptor agonist
+3167,fenoldopam,Alpha-2B adrenergic receptor antagonist
+3168,fenoldopam,Alpha-2B adrenergic receptor inhibitor
+3169,fenoldopam,Alpha-2C adrenergic receptor agonist
+3170,fenoldopam,Alpha-2C adrenergic receptor antagonist
+3171,fenoldopam,Alpha-2C adrenergic receptor inhibitor
+3172,fenoldopam,Alpha-2A adrenergic receptor agonist
+3173,fenoldopam,Alpha-2A adrenergic receptor antagonist
+3174,fenoldopam,Alpha-2A adrenergic receptor inhibitor
+3175,fenoldopam,Alpha-1B adrenergic receptor agonist
+3176,fenoldopam,Alpha-1B adrenergic receptor antagonist
+3177,fenoldopam,Alpha-1B adrenergic receptor inhibitor
+3178,fenoldopam,Alpha-1D adrenergic receptor agonist
+3179,fenoldopam,Alpha-1D adrenergic receptor antagonist
+3180,fenoldopam,Alpha-1D adrenergic receptor inhibitor
+3181,fenoldopam,Alpha-1A adrenergic receptor agonist
+3182,fenoldopam,Alpha-1A adrenergic receptor antagonist
+3183,fenoldopam,Alpha-1A adrenergic receptor inhibitor
+3184,alfentanil,Mu-type opioid receptor agonist
+3185,dicyclomine,Muscarinic acetylcholine receptor M1 antagonist
+3186,dicyclomine,Muscarinic acetylcholine receptor M3 antagonist
+3187,dicyclomine,Muscarinic acetylcholine receptor M2 antagonist
+3193,pentoxifylline,Adenosine receptor A1 inhibitor
+3197,tropicamide,Muscarinic acetylcholine receptor M4 antagonist
+3198,tropicamide,Muscarinic acetylcholine receptor M3 antagonist
+3199,tropicamide,Muscarinic acetylcholine receptor M1 antagonist
+3200,tropicamide,Muscarinic acetylcholine receptor M2 antagonist
+3211,fentanyl,Mu-type opioid receptor agonist
+3212,fentanyl,Delta-type opioid receptor agonist
+3213,fentanyl,Kappa-type opioid receptor agonist
+3215,meloxicam,Prostaglandin G/H synthase 2 inhibitor
+3216,meloxicam,Prostaglandin G/H synthase 1 inhibitor
+3226,propofol,GABA(A) Receptor inhibitor
+3227,tadalafil,"cGMP-specific 3',5'-cyclic phosphodiesterase inhibitor"
+3230,diazepam,GABA(A) Receptor ligand
+3231,diazepam,GABA(A) Receptor Benzodiazepine Binding Site ligand
+3232,trifluoperazine,Dopamine D2 receptor antagonist
+3233,trifluoperazine,Dopamine D2 receptor inhibitor
+3236,trifluoperazine,Alpha-1A adrenergic receptor antagonist
+3237,trifluoperazine,Alpha-1A adrenergic receptor inhibitor
+3238,trifluoperazine,Calmodulin antagonist
+3239,trifluoperazine,Calmodulin inhibitor
+3246,dobutamine,Beta-1 adrenergic receptor agonist
+3247,dobutamine,Beta-2 adrenergic receptor agonist
+3248,dobutamine,Alpha-1 adrenergic receptors agonist
+3249,dobutamine,Estrogen receptor alpha agonist
+3250,donepezil,Acetylcholinesterase inhibitor
+3252,donepezil,5-hydroxytryptamine receptor 2A inhibitor
+3254,donepezil,Cholinesterase inhibitor
+3266,nalbuphine,Kappa-type opioid receptor agonist
+3267,nalbuphine,Kappa-type opioid receptor antagonist
+3268,nalbuphine,Mu-type opioid receptor agonist
+3269,nalbuphine,Mu-type opioid receptor antagonist
+3270,nalbuphine,Delta-type opioid receptor agonist
+3271,nalbuphine,Delta-type opioid receptor antagonist
+3272,perphenazine,Dopamine D2 receptor antagonist
+3273,perphenazine,Dopamine D2 receptor inhibitor
+3274,perphenazine,Dopamine D1 receptor antagonist
+3275,perphenazine,Dopamine D1 receptor inhibitor
+3276,perphenazine,Calmodulin antagonist
+3277,perphenazine,Calmodulin inhibitor
+3278,prednisolone,Glucocorticoid receptor agonist
+3279,vardenafil,"cGMP-specific 3',5'-cyclic phosphodiesterase inhibitor"
+3282,ranitidine,Histamine H2 receptor antagonist
+3285,ranitidine,Acetylcholinesterase inhibitor
+3289,benzphetamine,Synaptic vesicular amine transporter inhibitor
+3291,benzphetamine,Alpha-2A adrenergic receptor agonist
+3292,benzphetamine,Alpha-2A adrenergic receptor inhibitor
+3294,benzphetamine,Alpha-1A adrenergic receptor agonist
+3295,benzphetamine,Alpha-1A adrenergic receptor inhibitor
+3297,benzphetamine,Sodium-dependent dopamine transporter agonist
+3298,benzphetamine,Sodium-dependent dopamine transporter inhibitor
+3299,dorzolamide,Carbonic anhydrase 2 inhibitor
+3301,dorzolamide,Carbonic anhydrase 1 inhibitor
+3302,dorzolamide,Carbonic anhydrase 3 inhibitor
+3303,terbutaline,Beta-2 adrenergic receptor agonist
+3304,terbutaline,Beta-2 adrenergic receptor antagonist
+3305,terbutaline,Beta-3 adrenergic receptor agonist
+3306,terbutaline,Beta-3 adrenergic receptor antagonist
+3307,terbutaline,Beta-1 adrenergic receptor agonist
+3308,terbutaline,Beta-1 adrenergic receptor antagonist
+3311,eprosartan,Type-1 angiotensin II receptor antagonist
+3312,quinapril,Angiotensin-converting enzyme inhibitor
+3313,granisetron,5-hydroxytryptamine receptor 3A antagonist
+3314,triazolam,GABA(A) Receptor ligand
+3315,triazolam,GABA(A) Receptor Benzodiazepine Binding Site ligand
+3316,remifentanil,Mu-type opioid receptor agonist
+3317,remifentanil,Delta-type opioid receptor agonist
+3318,remifentanil,Kappa-type opioid receptor agonist
+3319,ondansetron,5-hydroxytryptamine receptor 3A antagonist
+3320,ondansetron,5-hydroxytryptamine receptor 3A agonist
+3325,ondansetron,Mu-type opioid receptor antagonist
+3326,ondansetron,Mu-type opioid receptor agonist
+3328,ondansetron,5-hydroxytryptamine receptor 1A antagonist
+3329,ondansetron,5-hydroxytryptamine receptor 1A agonist
+3330,ondansetron,5-hydroxytryptamine receptor 1A other/unknown
+3331,ondansetron,5-hydroxytryptamine receptor 1B antagonist
+3332,ondansetron,5-hydroxytryptamine receptor 1B agonist
+3335,quinidine,Sodium channel protein type 5 subunit alpha inhibitor
+3341,quinidine,Potassium voltage-gated channel subfamily H member 2 inhibitor
+3342,quinidine,Potassium voltage-gated channel subfamily H member 2 antagonist
+3343,quinidine,Alpha-1A adrenergic receptor inhibitor
+3344,quinidine,Alpha-1A adrenergic receptor antagonist
+3345,quinidine,Alpha-1B adrenergic receptor inhibitor
+3346,quinidine,Alpha-1B adrenergic receptor antagonist
+3347,quinidine,Alpha-1D adrenergic receptor inhibitor
+3348,quinidine,Alpha-1D adrenergic receptor antagonist
+3353,zonisamide,Sodium channel protein type 5 subunit alpha inhibitor
+3363,zonisamide,Carbonic anhydrase 1 inhibitor
+3364,zonisamide,Carbonic anhydrase 2 inhibitor
+3365,zonisamide,Carbonic anhydrase 3 inhibitor
+3378,zonisamide,Amine oxidase [flavin-containing] B inhibitor
+3383,repaglinide,Peroxisome proliferator-activated receptor gamma inhibitor
+3384,repaglinide,Peroxisome proliferator-activated receptor gamma agonist
+3392,amantadine,Neuronal acetylcholine receptor subunit alpha-7 antagonist
+3394,amantadine,Dopamine D2 receptor inhibitor
+3395,amantadine,Dopamine D2 receptor antagonist
+3396,amantadine,Dopamine D2 receptor agonist
+3397,amantadine,Neuronal acetylcholine receptor subunit alpha-4 inhibitor
+3398,amantadine,Neuronal acetylcholine receptor subunit alpha-4 antagonist
+3399,amantadine,Neuronal acetylcholine receptor subunit alpha-4 agonist
+3409,almotriptan,5-hydroxytryptamine receptor 1B agonist
+3410,almotriptan,5-hydroxytryptamine receptor 1D agonist
+3412,buprenorphine,Mu-type opioid receptor antagonist
+3413,buprenorphine,Kappa-type opioid receptor partial agonist
+3414,buprenorphine,Kappa-type opioid receptor antagonist
+3416,buprenorphine,Delta-type opioid receptor antagonist
+3430,levosimendan,"cGMP-inhibited 3',5'-cyclic phosphodiesterase A inhibitor"
+3431,cyclobenzaprine,5-hydroxytryptamine receptor 2A antagonist
+3432,cyclobenzaprine,5-hydroxytryptamine receptor 2A inhibitor
+3433,cyclobenzaprine,5-hydroxytryptamine receptor 2B antagonist
+3434,cyclobenzaprine,5-hydroxytryptamine receptor 2B inhibitor
+3435,cyclobenzaprine,5-hydroxytryptamine receptor 2C antagonist
+3436,cyclobenzaprine,5-hydroxytryptamine receptor 2C inhibitor
+3437,cyclobenzaprine,5-hydroxytryptamine receptor 6 antagonist
+3438,cyclobenzaprine,5-hydroxytryptamine receptor 6 inhibitor
+3439,cyclobenzaprine,Sodium-dependent serotonin transporter antagonist
+3440,cyclobenzaprine,Sodium-dependent serotonin transporter inhibitor
+3441,cyclobenzaprine,Sodium-dependent noradrenaline transporter antagonist
+3442,cyclobenzaprine,Sodium-dependent noradrenaline transporter inhibitor
+3443,cyclobenzaprine,5-hydroxytryptamine receptor 7 antagonist
+3444,cyclobenzaprine,5-hydroxytryptamine receptor 7 inhibitor
+3449,phenoxybenzamine,Alpha-1A adrenergic receptor antagonist
+3450,phenoxybenzamine,Alpha-1A adrenergic receptor inhibitor
+3451,phenoxybenzamine,Alpha-2A adrenergic receptor antagonist
+3452,phenoxybenzamine,Alpha-2A adrenergic receptor inhibitor
+3453,phenoxybenzamine,Alpha-2C adrenergic receptor antagonist
+3454,phenoxybenzamine,Alpha-2C adrenergic receptor inhibitor
+3455,phenoxybenzamine,Alpha-2B adrenergic receptor antagonist
+3456,phenoxybenzamine,Alpha-2B adrenergic receptor inhibitor
+3457,phenoxybenzamine,Calmodulin antagonist
+3458,phenoxybenzamine,Calmodulin inhibitor
+3459,phenoxybenzamine,Beta-2 adrenergic receptor antagonist
+3460,phenoxybenzamine,Beta-2 adrenergic receptor inhibitor
+3461,phenoxybenzamine,Alpha-1B adrenergic receptor antagonist
+3462,phenoxybenzamine,Alpha-1B adrenergic receptor inhibitor
+3463,phenoxybenzamine,Alpha-1D adrenergic receptor antagonist
+3464,phenoxybenzamine,Alpha-1D adrenergic receptor inhibitor
+3465,famotidine,Histamine H2 receptor antagonist
+3471,maprotiline,Sodium-dependent noradrenaline transporter inhibitor
+3472,maprotiline,Sodium-dependent noradrenaline transporter antagonist
+3473,maprotiline,Sodium-dependent noradrenaline transporter binder
+3474,maprotiline,Histamine H1 receptor inhibitor
+3475,maprotiline,Histamine H1 receptor antagonist
+3476,maprotiline,Histamine H1 receptor binder
+3477,maprotiline,Muscarinic acetylcholine receptor M1 inhibitor
+3478,maprotiline,Muscarinic acetylcholine receptor M1 antagonist
+3479,maprotiline,Muscarinic acetylcholine receptor M1 binder
+3480,maprotiline,Muscarinic acetylcholine receptor M2 inhibitor
+3481,maprotiline,Muscarinic acetylcholine receptor M2 antagonist
+3483,maprotiline,Muscarinic acetylcholine receptor M3 inhibitor
+3484,maprotiline,Muscarinic acetylcholine receptor M3 antagonist
+3485,maprotiline,Muscarinic acetylcholine receptor M3 binder
+3486,maprotiline,Muscarinic acetylcholine receptor M4 inhibitor
+3487,maprotiline,Muscarinic acetylcholine receptor M4 antagonist
+3489,maprotiline,Muscarinic acetylcholine receptor M5 inhibitor
+3490,maprotiline,Muscarinic acetylcholine receptor M5 antagonist
+3492,maprotiline,Alpha-1 adrenergic receptors inhibitor
+3493,maprotiline,Alpha-1 adrenergic receptors antagonist
+3494,maprotiline,Alpha-1 adrenergic receptors binder
+3495,maprotiline,5-hydroxytryptamine receptor 2A inhibitor
+3496,maprotiline,5-hydroxytryptamine receptor 2A antagonist
+3497,maprotiline,5-hydroxytryptamine receptor 2A binder
+3498,maprotiline,5-hydroxytryptamine receptor 2C inhibitor
+3499,maprotiline,5-hydroxytryptamine receptor 2C antagonist
+3500,maprotiline,5-hydroxytryptamine receptor 2C binder
+3501,maprotiline,5-hydroxytryptamine receptor 7 inhibitor
+3502,maprotiline,5-hydroxytryptamine receptor 7 antagonist
+3503,maprotiline,5-hydroxytryptamine receptor 7 binder
+3504,maprotiline,Dopamine D2 receptor inhibitor
+3505,maprotiline,Dopamine D2 receptor antagonist
+3506,maprotiline,Dopamine D2 receptor binder
+3507,maprotiline,Alpha-2 adrenergic receptors inhibitor
+3508,maprotiline,Alpha-2 adrenergic receptors antagonist
+3509,maprotiline,Alpha-2 adrenergic receptors binder
+3510,diethylpropion,Sodium-dependent noradrenaline transporter inhibitor
+3511,diethylpropion,Sodium-dependent dopamine transporter inhibitor
+3512,salmeterol,Beta-2 adrenergic receptor agonist
+3513,salmeterol,Beta-1 adrenergic receptor agonist
+3514,salmeterol,Beta-3 adrenergic receptor agonist
+3515,zalcitabine,Reverse transcriptase/RNaseH inhibitor
+3518,fexofenadine,Histamine H1 receptor antagonist
+3519,naratriptan,5-hydroxytryptamine receptor 1D agonist
+3520,naratriptan,5-hydroxytryptamine receptor 1B agonist
+3521,naratriptan,5-hydroxytryptamine receptor 1F agonist
+3522,naratriptan,5-hydroxytryptamine receptor 1A agonist
+3523,rizatriptan,5-hydroxytryptamine receptor 1D agonist
+3524,rizatriptan,5-hydroxytryptamine receptor 1B agonist
+3525,rizatriptan,5-hydroxytryptamine receptor 1F agonist
+3526,hydrocodone,Mu-type opioid receptor agonist
+3528,hydrocodone,Delta-type opioid receptor agonist
+3532,methylprednisolone,Glucocorticoid receptor agonist
+3534,pindolol,Beta-1 adrenergic receptor partial agonist
+3535,pindolol,Beta-1 adrenergic receptor antagonist
+3536,pindolol,Beta-1 adrenergic receptor inhibitor
+3539,pindolol,Beta-1 adrenergic receptor agonist
+3540,pindolol,Beta-2 adrenergic receptor partial agonist
+3541,pindolol,Beta-2 adrenergic receptor antagonist
+3542,pindolol,Beta-2 adrenergic receptor inhibitor
+3545,pindolol,Beta-2 adrenergic receptor agonist
+3546,pindolol,5-hydroxytryptamine receptor 1A partial agonist
+3547,pindolol,5-hydroxytryptamine receptor 1A antagonist
+3548,pindolol,5-hydroxytryptamine receptor 1A inhibitor
+3550,pindolol,5-hydroxytryptamine receptor 1A other/unknown
+3551,pindolol,5-hydroxytryptamine receptor 1A agonist
+3553,pindolol,5-hydroxytryptamine receptor 1B antagonist
+3557,pindolol,5-hydroxytryptamine receptor 1B agonist
+3559,pindolol,Beta-3 adrenergic receptor antagonist
+3563,pindolol,Beta-3 adrenergic receptor agonist
+3566,pindolol,Beta adrenergic receptor inhibitor
+3570,mepivacaine,Sodium channel protein type 10 subunit alpha inhibitor
+3571,zaleplon,Gamma-aminobutyric acid receptor subunit alpha-1 potentiator
+3572,apraclonidine,Alpha-2A adrenergic receptor agonist
+3573,apraclonidine,Alpha-1A adrenergic receptor agonist
+3574,apraclonidine,Alpha-2B adrenergic receptor agonist
+3575,telmisartan,Type-1 angiotensin II receptor antagonist
+3579,desloratadine,Histamine H1 receptor antagonist
+3580,methyldopa,Alpha-2A adrenergic receptor agonist
+3581,methyldopa,Alpha-2A adrenergic receptor inhibitor
+3584,azelastine,Histamine H1 receptor antagonist
+3585,azelastine,Histamine H1 receptor inhibitor
+3586,azelastine,Histamine H2 receptor antagonist
+3594,dipyridamole,"cGMP-specific 3',5'-cyclic phosphodiesterase inhibitor"
+3599,lomefloxacin,DNA topoisomerase 4 subunit A inhibitor
+3600,lomefloxacin,DNA gyrase subunit A inhibitor
+3601,lomefloxacin,DNA topoisomerase 2-alpha inhibitor
+3602,cyclopentolate,Muscarinic acetylcholine receptor M1 antagonist
+3603,physostigmine,Acetylcholinesterase inhibitor
+3604,physostigmine,Neuronal acetylcholine receptor subunit alpha-4 inhibitor
+3606,formoterol,Beta-2 adrenergic receptor agonist
+3607,formoterol,Beta-1 adrenergic receptor agonist
+3608,formoterol,Beta-3 adrenergic receptor agonist
+3609,dimenhydrinate,Histamine H1 receptor antagonist
+3611,cytarabine,DNA inhibitor
+3612,dopamine,Dopamine D2 receptor agonist
+3615,dopamine,Dopamine D2 receptor binder
+3616,dopamine,Dopamine D2 receptor inhibitor
+3617,dopamine,Dopamine D1 receptor agonist
+3621,dopamine,Dopamine D1 receptor inhibitor
+3622,dopamine,Dopamine D5 receptor agonist
+3627,dopamine,Dopamine D3 receptor agonist
+3630,dopamine,Dopamine D3 receptor binder
+3631,dopamine,Dopamine D3 receptor inhibitor
+3632,dopamine,Dopamine D4 receptor agonist
+3637,dopamine,Sodium-dependent dopamine transporter agonist
+3640,dopamine,Sodium-dependent dopamine transporter binder
+3641,dopamine,Sodium-dependent dopamine transporter inhibitor
+3647,dopamine,5-hydroxytryptamine receptor 1A agonist
+3650,dopamine,5-hydroxytryptamine receptor 1A binder
+3651,dopamine,5-hydroxytryptamine receptor 1A inhibitor
+3652,dopamine,5-hydroxytryptamine receptor 7 agonist
+3655,dopamine,5-hydroxytryptamine receptor 7 binder
+3656,dopamine,5-hydroxytryptamine receptor 7 inhibitor
+3657,dopamine,D(1) dopamine receptor agonist
+3660,dopamine,D(1) dopamine receptor binder
+3661,dopamine,D(1) dopamine receptor inhibitor
+3662,dopamine,Sodium-dependent noradrenaline transporter agonist
+3665,dopamine,Sodium-dependent noradrenaline transporter binder
+3666,dopamine,Sodium-dependent noradrenaline transporter inhibitor
+3667,dopamine,Sodium-dependent serotonin transporter agonist
+3670,dopamine,Sodium-dependent serotonin transporter binder
+3671,dopamine,Sodium-dependent serotonin transporter inhibitor
+3672,dopamine,5-hydroxytryptamine receptor 3A agonist
+3675,dopamine,5-hydroxytryptamine receptor 3A binder
+3676,dopamine,5-hydroxytryptamine receptor 3A inhibitor
+3691,dopamine,Synaptic vesicular amine transporter inhibitor
+3692,rivastigmine,Acetylcholinesterase inhibitor
+3693,rivastigmine,Cholinesterase inhibitor
+3695,oxaprozin,Prostaglandin G/H synthase 1 inhibitor
+3696,oxaprozin,Prostaglandin G/H synthase 2 inhibitor
+3697,gabapentin,Voltage-dependent calcium channel subunit alpha-2/delta-1 inhibitor
+3706,gabapentin,Adenosine receptor A1 inhibitor
+3715,doxorubicin,DNA inhibitor
+3716,doxorubicin,DNA topoisomerase 2-alpha inhibitor
+3718,frovatriptan,5-hydroxytryptamine receptor 1D agonist
+3719,frovatriptan,5-hydroxytryptamine receptor 1B agonist
+3722,salbutamol,Beta-2 adrenergic receptor agonist
+3723,salbutamol,Beta-1 adrenergic receptor agonist
+3724,salbutamol,Beta-3 adrenergic receptor agonist
+3725,ganciclovir,DNA polymerase catalytic subunit inhibitor
+3727,ganciclovir,DNA inhibitor
+3732,ketoprofen,Prostaglandin G/H synthase 1 inhibitor
+3733,ketoprofen,Prostaglandin G/H synthase 2 inhibitor
+3735,edrophonium,Acetylcholinesterase inhibitor
+3736,edrophonium,Cholinesterase inhibitor
+3738,balsalazide,Peroxisome proliferator-activated receptor gamma agonist
+3739,balsalazide,Peroxisome proliferator-activated receptor gamma inhibitor
+3741,balsalazide,Prostaglandin G/H synthase 2 inhibitor
+3743,balsalazide,Prostaglandin G/H synthase 1 inhibitor
+3759,guanfacine,Alpha-2A adrenergic receptor agonist
+3760,guanfacine,Alpha-2A adrenergic receptor binder
+3761,guanfacine,Alpha-2B adrenergic receptor agonist
+3762,guanfacine,Alpha-2B adrenergic receptor binder
+3763,bethanechol,Muscarinic acetylcholine receptor M3 agonist
+3764,bethanechol,Muscarinic acetylcholine receptor M1 agonist
+3768,felodipine,Voltage-dependent L-type calcium channel subunit alpha-1C inhibitor
+3770,felodipine,Voltage-dependent calcium channel subunit alpha-2/delta-1 inhibitor
+3772,felodipine,Voltage-dependent L-type calcium channel subunit beta-2 inhibitor
+3774,felodipine,Voltage-dependent L-type calcium channel subunit alpha-1D inhibitor
+3776,felodipine,Voltage-dependent L-type calcium channel subunit alpha-1S inhibitor
+3782,felodipine,Calmodulin inhibitor
+3783,felodipine,Calmodulin antagonist
+3797,ketoconazole,Androgen receptor inhibitor
+3799,ketoconazole,Androgen receptor antagonist
+3806,ketoconazole,Potassium voltage-gated channel subfamily H member 2 inhibitor
+3807,ketoconazole,Potassium voltage-gated channel subfamily H member 2 binder
+3808,ketoconazole,Potassium voltage-gated channel subfamily H member 2 antagonist
+3809,ketoconazole,Nuclear receptor subfamily 1 group I member 2 inhibitor
+3815,irbesartan,Type-1 angiotensin II receptor antagonist
+3821,topotecan,DNA inhibitor
+3822,procainamide,Sodium channel protein type 5 subunit alpha inhibitor
+3824,procainamide,Potassium voltage-gated channel subfamily H member 2 inhibitor
+3825,tolterodine,Muscarinic acetylcholine receptor M3 antagonist
+3826,tolterodine,Muscarinic acetylcholine receptor M2 antagonist
+3827,tolterodine,Muscarinic acetylcholine receptor M5 antagonist
+3828,tolterodine,Muscarinic acetylcholine receptor M1 antagonist
+3829,tolterodine,Muscarinic acetylcholine receptor M4 antagonist
+3830,fenofibrate,Peroxisome proliferator-activated receptor alpha agonist
+3831,fenofibrate,Peroxisome proliferator-activated receptor alpha inhibitor
+3836,fenofibrate,Nuclear receptor subfamily 1 group I member 2 agonist
+3837,fenofibrate,Nuclear receptor subfamily 1 group I member 2 inhibitor
+3848,thalidomide,DNA inhibitor
+3854,thalidomide,Prostaglandin G/H synthase 2 inhibitor
+3860,memantine,5-hydroxytryptamine receptor 3A antagonist
+3861,memantine,5-hydroxytryptamine receptor 3A agonist
+3862,memantine,5-hydroxytryptamine receptor 3A binder
+3863,memantine,5-hydroxytryptamine receptor 3A inhibitor
+3868,memantine,Dopamine D2 receptor antagonist
+3869,memantine,Dopamine D2 receptor agonist
+3870,memantine,Dopamine D2 receptor binder
+3871,memantine,Dopamine D2 receptor inhibitor
+3880,memantine,GABA(A) Receptor antagonist
+3881,memantine,GABA(A) Receptor agonist
+3883,memantine,GABA(A) Receptor inhibitor
+3888,gatifloxacin,DNA gyrase subunit A inhibitor
+3890,gatifloxacin,DNA topoisomerase 4 subunit A inhibitor
+3893,abacavir,Reverse transcriptase/RNaseH inhibitor
+3895,ibuprofen,Prostaglandin G/H synthase 2 inhibitor
+3899,ibuprofen,Prostaglandin G/H synthase 1 inhibitor
+3915,ibuprofen,Peroxisome proliferator-activated receptor gamma inhibitor
+3923,ibuprofen,Peroxisome proliferator-activated receptor alpha inhibitor
+3936,norfloxacin,DNA topoisomerase 4 subunit A inhibitor
+3937,norfloxacin,DNA gyrase subunit A inhibitor
+3938,norfloxacin,DNA topoisomerase 2-alpha inhibitor
+3939,oxybutynin,Muscarinic acetylcholine receptor M3 antagonist
+3940,oxybutynin,Muscarinic acetylcholine receptor M2 antagonist
+3941,oxybutynin,Muscarinic acetylcholine receptor M1 antagonist
+3948,melatonin,Estrogen receptor alpha agonist
+3949,melatonin,Estrogen receptor alpha antagonist
+3950,melatonin,Estrogen receptor alpha inhibitor
+3955,melatonin,Calmodulin antagonist
+3956,melatonin,Calmodulin inhibitor
+3972,clonazepam,GABA(A) Receptor ligand
+3974,clonazepam,GABA(A) Receptor Benzodiazepine Binding Site ligand
+3978,promethazine,Histamine H1 receptor antagonist
+3979,promethazine,Histamine H1 receptor inhibitor
+3981,promethazine,Dopamine D2 receptor antagonist
+3982,promethazine,Dopamine D2 receptor inhibitor
+3984,promethazine,Muscarinic acetylcholine receptor M1 antagonist
+3985,promethazine,Muscarinic acetylcholine receptor M1 inhibitor
+3987,promethazine,Muscarinic acetylcholine receptor M2 antagonist
+3988,promethazine,Muscarinic acetylcholine receptor M2 inhibitor
+3990,promethazine,Muscarinic acetylcholine receptor M3 antagonist
+3991,promethazine,Muscarinic acetylcholine receptor M3 inhibitor
+3993,promethazine,Muscarinic acetylcholine receptor M4 antagonist
+3994,promethazine,Muscarinic acetylcholine receptor M4 inhibitor
+3996,promethazine,Muscarinic acetylcholine receptor M5 antagonist
+3997,promethazine,Muscarinic acetylcholine receptor M5 inhibitor
+4002,promethazine,Calmodulin antagonist
+4003,promethazine,Calmodulin inhibitor
+4005,promethazine,Histamine H2 receptor antagonist
+4017,atazanavir,Human immunodeficiency virus type 1 protease inhibitor
+4022,fludarabine,DNA inhibitor
+4026,diphenhydramine,Histamine H1 receptor antagonist
+4027,diphenhydramine,Muscarinic acetylcholine receptor M2 antagonist
+4030,tegaserod,5-hydroxytryptamine receptor 2B antagonist
+4032,tegaserod,5-hydroxytryptamine receptor 2C antagonist
+4034,tegaserod,5-hydroxytryptamine receptor 2A antagonist
+4039,emedastine,Histamine H1 receptor antagonist
+4040,pilocarpine,Muscarinic acetylcholine receptor M3 agonist
+4042,pilocarpine,Muscarinic acetylcholine receptor M1 agonist
+4073,fluvastatin,Histone deacetylase 2 inhibitor
+4083,pimozide,Dopamine D2 receptor antagonist
+4084,pimozide,Dopamine D2 receptor inhibitor
+4085,pimozide,Dopamine D3 receptor antagonist
+4086,pimozide,Dopamine D3 receptor inhibitor
+4087,pimozide,Potassium voltage-gated channel subfamily H member 2 antagonist
+4088,pimozide,Potassium voltage-gated channel subfamily H member 2 inhibitor
+4089,pimozide,Calmodulin antagonist
+4090,pimozide,Calmodulin inhibitor
+4091,capecitabine,Thymidylate synthase inhibitor
+4092,capecitabine,DNA inhibitor
+4094,sertraline,Sodium-dependent serotonin transporter inhibitor
+4095,sertraline,Sodium-dependent serotonin transporter binder
+4096,sertraline,Sodium-dependent dopamine transporter inhibitor
+4097,sertraline,Sodium-dependent dopamine transporter binder
+4100,sertraline,Sodium-dependent noradrenaline transporter inhibitor
+4101,sertraline,Sodium-dependent noradrenaline transporter binder
+4104,sibutramine,Sodium-dependent noradrenaline transporter inhibitor
+4105,sibutramine,Sodium-dependent serotonin transporter inhibitor
+4106,sibutramine,Sodium-dependent dopamine transporter inhibitor
+4132,chlorpheniramine,Histamine H1 receptor antagonist
+4133,chlorpheniramine,Histamine H1 receptor inhibitor
+4134,chlorpheniramine,Sodium-dependent serotonin transporter antagonist
+4135,chlorpheniramine,Sodium-dependent serotonin transporter inhibitor
+4136,chlorpheniramine,Sodium-dependent noradrenaline transporter antagonist
+4137,chlorpheniramine,Sodium-dependent noradrenaline transporter inhibitor
+4138,chlorpheniramine,Sodium-dependent dopamine transporter antagonist
+4139,chlorpheniramine,Sodium-dependent dopamine transporter inhibitor
+4140,nifedipine,Voltage-dependent L-type calcium channel subunit alpha-1C inhibitor
+4142,nifedipine,Nuclear receptor subfamily 1 group I member 2 inhibitor
+4143,nifedipine,Nuclear receptor subfamily 1 group I member 2 agonist
+4144,nifedipine,Calmodulin inhibitor
+4146,nifedipine,Voltage-dependent L-type calcium channel subunit alpha-1D inhibitor
+4148,nifedipine,Voltage-dependent L-type calcium channel subunit alpha-1S inhibitor
+4150,nifedipine,Voltage-dependent L-type calcium channel subunit beta-2 inhibitor
+4160,amiodarone,Beta adrenergic receptor inhibitor
+4176,amiodarone,Peroxisome proliferator-activated receptor gamma inhibitor
+4179,amiodarone,Peroxisome proliferator-activated receptor gamma agonist
+4180,amiodarone,Peroxisome proliferator-activated receptor alpha inhibitor
+4183,amiodarone,Peroxisome proliferator-activated receptor alpha agonist
+4191,diazoxide,Carbonic anhydrase 1 inhibitor
+4193,diazoxide,Carbonic anhydrase 2 inhibitor
+4204,bicalutamide,Androgen receptor antagonist
+4206,pioglitazone,Peroxisome proliferator-activated receptor gamma agonist
+4207,pioglitazone,Peroxisome proliferator-activated receptor gamma inhibitor
+4209,pioglitazone,Amine oxidase [flavin-containing] B inhibitor
+4210,carvedilol,Beta-1 adrenergic receptor antagonist
+4212,carvedilol,Beta-1 adrenergic receptor inhibitor
+4213,carvedilol,Alpha-1A adrenergic receptor antagonist
+4215,carvedilol,Alpha-1A adrenergic receptor inhibitor
+4219,carvedilol,Beta-2 adrenergic receptor antagonist
+4221,carvedilol,Beta-2 adrenergic receptor inhibitor
+4231,carvedilol,Potassium voltage-gated channel subfamily H member 2 antagonist
+4233,carvedilol,Potassium voltage-gated channel subfamily H member 2 inhibitor
+4237,carvedilol,Alpha-1D adrenergic receptor antagonist
+4239,carvedilol,Alpha-1D adrenergic receptor inhibitor
+4240,carvedilol,Alpha-1B adrenergic receptor antagonist
+4242,carvedilol,Alpha-1B adrenergic receptor inhibitor
+4243,carvedilol,Alpha-2C adrenergic receptor antagonist
+4245,carvedilol,Alpha-2C adrenergic receptor inhibitor
+4246,carvedilol,Alpha-2B adrenergic receptor antagonist
+4248,carvedilol,Alpha-2B adrenergic receptor inhibitor
+4249,carvedilol,Alpha-2A adrenergic receptor antagonist
+4251,carvedilol,Alpha-2A adrenergic receptor inhibitor
+4264,carvedilol,Alpha-1 adrenergic receptors antagonist
+4266,carvedilol,Alpha-1 adrenergic receptors inhibitor
+4267,doxepin,Histamine H1 receptor antagonist
+4268,doxepin,Histamine H1 receptor inhibitor
+4269,doxepin,Histamine H1 receptor binder
+4270,doxepin,Histamine H2 receptor antagonist
+4273,doxepin,Sodium-dependent noradrenaline transporter antagonist
+4274,doxepin,Sodium-dependent noradrenaline transporter inhibitor
+4275,doxepin,Sodium-dependent noradrenaline transporter binder
+4276,doxepin,Sodium-dependent serotonin transporter antagonist
+4277,doxepin,Sodium-dependent serotonin transporter inhibitor
+4278,doxepin,Sodium-dependent serotonin transporter binder
+4279,doxepin,5-hydroxytryptamine receptor 2A antagonist
+4280,doxepin,5-hydroxytryptamine receptor 2A inhibitor
+4281,doxepin,5-hydroxytryptamine receptor 2A binder
+4282,doxepin,5-hydroxytryptamine receptor 2B antagonist
+4283,doxepin,5-hydroxytryptamine receptor 2B inhibitor
+4284,doxepin,5-hydroxytryptamine receptor 2B binder
+4285,doxepin,5-hydroxytryptamine receptor 2C antagonist
+4286,doxepin,5-hydroxytryptamine receptor 2C inhibitor
+4287,doxepin,5-hydroxytryptamine receptor 2C binder
+4288,doxepin,Muscarinic acetylcholine receptor M1 antagonist
+4289,doxepin,Muscarinic acetylcholine receptor M1 inhibitor
+4290,doxepin,Muscarinic acetylcholine receptor M1 binder
+4291,doxepin,Muscarinic acetylcholine receptor M2 antagonist
+4292,doxepin,Muscarinic acetylcholine receptor M2 inhibitor
+4294,doxepin,Muscarinic acetylcholine receptor M3 antagonist
+4295,doxepin,Muscarinic acetylcholine receptor M3 inhibitor
+4296,doxepin,Muscarinic acetylcholine receptor M3 binder
+4297,doxepin,Muscarinic acetylcholine receptor M4 antagonist
+4298,doxepin,Muscarinic acetylcholine receptor M4 inhibitor
+4300,doxepin,Muscarinic acetylcholine receptor M5 antagonist
+4301,doxepin,Muscarinic acetylcholine receptor M5 inhibitor
+4303,doxepin,Alpha-1A adrenergic receptor antagonist
+4304,doxepin,Alpha-1A adrenergic receptor inhibitor
+4305,doxepin,Alpha-1A adrenergic receptor binder
+4306,doxepin,Alpha-1B adrenergic receptor antagonist
+4307,doxepin,Alpha-1B adrenergic receptor inhibitor
+4308,doxepin,Alpha-1B adrenergic receptor binder
+4309,doxepin,Alpha-1D adrenergic receptor antagonist
+4310,doxepin,Alpha-1D adrenergic receptor inhibitor
+4311,doxepin,Alpha-1D adrenergic receptor binder
+4312,doxepin,5-hydroxytryptamine receptor 1A antagonist
+4313,doxepin,5-hydroxytryptamine receptor 1A inhibitor
+4314,doxepin,5-hydroxytryptamine receptor 1A binder
+4315,doxepin,5-hydroxytryptamine receptor 6 antagonist
+4316,doxepin,5-hydroxytryptamine receptor 6 inhibitor
+4317,doxepin,5-hydroxytryptamine receptor 6 binder
+4318,doxepin,Histamine H4 receptor antagonist
+4320,doxepin,Histamine H4 receptor binder
+4321,doxepin,Potassium voltage-gated channel subfamily H member 2 antagonist
+4322,doxepin,Potassium voltage-gated channel subfamily H member 2 inhibitor
+4323,doxepin,Potassium voltage-gated channel subfamily H member 2 binder
+4325,flavoxate,Muscarinic acetylcholine receptor M2 antagonist
+4326,flavoxate,Muscarinic acetylcholine receptor M1 antagonist
+4327,nefazodone,5-hydroxytryptamine receptor 2A antagonist
+4328,nefazodone,5-hydroxytryptamine receptor 2A inhibitor
+4329,nefazodone,5-hydroxytryptamine receptor 2A other/unknown
+4330,nefazodone,5-hydroxytryptamine receptor 2C antagonist
+4331,nefazodone,5-hydroxytryptamine receptor 2C inhibitor
+4333,nefazodone,Sodium-dependent serotonin transporter antagonist
+4334,nefazodone,Sodium-dependent serotonin transporter inhibitor
+4336,nefazodone,5-hydroxytryptamine receptor 1A antagonist
+4337,nefazodone,5-hydroxytryptamine receptor 1A inhibitor
+4338,nefazodone,5-hydroxytryptamine receptor 1A other/unknown
+4339,nefazodone,Sodium-dependent noradrenaline transporter antagonist
+4340,nefazodone,Sodium-dependent noradrenaline transporter inhibitor
+4342,nefazodone,Sodium-dependent dopamine transporter antagonist
+4343,nefazodone,Sodium-dependent dopamine transporter inhibitor
+4345,nefazodone,Alpha-1B adrenergic receptor antagonist
+4346,nefazodone,Alpha-1B adrenergic receptor inhibitor
+4348,nefazodone,Alpha-2A adrenergic receptor antagonist
+4349,nefazodone,Alpha-2A adrenergic receptor inhibitor
+4351,nefazodone,Alpha-1A adrenergic receptor antagonist
+4352,nefazodone,Alpha-1A adrenergic receptor inhibitor
+4354,nefazodone,Potassium voltage-gated channel subfamily H member 2 antagonist
+4355,nefazodone,Potassium voltage-gated channel subfamily H member 2 inhibitor
+4357,desipramine,Sodium-dependent noradrenaline transporter inhibitor
+4358,desipramine,Sodium-dependent noradrenaline transporter antagonist
+4359,desipramine,Sodium-dependent noradrenaline transporter binder
+4360,desipramine,Beta-2 adrenergic receptor inhibitor
+4361,desipramine,Beta-2 adrenergic receptor antagonist
+4363,desipramine,Sodium-dependent serotonin transporter inhibitor
+4364,desipramine,Sodium-dependent serotonin transporter antagonist
+4365,desipramine,Sodium-dependent serotonin transporter binder
+4366,desipramine,5-hydroxytryptamine receptor 2A inhibitor
+4367,desipramine,5-hydroxytryptamine receptor 2A antagonist
+4368,desipramine,5-hydroxytryptamine receptor 2A binder
+4369,desipramine,Beta-1 adrenergic receptor inhibitor
+4370,desipramine,Beta-1 adrenergic receptor antagonist
+4375,desipramine,Histamine H1 receptor inhibitor
+4376,desipramine,Histamine H1 receptor antagonist
+4377,desipramine,Histamine H1 receptor binder
+4378,desipramine,Alpha-1 adrenergic receptors inhibitor
+4379,desipramine,Alpha-1 adrenergic receptors antagonist
+4380,desipramine,Alpha-1 adrenergic receptors binder
+4381,desipramine,Muscarinic acetylcholine receptor M1 inhibitor
+4382,desipramine,Muscarinic acetylcholine receptor M1 antagonist
+4383,desipramine,Muscarinic acetylcholine receptor M1 binder
+4384,desipramine,Muscarinic acetylcholine receptor M2 inhibitor
+4385,desipramine,Muscarinic acetylcholine receptor M2 antagonist
+4387,desipramine,Muscarinic acetylcholine receptor M3 inhibitor
+4388,desipramine,Muscarinic acetylcholine receptor M3 antagonist
+4389,desipramine,Muscarinic acetylcholine receptor M3 binder
+4390,desipramine,Muscarinic acetylcholine receptor M4 inhibitor
+4391,desipramine,Muscarinic acetylcholine receptor M4 antagonist
+4393,desipramine,Muscarinic acetylcholine receptor M5 inhibitor
+4394,desipramine,Muscarinic acetylcholine receptor M5 antagonist
+4396,desipramine,5-hydroxytryptamine receptor 1A inhibitor
+4397,desipramine,5-hydroxytryptamine receptor 1A antagonist
+4398,desipramine,5-hydroxytryptamine receptor 1A binder
+4399,desipramine,5-hydroxytryptamine receptor 2C inhibitor
+4400,desipramine,5-hydroxytryptamine receptor 2C antagonist
+4401,desipramine,5-hydroxytryptamine receptor 2C binder
+4402,desipramine,Dopamine D2 receptor inhibitor
+4403,desipramine,Dopamine D2 receptor antagonist
+4404,desipramine,Dopamine D2 receptor binder
+4405,desipramine,Alpha-2 adrenergic receptors inhibitor
+4406,desipramine,Alpha-2 adrenergic receptors antagonist
+4407,desipramine,Alpha-2 adrenergic receptors binder
+4408,gemifloxacin,DNA topoisomerase 4 subunit A inhibitor
+4409,gemifloxacin,DNA gyrase subunit A inhibitor
+4410,bupropion,Sodium-dependent dopamine transporter inhibitor
+4411,bupropion,Sodium-dependent dopamine transporter antagonist
+4412,bupropion,Sodium-dependent noradrenaline transporter inhibitor
+4413,bupropion,Sodium-dependent noradrenaline transporter antagonist
+4416,bupropion,5-hydroxytryptamine receptor 3A inhibitor
+4417,bupropion,5-hydroxytryptamine receptor 3A antagonist
+4419,chloroprocaine,Sodium channel protein type 10 subunit alpha inhibitor
+4420,chloroprocaine,Sodium-dependent dopamine transporter inhibitor
+4421,terazosin,Alpha-1A adrenergic receptor antagonist
+4422,terazosin,Alpha-1A adrenergic receptor inhibitor
+4424,terazosin,Alpha-1B adrenergic receptor antagonist
+4425,terazosin,Alpha-1B adrenergic receptor inhibitor
+4427,terazosin,Alpha-1D adrenergic receptor antagonist
+4428,terazosin,Alpha-1D adrenergic receptor inhibitor
+4430,terazosin,Potassium voltage-gated channel subfamily H member 2 antagonist
+4431,terazosin,Potassium voltage-gated channel subfamily H member 2 inhibitor
+4442,ofloxacin,DNA topoisomerase 4 subunit A inhibitor
+4443,ofloxacin,DNA gyrase subunit A inhibitor
+4444,ofloxacin,DNA topoisomerase 2-alpha inhibitor
+4445,cilostazol,"cGMP-inhibited 3',5'-cyclic phosphodiesterase A inhibitor"
+4448,procarbazine,DNA inhibitor
+4455,moclobemide,Amine oxidase [flavin-containing] B inhibitor
+4464,orphenadrine,Histamine H1 receptor antagonist
+4465,orphenadrine,Histamine H1 receptor inhibitor
+4466,orphenadrine,Sodium-dependent noradrenaline transporter antagonist
+4467,orphenadrine,Sodium-dependent noradrenaline transporter inhibitor
+4469,orphenadrine,Sodium channel protein type 10 subunit alpha inhibitor
+4470,phenobarbital,Gamma-aminobutyric acid receptor subunit alpha-1 potentiator
+4471,phenobarbital,Gamma-aminobutyric acid receptor subunit alpha-1 antagonist
+4474,phenobarbital,Neuronal acetylcholine receptor subunit alpha-4 antagonist
+4477,phenobarbital,Neuronal acetylcholine receptor subunit alpha-7 antagonist
+4491,cyclizine,Histamine H1 receptor antagonist
+4492,cyclizine,Histamine H1 receptor inhibitor
+4495,idarubicin,DNA inhibitor
+4496,idarubicin,DNA topoisomerase 2-alpha inhibitor
+4497,rescinnamine,Angiotensin-converting enzyme inhibitor
+4500,propafenone,Sodium channel protein type 5 subunit alpha inhibitor
+4502,propafenone,Potassium voltage-gated channel subfamily H member 2 inhibitor
+4503,propafenone,Potassium voltage-gated channel subfamily H member 2 antagonist
+4504,propafenone,Beta-1 adrenergic receptor inhibitor
+4505,propafenone,Beta-1 adrenergic receptor antagonist
+4506,propafenone,Beta-2 adrenergic receptor inhibitor
+4507,propafenone,Beta-2 adrenergic receptor antagonist
+4508,naloxone,Mu-type opioid receptor antagonist
+4510,naloxone,Mu-type opioid receptor inhibitor
+4512,naloxone,Delta-type opioid receptor antagonist
+4516,naloxone,Kappa-type opioid receptor antagonist
+4518,naloxone,Kappa-type opioid receptor inhibitor
+4519,naloxone,Kappa-type opioid receptor binder
+4524,naloxone,Estrogen receptor alpha antagonist
+4526,naloxone,Estrogen receptor alpha inhibitor
+4536,pergolide,Dopamine D2 receptor agonist
+4537,pergolide,Dopamine D3 receptor agonist
+4538,pergolide,Dopamine D4 receptor agonist
+4539,pergolide,5-hydroxytryptamine receptor 1A agonist
+4540,pergolide,5-hydroxytryptamine receptor 2B agonist
+4541,pergolide,5-hydroxytryptamine receptor 2A agonist
+4542,pergolide,5-hydroxytryptamine receptor 1D agonist
+4543,pergolide,Alpha-2 adrenergic receptors agonist
+4544,pergolide,Dopamine D5 receptor agonist
+4545,pergolide,Dopamine D1 receptor agonist
+4546,pergolide,5-hydroxytryptamine receptor 1B agonist
+4547,pergolide,5-hydroxytryptamine receptor 2C agonist
+4548,pergolide,Alpha-1A adrenergic receptor agonist
+4549,pergolide,Alpha-1B adrenergic receptor agonist
+4550,pergolide,Alpha-1D adrenergic receptor agonist
+4552,desflurane,GABA(A) Receptor agonist
+4553,desflurane,GABA(A) Receptor antagonist
+4556,desflurane,GABA(A) Receptor inhibitor
+4588,oxymorphone,Mu-type opioid receptor agonist
+4589,oxymorphone,Mu-type opioid receptor antagonist
+4590,oxymorphone,Delta-type opioid receptor agonist
+4591,oxymorphone,Delta-type opioid receptor antagonist
+4592,acebutolol,Beta-1 adrenergic receptor partial agonist
+4593,acebutolol,Beta-2 adrenergic receptor partial agonist
+4594,brinzolamide,Carbonic anhydrase 2 inhibitor
+4595,brinzolamide,Carbonic anhydrase 1 inhibitor
+4598,brinzolamide,Carbonic anhydrase 3 inhibitor
+4599,flecainide,Sodium channel protein type 5 subunit alpha inhibitor
+4601,flecainide,Potassium voltage-gated channel subfamily H member 2 inhibitor
+4609,estramustine,Estrogen receptor alpha antagonist
+4610,estramustine,Estrogen receptor alpha agonist
+4613,estramustine,Estrogen receptor beta agonist
+4615,captopril,Angiotensin-converting enzyme inhibitor
+4620,zopiclone,Gamma-aminobutyric acid receptor subunit alpha-1 potentiator
+4621,zopiclone,Gamma-aminobutyric acid receptor subunit alpha-1 agonist
+4630,bromocriptine,Dopamine D2 receptor agonist
+4631,bromocriptine,Dopamine D2 receptor antagonist
+4632,bromocriptine,Dopamine D3 receptor agonist
+4633,bromocriptine,Dopamine D3 receptor antagonist
+4634,bromocriptine,5-hydroxytryptamine receptor 1D agonist
+4635,bromocriptine,5-hydroxytryptamine receptor 1D antagonist
+4636,bromocriptine,Alpha-2A adrenergic receptor agonist
+4637,bromocriptine,Alpha-2A adrenergic receptor antagonist
+4638,bromocriptine,5-hydroxytryptamine receptor 1A agonist
+4639,bromocriptine,5-hydroxytryptamine receptor 1A antagonist
+4640,bromocriptine,Alpha-2C adrenergic receptor agonist
+4641,bromocriptine,Alpha-2C adrenergic receptor antagonist
+4642,bromocriptine,Alpha-2B adrenergic receptor agonist
+4643,bromocriptine,Alpha-2B adrenergic receptor antagonist
+4644,bromocriptine,5-hydroxytryptamine receptor 2B agonist
+4645,bromocriptine,5-hydroxytryptamine receptor 2B antagonist
+4646,bromocriptine,Dopamine D4 receptor agonist
+4647,bromocriptine,Dopamine D4 receptor antagonist
+4648,bromocriptine,5-hydroxytryptamine receptor 2A agonist
+4649,bromocriptine,5-hydroxytryptamine receptor 2A antagonist
+4650,bromocriptine,5-hydroxytryptamine receptor 1B agonist
+4651,bromocriptine,5-hydroxytryptamine receptor 1B antagonist
+4652,bromocriptine,5-hydroxytryptamine receptor 2C agonist
+4653,bromocriptine,5-hydroxytryptamine receptor 2C antagonist
+4654,bromocriptine,Dopamine D5 receptor agonist
+4655,bromocriptine,Dopamine D5 receptor antagonist
+4656,bromocriptine,Dopamine D1 receptor agonist
+4657,bromocriptine,Dopamine D1 receptor antagonist
+4658,bromocriptine,Alpha-1A adrenergic receptor agonist
+4659,bromocriptine,Alpha-1A adrenergic receptor antagonist
+4660,bromocriptine,Alpha-1B adrenergic receptor agonist
+4661,bromocriptine,Alpha-1B adrenergic receptor antagonist
+4662,bromocriptine,Alpha-1D adrenergic receptor agonist
+4663,bromocriptine,Alpha-1D adrenergic receptor antagonist
+4664,bromocriptine,5-hydroxytryptamine receptor 7 agonist
+4665,bromocriptine,5-hydroxytryptamine receptor 7 antagonist
+4667,nadolol,Beta-1 adrenergic receptor antagonist
+4668,nadolol,Beta-2 adrenergic receptor antagonist
+4669,mitoxantrone,DNA inhibitor
+4670,mitoxantrone,DNA topoisomerase 2-alpha inhibitor
+4671,flumazenil,Gamma-aminobutyric acid receptor subunit alpha-1 antagonist
+4674,flumazenil,GABA(A) Receptor antagonist
+4675,sparfloxacin,DNA topoisomerase 4 subunit A inhibitor
+4676,sparfloxacin,DNA gyrase subunit A inhibitor
+4677,sparfloxacin,DNA topoisomerase 2-alpha inhibitor
+4678,levobunolol,Beta-2 adrenergic receptor antagonist
+4679,levobunolol,Beta-1 adrenergic receptor antagonist
+4681,clarithromycin,Potassium voltage-gated channel subfamily H member 2 inhibitor
+4684,metipranolol,Beta-2 adrenergic receptor antagonist
+4685,metipranolol,Beta-1 adrenergic receptor antagonist
+4700,ketamine,Dopamine D2 receptor antagonist
+4701,ketamine,Dopamine D2 receptor agonist
+4703,ketamine,Dopamine D2 receptor binder
+4704,ketamine,Dopamine D2 receptor inhibitor
+4706,ketamine,Delta-type opioid receptor antagonist
+4707,ketamine,Delta-type opioid receptor agonist
+4712,ketamine,Sodium-dependent noradrenaline transporter antagonist
+4713,ketamine,Sodium-dependent noradrenaline transporter agonist
+4715,ketamine,Sodium-dependent noradrenaline transporter binder
+4716,ketamine,Sodium-dependent noradrenaline transporter inhibitor
+4718,ketamine,Kappa-type opioid receptor antagonist
+4719,ketamine,Kappa-type opioid receptor agonist
+4720,ketamine,Kappa-type opioid receptor partial agonist
+4721,ketamine,Kappa-type opioid receptor binder
+4722,ketamine,Kappa-type opioid receptor inhibitor
+4724,ketamine,Mu-type opioid receptor antagonist
+4725,ketamine,Mu-type opioid receptor agonist
+4728,ketamine,Mu-type opioid receptor inhibitor
+4730,ketamine,Muscarinic acetylcholine receptor antagonist
+4733,ketamine,Muscarinic acetylcholine receptor binder
+4734,ketamine,Muscarinic acetylcholine receptor inhibitor
+4748,ketamine,5-hydroxytryptamine receptor 3A antagonist
+4749,ketamine,5-hydroxytryptamine receptor 3A agonist
+4751,ketamine,5-hydroxytryptamine receptor 3A binder
+4752,ketamine,5-hydroxytryptamine receptor 3A inhibitor
+4764,ketamine,Cholinesterase inhibitor
+4772,budesonide,Glucocorticoid receptor agonist
+4774,aminophylline,"cGMP-inhibited 3',5'-cyclic phosphodiesterase A inhibitor"
+4777,aminophylline,Adenosine receptor A1 inhibitor
+4778,aminophylline,Adenosine receptor A1 antagonist
+4783,aminophylline,Histone deacetylase 2 inhibitor
+4786,quetiapine,5-hydroxytryptamine receptor 2A antagonist
+4789,quetiapine,Dopamine D2 receptor antagonist
+4792,quetiapine,5-hydroxytryptamine receptor 1A antagonist
+4793,quetiapine,5-hydroxytryptamine receptor 1A partial agonist
+4795,quetiapine,5-hydroxytryptamine receptor 1B antagonist
+4798,quetiapine,5-hydroxytryptamine receptor 1D antagonist
+4801,quetiapine,5-hydroxytryptamine receptor 1E antagonist
+4804,quetiapine,5-hydroxytryptamine receptor 2C antagonist
+4807,quetiapine,5-hydroxytryptamine receptor 3A antagonist
+4810,quetiapine,5-hydroxytryptamine receptor 6 antagonist
+4813,quetiapine,5-hydroxytryptamine receptor 7 antagonist
+4816,quetiapine,Dopamine D1 receptor antagonist
+4819,quetiapine,Dopamine D5 receptor antagonist
+4822,quetiapine,Dopamine D3 receptor antagonist
+4825,quetiapine,Dopamine D4 receptor antagonist
+4828,quetiapine,Histamine H1 receptor antagonist
+4831,quetiapine,Alpha-1 adrenergic receptors antagonist
+4834,quetiapine,Alpha-2A adrenergic receptor antagonist
+4837,quetiapine,Alpha-2B adrenergic receptor antagonist
+4840,quetiapine,Alpha-2C adrenergic receptor antagonist
+4843,quetiapine,Muscarinic acetylcholine receptor M1 antagonist
+4846,quetiapine,Muscarinic acetylcholine receptor M2 antagonist
+4849,quetiapine,Muscarinic acetylcholine receptor M3 antagonist
+4852,quetiapine,Muscarinic acetylcholine receptor M4 antagonist
+4855,quetiapine,Muscarinic acetylcholine receptor M5 antagonist
+4858,mivacurium,Neuronal acetylcholine receptor subunit alpha-2 antagonist
+4860,mivacurium,Muscarinic acetylcholine receptor M2 antagonist
+4862,mivacurium,Muscarinic acetylcholine receptor M3 antagonist
+4876,paclitaxel,Nuclear receptor subfamily 1 group I member 2 inhibitor
+4878,saquinavir,Human immunodeficiency virus type 1 protease inhibitor
+4879,metoclopramide,Dopamine D2 receptor antagonist
+4880,metoclopramide,Dopamine D2 receptor agonist
+4881,metoclopramide,Muscarinic acetylcholine receptor M1 antagonist
+4882,metoclopramide,Muscarinic acetylcholine receptor M1 agonist
+4885,metoclopramide,5-hydroxytryptamine receptor 3A antagonist
+4886,metoclopramide,5-hydroxytryptamine receptor 3A agonist
+4887,dexamethasone,Glucocorticoid receptor agonist
+4891,dexamethasone,Nuclear receptor subfamily 1 group I member 2 agonist
+4892,sevoflurane,Gamma-aminobutyric acid receptor subunit alpha-1 agonist
+4893,sevoflurane,Gamma-aminobutyric acid receptor subunit alpha-1 antagonist
+4912,sevoflurane,GABA(A) Receptor agonist
+4913,sevoflurane,GABA(A) Receptor antagonist
+4914,sevoflurane,GABA(A) Receptor inhibitor
+4920,aripiprazole,5-hydroxytryptamine receptor 1A partial agonist
+4921,aripiprazole,5-hydroxytryptamine receptor 1A antagonist
+4923,aripiprazole,5-hydroxytryptamine receptor 1A other/unknown
+4925,aripiprazole,Dopamine D2 receptor antagonist
+4927,aripiprazole,Dopamine D2 receptor other/unknown
+4929,aripiprazole,5-hydroxytryptamine receptor 2A antagonist
+4931,aripiprazole,5-hydroxytryptamine receptor 2A other/unknown
+4933,aripiprazole,Alpha-1A adrenergic receptor antagonist
+4937,aripiprazole,Alpha-1B adrenergic receptor antagonist
+4941,aripiprazole,Dopamine D3 receptor antagonist
+4945,aripiprazole,5-hydroxytryptamine receptor 1D antagonist
+4949,aripiprazole,5-hydroxytryptamine receptor 7 antagonist
+4953,aripiprazole,Alpha-2A adrenergic receptor antagonist
+4957,aripiprazole,Alpha-2C adrenergic receptor antagonist
+4961,aripiprazole,Histamine H1 receptor antagonist
+4965,aripiprazole,5-hydroxytryptamine receptor 1B antagonist
+4969,aripiprazole,5-hydroxytryptamine receptor 2C antagonist
+4973,aripiprazole,5-hydroxytryptamine receptor 3A antagonist
+4977,aripiprazole,5-hydroxytryptamine receptor 6 antagonist
+4981,aripiprazole,Dopamine D1 receptor antagonist
+4985,aripiprazole,Dopamine D4 receptor antagonist
+4989,aripiprazole,Alpha-2B adrenergic receptor antagonist
+4993,aripiprazole,5-hydroxytryptamine receptor 1E antagonist
+4997,aripiprazole,Dopamine D5 receptor antagonist
+5001,aripiprazole,5-hydroxytryptamine receptor 2B antagonist
+5008,aripiprazole,Beta-1 adrenergic receptor partial agonist
+5009,aripiprazole,Beta-1 adrenergic receptor antagonist
+5012,aripiprazole,Beta-2 adrenergic receptor partial agonist
+5013,aripiprazole,Beta-2 adrenergic receptor antagonist
+5017,aripiprazole,Histamine H2 receptor antagonist
+5025,aripiprazole,Histamine H4 receptor antagonist
+5029,aripiprazole,Muscarinic acetylcholine receptor M1 antagonist
+5033,aripiprazole,Muscarinic acetylcholine receptor M2 antagonist
+5037,aripiprazole,Muscarinic acetylcholine receptor M3 antagonist
+5041,aripiprazole,Muscarinic acetylcholine receptor M4 antagonist
+5045,aripiprazole,Muscarinic acetylcholine receptor M5 antagonist
+5048,aripiprazole,Kappa-type opioid receptor partial agonist
+5049,aripiprazole,Kappa-type opioid receptor antagonist
+5053,aripiprazole,Mu-type opioid receptor antagonist
+5057,aripiprazole,Delta-type opioid receptor antagonist
+5065,aripiprazole,Sodium-dependent dopamine transporter antagonist
+5069,aripiprazole,Sodium-dependent serotonin transporter antagonist
+5072,clomipramine,Sodium-dependent serotonin transporter inhibitor
+5073,clomipramine,Sodium-dependent serotonin transporter antagonist
+5074,clomipramine,5-hydroxytryptamine receptor 2A inhibitor
+5075,clomipramine,5-hydroxytryptamine receptor 2A antagonist
+5076,clomipramine,5-hydroxytryptamine receptor 2B inhibitor
+5077,clomipramine,5-hydroxytryptamine receptor 2B antagonist
+5078,clomipramine,5-hydroxytryptamine receptor 2C inhibitor
+5079,clomipramine,5-hydroxytryptamine receptor 2C antagonist
+5080,clomipramine,Sodium-dependent noradrenaline transporter inhibitor
+5081,clomipramine,Sodium-dependent noradrenaline transporter antagonist
+5096,bepridil,Calmodulin inhibitor
+5102,bepridil,Potassium voltage-gated channel subfamily H member 2 inhibitor
+5103,bepridil,Potassium voltage-gated channel subfamily H member 2 binder
+5113,dasatinib,Tyrosine-protein kinase ABL1 inhibitor
+5123,dasatinib,Mast/stem cell growth factor receptor Kit inhibitor
+5125,dasatinib,Platelet-derived growth factor receptor beta inhibitor
+5163,darunavir,Human immunodeficiency virus type 1 protease inhibitor
+5164,paliperidone,5-hydroxytryptamine receptor 2A antagonist
+5165,paliperidone,5-hydroxytryptamine receptor 2A agonist
+5166,paliperidone,Dopamine D2 receptor antagonist
+5167,paliperidone,Dopamine D2 receptor agonist
+5168,paliperidone,Histamine H1 receptor antagonist
+5169,paliperidone,Histamine H1 receptor agonist
+5170,paliperidone,Alpha-1A adrenergic receptor antagonist
+5171,paliperidone,Alpha-1A adrenergic receptor agonist
+5172,paliperidone,Alpha-1B adrenergic receptor antagonist
+5173,paliperidone,Alpha-1B adrenergic receptor agonist
+5174,paliperidone,Dopamine D4 receptor antagonist
+5175,paliperidone,Dopamine D4 receptor agonist
+5176,paliperidone,5-hydroxytryptamine receptor 1D antagonist
+5177,paliperidone,5-hydroxytryptamine receptor 1D agonist
+5178,paliperidone,Dopamine D3 receptor antagonist
+5179,paliperidone,Dopamine D3 receptor agonist
+5180,paliperidone,5-hydroxytryptamine receptor 2C antagonist
+5181,paliperidone,5-hydroxytryptamine receptor 2C agonist
+5182,paliperidone,Alpha-2A adrenergic receptor antagonist
+5183,paliperidone,Alpha-2A adrenergic receptor agonist
+5184,paliperidone,Alpha-2B adrenergic receptor antagonist
+5185,paliperidone,Alpha-2B adrenergic receptor agonist
+5186,paliperidone,Alpha-2C adrenergic receptor antagonist
+5187,paliperidone,Alpha-2C adrenergic receptor agonist
+5188,paliperidone,5-hydroxytryptamine receptor 1A antagonist
+5189,paliperidone,5-hydroxytryptamine receptor 1A agonist
+5190,paliperidone,Dopamine D1 receptor antagonist
+5191,paliperidone,Dopamine D1 receptor agonist
+5192,paliperidone,5-hydroxytryptamine receptor 7 antagonist
+5193,paliperidone,5-hydroxytryptamine receptor 7 agonist
+5194,sunitinib,Platelet-derived growth factor receptor beta inhibitor
+5196,sunitinib,Mast/stem cell growth factor receptor Kit inhibitor
+5197,sunitinib,Vascular endothelial growth factor receptor 2 inhibitor
+5203,varenicline,Neuronal acetylcholine receptor subunit alpha-4 agonist
+5219,nelarabine,DNA inhibitor
+5221,pirbuterol,Beta-2 adrenergic receptor agonist
+5222,pirbuterol,Beta-1 adrenergic receptor agonist
+5223,fosamprenavir,Human immunodeficiency virus type 1 protease inhibitor
+5224,fosphenytoin,Sodium channel protein type 5 subunit alpha inhibitor
+5225,pancuronium,Neuronal acetylcholine receptor subunit alpha-2 antagonist
+5226,pancuronium,Muscarinic acetylcholine receptor M2 antagonist
+5227,pancuronium,Muscarinic acetylcholine receptor M3 antagonist
+5228,vecuronium,Neuronal acetylcholine receptor subunit alpha-2 antagonist
+5229,cilazapril,Angiotensin-converting enzyme inhibitor
+5230,amobarbital,Gamma-aminobutyric acid receptor subunit alpha-1 potentiator
+5231,amobarbital,Gamma-aminobutyric acid receptor subunit alpha-1 antagonist
+5243,amobarbital,Neuronal acetylcholine receptor subunit alpha-4 antagonist
+5245,amobarbital,Neuronal acetylcholine receptor subunit alpha-7 antagonist
+5250,penbutolol,Beta-1 adrenergic receptor antagonist
+5251,penbutolol,Beta-1 adrenergic receptor partial agonist
+5252,penbutolol,Beta-2 adrenergic receptor antagonist
+5253,penbutolol,Beta-2 adrenergic receptor partial agonist
+5254,penbutolol,5-hydroxytryptamine receptor 1A antagonist
+5255,penbutolol,5-hydroxytryptamine receptor 1A partial agonist
+5256,penbutolol,5-hydroxytryptamine receptor 1B antagonist
+5258,ephedrine,Sodium-dependent noradrenaline transporter agonist
+5259,ephedrine,Alpha-1A adrenergic receptor agonist
+5260,ephedrine,Beta-1 adrenergic receptor agonist
+5261,ephedrine,Beta-2 adrenergic receptor agonist
+5262,rasagiline,Amine oxidase [flavin-containing] B inhibitor
+5306,bezafibrate,Peroxisome proliferator-activated receptor alpha agonist
+5310,bezafibrate,Peroxisome proliferator-activated receptor gamma agonist
+5312,bezafibrate,Nuclear receptor subfamily 1 group I member 2 agonist
+5326,drospirenone,Androgen receptor agonist
+5327,drospirenone,Androgen receptor antagonist
+5329,drospirenone,Glucocorticoid receptor agonist
+5332,neostigmine,Acetylcholinesterase inhibitor
+5333,danazol,Estrogen receptor alpha agonist
+5334,danazol,Estrogen receptor alpha inhibitor
+5335,danazol,Androgen receptor agonist
+5336,danazol,Androgen receptor inhibitor
+5345,tiotropium,Muscarinic acetylcholine receptor M3 antagonist
+5346,tiotropium,Muscarinic acetylcholine receptor M1 antagonist
+5347,tiotropium,Muscarinic acetylcholine receptor M2 antagonist
+5348,tiotropium,Muscarinic acetylcholine receptor M4 antagonist
+5349,tiotropium,Muscarinic acetylcholine receptor M5 antagonist
+5351,flunitrazepam,GABA(A) Receptor ligand
+5352,flunitrazepam,GABA(A) Receptor Benzodiazepine Binding Site ligand
+5353,bromazepam,GABA(A) Receptor ligand
+5354,bromazepam,GABA(A) Receptor Benzodiazepine Binding Site ligand
+5355,phendimetrazine,Alpha-1A adrenergic receptor agonist
+5356,phendimetrazine,Sodium-dependent noradrenaline transporter agonist
+5357,phendimetrazine,Alpha-1B adrenergic receptor agonist
+5358,oxprenolol,Beta-1 adrenergic receptor antagonist
+5359,oxprenolol,Beta-2 adrenergic receptor antagonist
+5360,oxprenolol,Beta-3 adrenergic receptor antagonist
+5362,solifenacin,Muscarinic acetylcholine receptor M3 antagonist
+5363,solifenacin,Muscarinic acetylcholine receptor M1 antagonist
+5364,solifenacin,Muscarinic acetylcholine receptor M2 antagonist
+5365,solifenacin,Muscarinic acetylcholine receptor M4 antagonist
+5366,solifenacin,Muscarinic acetylcholine receptor M5 antagonist
+5371,molindone,Dopamine D2 receptor antagonist
+5372,molindone,Dopamine D2 receptor other/unknown
+5373,molindone,5-hydroxytryptamine receptor 1A antagonist
+5374,molindone,5-hydroxytryptamine receptor 1A other/unknown
+5375,molindone,5-hydroxytryptamine receptor 2A antagonist
+5376,molindone,5-hydroxytryptamine receptor 2A other/unknown
+5377,molindone,Muscarinic acetylcholine receptor M1 antagonist
+5379,thiothixene,Dopamine D2 receptor antagonist
+5380,thiothixene,Dopamine D1 receptor antagonist
+5381,thiothixene,5-hydroxytryptamine receptor 2A antagonist
+5382,zuclopenthixol,Dopamine D1 receptor antagonist
+5383,zuclopenthixol,Dopamine D5 receptor antagonist
+5384,zuclopenthixol,Dopamine D2 receptor antagonist
+5385,zuclopenthixol,Alpha-1A adrenergic receptor antagonist
+5386,zuclopenthixol,Alpha-2A adrenergic receptor antagonist
+5387,zuclopenthixol,5-hydroxytryptamine receptor 2A antagonist
+5388,zuclopenthixol,Histamine H1 receptor antagonist
+5390,etoricoxib,Prostaglandin G/H synthase 2 inhibitor
+5396,vorinostat,Histone deacetylase 2 inhibitor
+5406,estriol,Estrogen receptor alpha agonist
+5407,estriol,Estrogen receptor beta agonist
+5410,tetrabenazine,Synaptic vesicular amine transporter inhibitor
+5411,tetrabenazine,Dopamine D2 receptor inhibitor
+5413,celiprolol,Beta-1 adrenergic receptor antagonist
+5414,celiprolol,Beta-1 adrenergic receptor agonist
+5415,celiprolol,Beta-2 adrenergic receptor antagonist
+5416,celiprolol,Beta-2 adrenergic receptor agonist
+5417,celiprolol,Beta-3 adrenergic receptor antagonist
+5418,celiprolol,Beta-3 adrenergic receptor agonist
+5419,celiprolol,Alpha-2A adrenergic receptor antagonist
+5420,celiprolol,Alpha-2A adrenergic receptor agonist
+5421,celiprolol,Alpha-2B adrenergic receptor antagonist
+5422,celiprolol,Alpha-2B adrenergic receptor agonist
+5423,celiprolol,Alpha-2C adrenergic receptor antagonist
+5424,celiprolol,Alpha-2C adrenergic receptor agonist
+5426,dronedarone,Alpha-1A adrenergic receptor antagonist
+5427,dronedarone,Alpha-1A adrenergic receptor inhibitor
+5428,dronedarone,Alpha-1B adrenergic receptor antagonist
+5429,dronedarone,Alpha-1B adrenergic receptor inhibitor
+5430,dronedarone,Alpha-1D adrenergic receptor antagonist
+5431,dronedarone,Alpha-1D adrenergic receptor inhibitor
+5432,dronedarone,Alpha-2A adrenergic receptor antagonist
+5433,dronedarone,Alpha-2A adrenergic receptor inhibitor
+5434,dronedarone,Alpha-2B adrenergic receptor antagonist
+5435,dronedarone,Alpha-2B adrenergic receptor inhibitor
+5436,dronedarone,Alpha-2C adrenergic receptor antagonist
+5437,dronedarone,Alpha-2C adrenergic receptor inhibitor
+5438,dronedarone,Beta-1 adrenergic receptor antagonist
+5439,dronedarone,Beta-1 adrenergic receptor inhibitor
+5440,dronedarone,Potassium voltage-gated channel subfamily H member 2 antagonist
+5441,dronedarone,Potassium voltage-gated channel subfamily H member 2 inhibitor
+5443,dronedarone,Voltage-dependent L-type calcium channel subunit alpha-1C inhibitor
+5445,dronedarone,Voltage-dependent L-type calcium channel subunit alpha-1D inhibitor
+5449,dronedarone,Voltage-dependent L-type calcium channel subunit alpha-1S inhibitor
+5453,dronedarone,Voltage-dependent L-type calcium channel subunit beta-2 inhibitor
+5461,dronedarone,Sodium channel protein type 5 subunit alpha inhibitor
+5474,nebivolol,Beta-1 adrenergic receptor antagonist
+5475,nebivolol,Beta-1 adrenergic receptor agonist
+5476,nebivolol,Beta-2 adrenergic receptor antagonist
+5477,nebivolol,Beta-2 adrenergic receptor agonist
+5478,nebivolol,Beta-3 adrenergic receptor antagonist
+5479,nebivolol,Beta-3 adrenergic receptor agonist
+5480,nilotinib,Tyrosine-protein kinase ABL1 inhibitor
+5482,nilotinib,Mast/stem cell growth factor receptor Kit inhibitor
+5485,milnacipran,Sodium-dependent serotonin transporter inhibitor
+5486,milnacipran,Sodium-dependent noradrenaline transporter inhibitor
+5491,ospemifene,Estrogen receptor alpha antagonist
+5492,ospemifene,Estrogen receptor alpha agonist
+5493,iloperidone,5-hydroxytryptamine receptor 2A antagonist
+5494,iloperidone,Dopamine D2 receptor antagonist
+5495,iloperidone,Dopamine D1 receptor antagonist
+5496,iloperidone,Dopamine D3 receptor antagonist
+5497,iloperidone,Dopamine D4 receptor antagonist
+5498,iloperidone,5-hydroxytryptamine receptor 1A antagonist
+5499,iloperidone,5-hydroxytryptamine receptor 6 antagonist
+5500,iloperidone,5-hydroxytryptamine receptor 7 antagonist
+5501,iloperidone,Alpha-1A adrenergic receptor antagonist
+5502,iloperidone,Histamine H1 receptor antagonist
+5503,iloperidone,Alpha-2C adrenergic receptor antagonist
+5505,indacaterol,Beta-2 adrenergic receptor agonist
+5506,rotigotine,Dopamine D3 receptor agonist
+5507,rotigotine,Dopamine D3 receptor antagonist
+5508,rotigotine,Dopamine D4 receptor agonist
+5509,rotigotine,Dopamine D4 receptor antagonist
+5510,rotigotine,Dopamine D5 receptor agonist
+5511,rotigotine,Dopamine D5 receptor antagonist
+5512,rotigotine,Dopamine D2 receptor agonist
+5513,rotigotine,Dopamine D2 receptor antagonist
+5514,rotigotine,Dopamine D1 receptor agonist
+5515,rotigotine,Dopamine D1 receptor antagonist
+5516,rotigotine,5-hydroxytryptamine receptor 1A agonist
+5517,rotigotine,5-hydroxytryptamine receptor 1A antagonist
+5518,rotigotine,Alpha-2B adrenergic receptor agonist
+5519,rotigotine,Alpha-2B adrenergic receptor antagonist
+5525,histamine,Histamine H1 receptor agonist
+5534,mianserin,Alpha-2A adrenergic receptor antagonist
+5535,mianserin,Alpha-2A adrenergic receptor inhibitor
+5536,mianserin,Alpha-2A adrenergic receptor binder
+5537,mianserin,Alpha-2A adrenergic receptor agonist
+5538,mianserin,5-hydroxytryptamine receptor 2A antagonist
+5539,mianserin,5-hydroxytryptamine receptor 2A inhibitor
+5540,mianserin,5-hydroxytryptamine receptor 2A binder
+5541,mianserin,5-hydroxytryptamine receptor 2A agonist
+5542,mianserin,5-hydroxytryptamine receptor 2C antagonist
+5543,mianserin,5-hydroxytryptamine receptor 2C inhibitor
+5544,mianserin,5-hydroxytryptamine receptor 2C binder
+5545,mianserin,5-hydroxytryptamine receptor 2C agonist
+5546,mianserin,Histamine H1 receptor antagonist
+5547,mianserin,Histamine H1 receptor inhibitor
+5548,mianserin,Histamine H1 receptor binder
+5549,mianserin,Histamine H1 receptor agonist
+5550,mianserin,Sodium-dependent noradrenaline transporter antagonist
+5551,mianserin,Sodium-dependent noradrenaline transporter inhibitor
+5552,mianserin,Sodium-dependent noradrenaline transporter binder
+5553,mianserin,Sodium-dependent noradrenaline transporter agonist
+5554,mianserin,Sodium-dependent serotonin transporter antagonist
+5555,mianserin,Sodium-dependent serotonin transporter inhibitor
+5556,mianserin,Sodium-dependent serotonin transporter binder
+5557,mianserin,Sodium-dependent serotonin transporter agonist
+5558,mianserin,Histamine H4 receptor antagonist
+5560,mianserin,Histamine H4 receptor binder
+5562,mianserin,5-hydroxytryptamine receptor 1A antagonist
+5563,mianserin,5-hydroxytryptamine receptor 1A inhibitor
+5564,mianserin,5-hydroxytryptamine receptor 1A binder
+5565,mianserin,5-hydroxytryptamine receptor 1A agonist
+5566,mianserin,Alpha-2C adrenergic receptor antagonist
+5567,mianserin,Alpha-2C adrenergic receptor inhibitor
+5569,mianserin,Alpha-2C adrenergic receptor agonist
+5570,mianserin,5-hydroxytryptamine receptor 2B antagonist
+5571,mianserin,5-hydroxytryptamine receptor 2B inhibitor
+5572,mianserin,5-hydroxytryptamine receptor 2B binder
+5573,mianserin,5-hydroxytryptamine receptor 2B agonist
+5577,mianserin,5-hydroxytryptamine receptor 1F agonist
+5578,mianserin,Alpha-2B adrenergic receptor antagonist
+5579,mianserin,Alpha-2B adrenergic receptor inhibitor
+5580,mianserin,Alpha-2B adrenergic receptor binder
+5581,mianserin,Alpha-2B adrenergic receptor agonist
+5582,mianserin,Dopamine D3 receptor antagonist
+5583,mianserin,Dopamine D3 receptor inhibitor
+5584,mianserin,Dopamine D3 receptor binder
+5585,mianserin,Dopamine D3 receptor agonist
+5586,mianserin,Kappa-type opioid receptor antagonist
+5587,mianserin,Kappa-type opioid receptor inhibitor
+5588,mianserin,Kappa-type opioid receptor binder
+5589,mianserin,Kappa-type opioid receptor agonist
+5590,mianserin,Sodium-dependent dopamine transporter antagonist
+5591,mianserin,Sodium-dependent dopamine transporter inhibitor
+5592,mianserin,Sodium-dependent dopamine transporter binder
+5593,mianserin,Sodium-dependent dopamine transporter agonist
+5594,mianserin,5-hydroxytryptamine receptor 7 antagonist
+5595,mianserin,5-hydroxytryptamine receptor 7 inhibitor
+5596,mianserin,5-hydroxytryptamine receptor 7 binder
+5597,mianserin,5-hydroxytryptamine receptor 7 agonist
+5598,mianserin,Dopamine D2 receptor antagonist
+5599,mianserin,Dopamine D2 receptor inhibitor
+5600,mianserin,Dopamine D2 receptor binder
+5601,mianserin,Dopamine D2 receptor agonist
+5602,mianserin,5-hydroxytryptamine receptor 6 antagonist
+5603,mianserin,5-hydroxytryptamine receptor 6 inhibitor
+5604,mianserin,5-hydroxytryptamine receptor 6 binder
+5606,mianserin,Alpha-1 adrenergic receptors antagonist
+5607,mianserin,Alpha-1 adrenergic receptors inhibitor
+5608,mianserin,Alpha-1 adrenergic receptors binder
+5609,mianserin,Alpha-1 adrenergic receptors agonist
+5610,mianserin,D(1) dopamine receptor antagonist
+5611,mianserin,D(1) dopamine receptor inhibitor
+5612,mianserin,D(1) dopamine receptor binder
+5613,mianserin,D(1) dopamine receptor agonist
+5617,romidepsin,Histone deacetylase 2 inhibitor
+5626,lasofoxifene,Estrogen receptor alpha antagonist
+5627,lasofoxifene,Estrogen receptor alpha agonist
+5629,lasofoxifene,Estrogen receptor beta agonist
+5632,tapentadol,Mu-type opioid receptor agonist
+5633,tapentadol,Mu-type opioid receptor inhibitor
+5634,tapentadol,Sodium-dependent noradrenaline transporter agonist
+5635,tapentadol,Sodium-dependent noradrenaline transporter inhibitor
+5636,tapentadol,Kappa-type opioid receptor agonist
+5637,tapentadol,Kappa-type opioid receptor inhibitor
+5638,tapentadol,Delta-type opioid receptor agonist
+5640,tapentadol,5-hydroxytryptamine receptor 3A agonist
+5641,tapentadol,5-hydroxytryptamine receptor 3A inhibitor
+5642,tapentadol,Sodium-dependent serotonin transporter agonist
+5643,tapentadol,Sodium-dependent serotonin transporter inhibitor
+5644,silodosin,Alpha-1A adrenergic receptor antagonist
+5645,silodosin,Alpha-1D adrenergic receptor antagonist
+5646,silodosin,Alpha-1B adrenergic receptor antagonist
+5652,asenapine,5-hydroxytryptamine receptor 1A antagonist
+5653,asenapine,5-hydroxytryptamine receptor 1B antagonist
+5654,asenapine,5-hydroxytryptamine receptor 2A antagonist
+5655,asenapine,5-hydroxytryptamine receptor 2B antagonist
+5656,asenapine,5-hydroxytryptamine receptor 2C antagonist
+5658,asenapine,5-hydroxytryptamine receptor 6 antagonist
+5659,asenapine,5-hydroxytryptamine receptor 7 antagonist
+5660,asenapine,Dopamine D2 receptor antagonist
+5661,asenapine,Dopamine D3 receptor antagonist
+5662,asenapine,Dopamine D4 receptor antagonist
+5663,asenapine,Dopamine D1 receptor antagonist
+5664,asenapine,Alpha-1A adrenergic receptor antagonist
+5665,asenapine,Alpha-2A adrenergic receptor antagonist
+5666,asenapine,Alpha-2B adrenergic receptor antagonist
+5667,asenapine,Alpha-2C adrenergic receptor antagonist
+5668,asenapine,Histamine H1 receptor antagonist
+5669,asenapine,Histamine H2 receptor antagonist
+5670,asenapine,Beta-1 adrenergic receptor antagonist
+5671,asenapine,Beta-2 adrenergic receptor antagonist
+5673,nalmefene,Mu-type opioid receptor antagonist
+5675,nalmefene,Kappa-type opioid receptor antagonist
+5676,nalmefene,Kappa-type opioid receptor partial agonist
+5677,nalmefene,Delta-type opioid receptor antagonist
+5679,avanafil,"cGMP-specific 3',5'-cyclic phosphodiesterase inhibitor"
+5683,amisulpride,Dopamine D2 receptor antagonist
+5684,amisulpride,Dopamine D2 receptor agonist
+5685,amisulpride,Dopamine D3 receptor antagonist
+5686,amisulpride,Dopamine D3 receptor agonist
+5687,amisulpride,5-hydroxytryptamine receptor 7 antagonist
+5688,amisulpride,5-hydroxytryptamine receptor 7 agonist
+5689,amisulpride,5-hydroxytryptamine receptor 2A antagonist
+5690,amisulpride,5-hydroxytryptamine receptor 2A agonist
+5691,amisulpride,Mu-type opioid receptor antagonist
+5692,amisulpride,Mu-type opioid receptor agonist
+5693,amisulpride,Delta-type opioid receptor antagonist
+5694,amisulpride,Delta-type opioid receptor agonist
+5695,amisulpride,Kappa-type opioid receptor antagonist
+5696,amisulpride,Kappa-type opioid receptor agonist
+5699,bazedoxifene,Estrogen receptor alpha antagonist
+5700,bazedoxifene,Estrogen receptor alpha agonist
+5702,bazedoxifene,Estrogen receptor beta agonist
+5707,pazopanib,Vascular endothelial growth factor receptor 2 inhibitor
+5710,pazopanib,Platelet-derived growth factor receptor beta inhibitor
+5711,pazopanib,Mast/stem cell growth factor receptor Kit inhibitor
+5717,bosutinib,Tyrosine-protein kinase ABL1 inhibitor
+5727,axitinib,Vascular endothelial growth factor receptor 2 inhibitor
+5730,vilazodone,Sodium-dependent serotonin transporter inhibitor
+5731,vilazodone,Sodium-dependent serotonin transporter agonist
+5732,vilazodone,5-hydroxytryptamine receptor 1A inhibitor
+5733,vilazodone,5-hydroxytryptamine receptor 1A agonist
+5734,betahistine,Histamine H1 receptor agonist
+5735,betahistine,Histamine H1 receptor antagonist
+5739,desvenlafaxine,Sodium-dependent noradrenaline transporter inhibitor
+5740,desvenlafaxine,Sodium-dependent serotonin transporter inhibitor
+5741,desvenlafaxine,Sodium-dependent dopamine transporter inhibitor
+5742,fesoterodine,Muscarinic acetylcholine receptor M3 antagonist
+5743,fesoterodine,Muscarinic acetylcholine receptor M4 antagonist
+5744,fesoterodine,Muscarinic acetylcholine receptor M1 antagonist
+5745,fesoterodine,Muscarinic acetylcholine receptor M2 antagonist
+5746,fesoterodine,Muscarinic acetylcholine receptor M5 antagonist
+5747,methacholine,Muscarinic acetylcholine receptor M3 agonist
+5749,methacholine,Muscarinic acetylcholine receptor M1 agonist
+5770,pralatrexate,Thymidylate synthase inhibitor
+5773,parecoxib,Prostaglandin G/H synthase 2 inhibitor
+5775,lurasidone,Dopamine D2 receptor antagonist
+5776,lurasidone,5-hydroxytryptamine receptor 2A antagonist
+5777,lurasidone,5-hydroxytryptamine receptor 7 antagonist
+5778,lurasidone,5-hydroxytryptamine receptor 1A antagonist
+5779,lurasidone,Alpha-2C adrenergic receptor antagonist
+5780,lurasidone,Alpha-2A adrenergic receptor antagonist
+5797,mirabegron,Beta-3 adrenergic receptor agonist
+5798,mirabegron,Beta-1 adrenergic receptor agonist
+5800,regorafenib,Vascular endothelial growth factor receptor 2 inhibitor
+5802,regorafenib,Mast/stem cell growth factor receptor Kit inhibitor
+5804,regorafenib,Platelet-derived growth factor receptor beta inhibitor
+5815,regorafenib,Tyrosine-protein kinase ABL1 inhibitor
+5817,aclidinium,Muscarinic acetylcholine receptor M1 antagonist
+5818,aclidinium,Muscarinic acetylcholine receptor M2 antagonist
+5819,aclidinium,Muscarinic acetylcholine receptor M3 antagonist
+5820,aclidinium,Muscarinic acetylcholine receptor M4 antagonist
+5821,aclidinium,Muscarinic acetylcholine receptor M5 antagonist
+5823,ponatinib,Tyrosine-protein kinase ABL1 inhibitor
+5825,ponatinib,Mast/stem cell growth factor receptor Kit inhibitor
+5836,ponatinib,Vascular endothelial growth factor receptor 2 inhibitor
+5840,pomalidomide,Prostaglandin G/H synthase 2 inhibitor
+5865,tibolone,Estrogen receptor alpha antagonist
+5866,tibolone,Estrogen receptor alpha agonist
+5867,umeclidinium,Muscarinic acetylcholine receptor M1 antagonist
+5868,umeclidinium,Muscarinic acetylcholine receptor M2 antagonist
+5869,umeclidinium,Muscarinic acetylcholine receptor M3 antagonist
+5870,umeclidinium,Muscarinic acetylcholine receptor M4 antagonist
+5871,umeclidinium,Muscarinic acetylcholine receptor M5 antagonist
+5875,homatropine,Muscarinic acetylcholine receptor M1 antagonist
+5876,homatropine,Muscarinic acetylcholine receptor M2 antagonist
+5877,homatropine,Muscarinic acetylcholine receptor M3 antagonist
+5878,homatropine,Muscarinic acetylcholine receptor M4 antagonist
+5879,homatropine,Muscarinic acetylcholine receptor M5 antagonist
+5881,tropisetron,5-hydroxytryptamine receptor 3A antagonist
+5882,lormetazepam,GABA(A) Receptor ligand
+5883,lormetazepam,GABA(A) Receptor Benzodiazepine Binding Site ligand
+5884,candesartan,Type-1 angiotensin II receptor antagonist
