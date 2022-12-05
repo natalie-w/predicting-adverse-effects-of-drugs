@@ -1,0 +1,2009 @@
+,drug_name,side_effect_name
+44,bupropion,Cardiovascular disorder
+45,bupropion,Cardiac flutter
+46,bupropion,Cardiac disorder
+47,bupropion,Myocardial infarction
+48,bupropion,Tachycardia
+49,bupropion,Supraventricular tachycardia
+50,estradiol,Cardiovascular disorder
+51,estradiol,Cardiac disorder
+52,estradiol,Myocardial infarction
+53,estradiol,Tachycardia
+54,estradiol,Myocardial ischaemia
+62,cytarabine,Cardiac disorder
+63,cytarabine,Cardiomegaly
+64,cytarabine,Pericarditis
+65,cytarabine,Tachycardia
+66,cytarabine,Cardio-respiratory arrest
+67,cytarabine,Cardiotoxicity
+68,cytarabine,Cardiomyopathy
+69,cytarabine,Non-cardiogenic pulmonary oedema
+72,dopamine,Tachycardia
+73,dopamine,Bradycardia
+74,dopamine,Electrocardiogram QRS complex
+75,estrone,Myocardial infarction
+85,histamine,Cardiac disorder
+86,histamine,Tachycardia
+90,epinephrine,Myocardial infarction
+91,epinephrine,Tachycardia
+92,epinephrine,Supraventricular tachycardia
+93,epinephrine,Myocardial ischaemia
+103,melatonin,Cardiac disorder
+108,nicotine,Cardiac disorder
+109,nicotine,Cardiac failure
+110,nicotine,Tachycardia
+112,norepinephrine,Bradycardia
+116,quinidine,Electrocardiogram abnormal
+117,quinidine,Cardiac arrest
+118,quinidine,Cardiac disorder
+119,quinidine,Tachycardia
+120,quinidine,Ventricular tachycardia
+121,quinidine,Electrocardiogram U wave present
+122,quinidine,Electrocardiogram U-wave abnormality
+123,quinidine,Bradycardia
+124,quinidine,Electrocardiogram QRS complex
+125,quinidine,Cardiotoxicity
+131,naproxen,Cardiac disorder
+132,naproxen,Cardiac failure
+133,naproxen,Cardiac failure congestive
+134,naproxen,Myocardial infarction
+135,naproxen,Tachycardia
+136,naproxen,Electrocardiogram abnormal
+137,cladribine,Cardiac disorder
+138,cladribine,Cardiac failure
+139,cladribine,Cardiac murmur
+140,cladribine,Tachycardia
+141,cladribine,Myocardial ischaemia
+142,cladribine,Decompensation cardiac
+143,doxorubicin,Congestive cardiomyopathy
+144,doxorubicin,Cardiovascular disorder
+145,doxorubicin,Cardiac arrest
+146,doxorubicin,Cardiac disorder
+147,doxorubicin,Cardiomegaly
+148,doxorubicin,Cardiac failure
+149,doxorubicin,Cardiac failure congestive
+150,doxorubicin,Myocarditis
+151,doxorubicin,Pericardial effusion
+152,doxorubicin,Pericarditis
+153,doxorubicin,Cardiogenic shock
+154,doxorubicin,Tachycardia
+155,doxorubicin,Sinus tachycardia
+156,doxorubicin,Ventricular tachycardia
+157,doxorubicin,Electrocardiogram QRS complex abnormal
+158,doxorubicin,Bradycardia
+159,doxorubicin,Electrocardiogram ST segment depression
+160,doxorubicin,Cardiotoxicity
+161,doxorubicin,Cardiomyopathy
+162,doxorubicin,Acute cardiac toxicity
+163,phenytoin,Cardiac arrest
+164,phenytoin,Cardiomegaly
+165,phenytoin,Cardiac failure congestive
+166,phenytoin,Tachycardia
+167,phenytoin,Sinus bradycardia
+168,phenytoin,Bradycardia
+176,methylprednisolone,Cardiac arrest
+177,methylprednisolone,Cardiac failure congestive
+178,methylprednisolone,Myocardial rupture
+179,methylprednisolone,Myocardial infarction
+180,abacavir,Myocardial infarction
+191,acebutolol,Cardiac output decreased
+192,acebutolol,Cardiac failure
+193,acebutolol,Cardiac failure congestive
+194,acebutolol,Bradycardia
+195,acetaminophen,Cardiac disorder
+196,acetaminophen,Tachycardia
+197,methacholine,Cardiac arrest
+198,methacholine,Bradycardia
+199,acyclovir,Cardiac tamponade
+200,acyclovir,Tachycardia
+201,salbutamol,Cardiac disorder
+202,salbutamol,Cardiac murmur
+203,salbutamol,Tachycardia
+204,salbutamol,Supraventricular tachycardia
+205,salbutamol,Cardiac output increased
+206,salbutamol,Cardiac failure high output
+207,salbutamol,Myocardial ischaemia
+208,salbutamol,Cardiac fibrillation
+209,salbutamol,Tachycardia foetal
+210,salbutamol,Electrocardiogram ST segment depression
+211,salbutamol,Electrocardiogram abnormal
+212,salbutamol,Electrocardiogram change
+213,alfuzosin,Cardiovascular disorder
+214,alfuzosin,Oedema due to cardiac disease
+215,alfuzosin,Cardiac disorder
+216,alfuzosin,Tachycardia
+217,alfuzosin,Ventricular tachycardia
+218,alfuzosin,Cardiac fibrillation
+228,amantadine,Cardiac arrest
+229,amantadine,Cardiac disorder
+230,amantadine,Cardiac failure
+231,amantadine,Cardiac failure congestive
+232,amantadine,Tachycardia
+249,theophylline,Cardiac flutter
+250,theophylline,Tachycardia
+251,theophylline,Sinus tachycardia
+252,theophylline,Supraventricular tachycardia
+253,theophylline,Multifocal atrial tachycardia
+254,theophylline,Atrial tachycardia
+255,theophylline,Cardio-respiratory arrest
+256,amiodarone,Cardiac arrest
+257,amiodarone,Cardiac failure
+258,amiodarone,Cardiac failure congestive
+259,amiodarone,Paroxysmal ventricular tachycardia
+260,amiodarone,Ventricular tachycardia
+261,amiodarone,Cardiogenic shock
+262,amiodarone,Tachycardia
+263,amiodarone,Sinus bradycardia
+264,amiodarone,Myocardial ischaemia
+265,amiodarone,Electrocardiogram QT prolonged
+266,amiodarone,Multifocal ventricular tachycardia
+267,amiodarone,Bradycardia
+268,amiodarone,Incessant ventricular tachycardia
+269,amisulpride,Cardiovascular disorder
+270,amisulpride,Cardiac arrest
+271,amisulpride,Cardiac disorder
+272,amisulpride,Ventricular tachycardia
+273,amisulpride,Bradycardia
+274,amitriptyline,Myocardial infarction
+275,amitriptyline,Tachycardia
+276,amitriptyline,Ventricular tachycardia
+277,amitriptyline,Electrocardiogram QRS complex
+278,amitriptyline,Electrocardiogram QT corrected interval prolonged
+279,amitriptyline,Electrocardiogram QT prolonged
+280,amitriptyline,Cardiomyopathy
+281,amlodipine,Cardiac disorder
+282,amlodipine,Cardiac failure congestive
+283,amlodipine,Tachycardia
+284,amlodipine,Ventricular tachycardia
+285,amlodipine,Bradycardia
+286,amobarbital,Bradycardia
+287,amoxapine,Myocardial infarction
+288,amoxapine,Tachycardia
+289,amprenavir,Cardiac disorder
+290,amprenavir,Myocardial infarction
+291,amsacrine,Cardiac disorder
+292,amsacrine,Cardiac failure congestive
+293,amsacrine,Tachycardia
+294,amsacrine,Sinus tachycardia
+295,amsacrine,Bradycardia
+296,amsacrine,Cardiomyopathy
+297,anagrelide,Cardiovascular disorder
+298,anagrelide,Cardiac disorder
+299,anagrelide,Cardiomegaly
+300,anagrelide,Cardiac failure
+301,anagrelide,Cardiac failure congestive
+302,anagrelide,Myocardial infarction
+303,anagrelide,Pericardial effusion
+304,anagrelide,Pericarditis
+305,anagrelide,Tachycardia
+306,anagrelide,Supraventricular tachycardia
+307,anagrelide,Ventricular tachycardia
+308,anagrelide,Cardiac fibrillation
+309,anagrelide,Cardiomyopathy
+313,apomorphine,Cardiac failure congestive
+314,apraclonidine,Bradycardia
+323,atenolol,Cardiac arrest
+324,atenolol,Cardiomegaly
+325,atenolol,Cardiac failure
+326,atenolol,Cardiac failure congestive
+327,atenolol,Cardiac septal defect
+328,atenolol,Cardiogenic shock
+329,atenolol,Tachycardia
+330,atenolol,Supraventricular tachycardia
+331,atenolol,Ventricular tachycardia
+332,atenolol,Bradycardia
+333,atenolol,Myocardial reinfarction
+334,atenolol,Myocardial infarction
+335,azelastine,Tachycardia
+343,benzphetamine,Cardiac valve disease
+344,benzphetamine,Tachycardia
+345,benzphetamine,Cardiomyopathy
+350,bepridil,Cardiac disorder
+351,bepridil,Cardiac failure
+352,bepridil,Sinus tachycardia
+353,bepridil,Ventricular tachycardia
+354,bepridil,Sinus bradycardia
+355,bepridil,Electrocardiogram QT prolonged
+356,bepridil,Acute myocardial infarction
+357,bepridil,Bradycardia
+358,betahistine,Tachycardia
+359,dexamethasone,Hypertrophic cardiomyopathy
+360,dexamethasone,Cardiac failure congestive
+361,dexamethasone,Myocardial rupture
+362,dexamethasone,Myocardial infarction
+363,betaxolol,Cardiac disorder
+364,betaxolol,Cardiac failure
+365,betaxolol,Myocardial infarction
+366,betaxolol,Tachycardia
+367,betaxolol,Cardiac failure acute
+368,betaxolol,Bradycardia
+369,bethanechol,Reflex tachycardia
+370,bethanechol,Tachycardia
+371,bicalutamide,Cardiac arrest
+372,bicalutamide,Cardiac disorder
+373,bicalutamide,Cardiac failure
+374,bicalutamide,Cardiac failure congestive
+375,bicalutamide,Myocardial infarction
+376,bicalutamide,Bradycardia
+377,bisoprolol,Cardiac arrest
+378,bisoprolol,Cardiac disorder
+379,bisoprolol,Cardiac failure
+380,bisoprolol,Cardiac failure congestive
+381,bisoprolol,Myocardial infarction
+382,bisoprolol,Tachycardia
+383,bisoprolol,Bradycardia
+384,bisoprolol,Cardiomyopathy
+386,brimonidine,Cardiac disorder
+387,brimonidine,Tachycardia
+388,brimonidine,Bradycardia
+393,bromocriptine,Cardiac disorder
+394,bromocriptine,Cardiac failure congestive
+395,bromocriptine,Cardiac valve disease
+396,bromocriptine,Myocardial infarction
+397,bromocriptine,Pericardial effusion
+398,bromocriptine,Pericarditis
+399,bromocriptine,Pericarditis constrictive
+400,bromocriptine,Tachycardia
+401,bromocriptine,Ventricular tachycardia
+402,bromocriptine,Bradycardia
+403,budesonide,Cardiac disorder
+404,budesonide,Tachycardia
+405,bupivacaine,Cardiac output decreased
+406,bupivacaine,Cardiac arrest
+407,bupivacaine,Cardiac disorder
+408,bupivacaine,Tachycardia
+409,bupivacaine,Ventricular tachycardia
+410,bupivacaine,Sinus bradycardia
+411,bupivacaine,Cardiac fibrillation
+412,bupivacaine,Bradycardia
+413,bupivacaine,Cardiovascular disorder
+414,bupivacaine,Electrocardiogram abnormal
+415,buprenorphine,Cardiac disorder
+416,buprenorphine,Tachycardia
+417,buprenorphine,Bradycardia
+418,buprenorphine,Cardiovascular disorder
+419,buprenorphine,Electrocardiogram QT corrected interval prolonged
+420,buprenorphine,Electrocardiogram QT prolonged
+421,buspirone,Cardiac failure congestive
+422,buspirone,Myocardial infarction
+423,buspirone,Tachycardia
+424,buspirone,Bradycardia
+425,buspirone,Electrocardiogram change
+426,buspirone,Cardiomyopathy
+437,butabarbital,Bradycardia
+438,butorphanol,Tachycardia
+439,cabergoline,Cardiac disorder
+440,cabergoline,Cardiac failure
+441,cabergoline,Cardiac valve disease
+442,cabergoline,Pericardial effusion
+443,cabergoline,Pericarditis
+444,cabergoline,Pericarditis constrictive
+445,caffeine,Cardiac disorder
+446,caffeine,Tachycardia
+447,verapamil,Hypertrophic cardiomyopathy
+448,verapamil,Cardiac flutter
+449,verapamil,Cardiac arrest
+450,verapamil,Cardiac failure
+451,verapamil,Myocardial infarction
+452,verapamil,Tachycardia
+453,verapamil,Bradycardia
+454,verapamil,Electrocardiogram abnormal
+465,carbamazepine,Cardiac arrest
+466,carbamazepine,Cardiac disorder
+467,carbamazepine,Cardiac failure
+468,carbamazepine,Cardiac failure congestive
+469,carbamazepine,Tachycardia
+470,carbamazepine,Bradycardia
+471,carbamazepine,Electrocardiogram QRS complex
+473,carbinoxamine,Tachycardia
+476,carteolol,Cardiac failure congestive
+477,carteolol,Bradycardia
+478,carvedilol,Cardiovascular disorder
+479,carvedilol,Cardiac arrest
+480,carvedilol,Cardiac failure
+481,carvedilol,Myocardial infarction
+482,carvedilol,Cardiogenic shock
+483,carvedilol,Tachycardia
+484,carvedilol,Ventricular tachycardia
+485,carvedilol,Sinus bradycardia
+486,carvedilol,Myocardial ischaemia
+487,carvedilol,Acute myocardial infarction
+488,carvedilol,Ischaemic cardiomyopathy
+489,carvedilol,Bradycardia
+490,carvedilol,Cardioactive drug level increased
+494,celecoxib,Cardiac disorder
+495,celecoxib,Cardiac failure
+496,celecoxib,Cardiac failure congestive
+497,celecoxib,Myocardial infarction
+498,celecoxib,Tachycardia
+499,celecoxib,Sinus bradycardia
+500,celiprolol,Cardiac failure
+501,celiprolol,Tachycardia
+502,celiprolol,Bradycardia
+503,cetirizine,Cardiac disorder
+504,cetirizine,Cardiac failure
+505,cetirizine,Tachycardia
+506,cevimeline,Cardiovascular disorder
+507,cevimeline,Cardiac disorder
+508,cevimeline,Cardiomegaly
+509,cevimeline,Cardiac murmur
+510,cevimeline,Myocardial infarction
+511,cevimeline,Pericarditis
+512,cevimeline,Tachycardia
+513,cevimeline,Supraventricular tachycardia
+514,cevimeline,Electrocardiogram T wave inversion
+515,cevimeline,Electrocardiogram abnormal
+519,chlorpheniramine,Tachycardia
+520,chlorpromazine,Cardiac arrest
+521,chlorpromazine,Tachycardia
+532,cilostazol,Cardiac arrest
+533,cilostazol,Cardiac disorder
+534,cilostazol,Cardiac failure
+535,cilostazol,Cardiac failure congestive
+536,cilostazol,Myocardial infarction
+537,cilostazol,Tachycardia
+538,cilostazol,Supraventricular tachycardia
+539,cilostazol,Ventricular tachycardia
+540,cilostazol,Myocardial ischaemia
+541,cilostazol,Electrocardiogram QT corrected interval prolonged
+542,cilostazol,Electrocardiogram QT prolonged
+543,cimetidine,Tachycardia
+544,cimetidine,Sinus bradycardia
+545,cimetidine,Bradycardia
+546,ciprofloxacin,Cardiac arrest
+547,ciprofloxacin,Cardiac disorder
+548,ciprofloxacin,Cardiac murmur
+549,ciprofloxacin,Myocardial infarction
+550,ciprofloxacin,Pericarditis
+551,ciprofloxacin,Tachycardia
+552,ciprofloxacin,Ventricular tachycardia
+553,ciprofloxacin,Bradycardia
+554,ciprofloxacin,Cardio-respiratory arrest
+560,citalopram,Cardiovascular disorder
+561,citalopram,Cardiac arrest
+562,citalopram,Cardiac disorder
+563,citalopram,Cardiac failure
+564,citalopram,Myocardial infarction
+565,citalopram,Tachycardia
+566,citalopram,Sinus tachycardia
+567,citalopram,Myocardial ischaemia
+568,citalopram,Electrocardiogram QT prolonged
+569,citalopram,Pericardial disease
+570,citalopram,Bradycardia
+571,citalopram,Electrocardiogram abnormal
+572,citalopram,Myocarditis
+573,citalopram,Ventricular tachycardia
+574,citalopram,Sinus bradycardia
+575,citalopram,Electrocardiogram PR shortened
+576,clemastine,Tachycardia
+580,clomipramine,Cardiac arrest
+581,clomipramine,Cardiac disorder
+582,clomipramine,Cardiac failure
+583,clomipramine,Cardiac failure congestive
+584,clomipramine,Myocardial infarction
+585,clomipramine,Tachycardia
+586,clomipramine,Sinus tachycardia
+587,clomipramine,Ventricular tachycardia
+588,clomipramine,Myocardial ischaemia
+589,clomipramine,Bradycardia
+590,clomipramine,Electrocardiogram QRS complex
+591,clomipramine,Electrocardiogram abnormal
+592,clomipramine,Electrocardiogram QT corrected interval prolonged
+593,clomipramine,Electrocardiogram QT prolonged
+594,clomipramine,Cardiomyopathy
+600,clonidine,Cardiac disorder
+601,clonidine,Cardiac failure congestive
+602,clonidine,Tachycardia
+603,clonidine,Sinus bradycardia
+604,clonidine,Electrocardiogram QT prolonged
+605,clonidine,Bradycardia
+606,clonidine,Electrocardiogram abnormal
+607,clonidine,Junctional bradycardia
+612,clozapine,Cardiac arrest
+613,clozapine,Cardiac disorder
+614,clozapine,Cardiac failure
+615,clozapine,Myocardial infarction
+616,clozapine,Pericardial effusion
+617,clozapine,Pericarditis
+618,clozapine,Tachycardia
+619,clozapine,Ventricular tachycardia
+620,clozapine,Bradycardia
+621,clozapine,Electrocardiogram change
+622,clozapine,Cardiomyopathy
+623,codeine,Cardiac arrest
+624,codeine,Cardiac disorder
+625,codeine,Tachycardia
+626,codeine,Bradycardia
+627,codeine,Cardiovascular insufficiency
+630,cyclobenzaprine,Myocardial infarction
+631,cyclobenzaprine,Tachycardia
+632,cyclopentolate,Tachycardia
+658,cyproheptadine,Tachycardia
+663,danazol,Myocardial infarction
+664,danazol,Tachycardia
+691,desipramine,Myocardial infarction
+692,desipramine,Tachycardia
+693,desipramine,Ventricular tachycardia
+694,dexamethasone,Cardiac arrest
+695,dexamethasone,Cardiomegaly
+696,dexamethasone,Cardiac failure
+697,dexamethasone,Tachycardia
+698,dexamethasone,Bradycardia
+699,amphetamine,Myocardial infarction
+700,amphetamine,Tachycardia
+701,amphetamine,Cardiomyopathy
+702,amphetamine,Cardiac disorder
+703,amphetamine,Cardiac death
+711,diazoxide,Tachycardia
+712,diclofenac,Cardiovascular disorder
+713,diclofenac,Cardiac disorder
+714,diclofenac,Cardiac failure
+715,diclofenac,Cardiac failure congestive
+716,diclofenac,Myocardial infarction
+717,diclofenac,Tachycardia
+718,diclofenac,Bradycardia
+719,dicyclomine,Cardiac disorder
+720,dicyclomine,Tachycardia
+731,dihydroergotamine,Myocardial infarction
+732,dihydroergotamine,Tachycardia
+733,dihydroergotamine,Ventricular tachycardia
+734,dihydroergotamine,Myocardial ischaemia
+748,diphenhydramine,Tachycardia
+749,dipivefrin,Tachycardia
+750,dipyridamole,Cardiac arrest
+751,dipyridamole,Cardiac disorder
+752,dipyridamole,Myocardial infarction
+753,dipyridamole,Tachycardia
+754,dipyridamole,Supraventricular tachycardia
+755,dipyridamole,Ventricular tachycardia
+756,dipyridamole,Cardiac fibrillation
+757,dipyridamole,Cardiac death
+758,dipyridamole,Bradycardia
+759,dipyridamole,Electrocardiogram abnormal
+760,dipyridamole,Sustained ventricular tachycardia
+761,dipyridamole,Electrocardiogram change
+762,dipyridamole,Cardiomyopathy
+763,dipyridamole,Electrocardiogram ST-T change
+764,disopyramide,Cardiac output decreased
+765,disopyramide,Cardiac arrest
+766,disopyramide,Cardiac failure
+767,disopyramide,Cardiac failure congestive
+768,disopyramide,Cardiogenic shock
+769,disopyramide,Ventricular tachycardia
+770,disopyramide,Cardiac fibrillation
+771,disopyramide,Bradycardia
+772,disopyramide,Electrocardiogram QRS complex
+787,dolasetron,Cardiac arrest
+788,dolasetron,Myocardial infarction
+789,dolasetron,Tachycardia
+790,dolasetron,Ventricular tachycardia
+791,dolasetron,Myocardial ischaemia
+792,dolasetron,Cardiac fibrillation
+793,dolasetron,Electrocardiogram U wave present
+794,dolasetron,Electrocardiogram U-wave abnormality
+795,dolasetron,Electrocardiogram abnormal specific
+796,dolasetron,Electrocardiogram abnormal
+797,dolasetron,Bradycardia
+798,dolasetron,Wide complex tachycardia
+799,dolasetron,Electrocardiogram poor R-wave progression
+800,donepezil,Cardiomegaly
+801,donepezil,Cardiac failure
+802,donepezil,Cardiac failure congestive
+803,donepezil,Myocardial infarction
+804,donepezil,Supraventricular tachycardia
+805,donepezil,Bradycardia
+806,donepezil,Electrocardiogram abnormal
+807,dorzolamide,Cardiac arrest
+808,dorzolamide,Cardiac failure
+809,dorzolamide,Cardiac failure congestive
+810,dorzolamide,Myocardial infarction
+811,dorzolamide,Bradycardia
+815,doxazosin,Cardiac failure
+816,doxazosin,Myocardial infarction
+817,doxazosin,Tachycardia
+818,doxazosin,Myocardial ischaemia
+819,doxazosin,Bradycardia
+820,doxazosin,Electrocardiogram abnormal
+821,doxepin,Cardiac disorder
+822,doxepin,Tachycardia
+823,doxepin,Cardiac death
+824,doxepin,Bradycardia
+825,doxepin,Electrocardiogram QRS complex abnormal
+826,doxepin,Electrocardiogram ST-T segment abnormal
+827,doxepin,Electrocardiogram change
+828,droperidol,Cardiac arrest
+829,droperidol,Tachycardia
+830,droperidol,Ventricular tachycardia
+833,dyphylline,Tachycardia
+834,edrophonium,Cardiac arrest
+835,edrophonium,Bradycardia
+836,efavirenz,Cardiac disorder
+837,efavirenz,Cardiac failure congestive
+838,efavirenz,Tachycardia
+839,emedastine,Cardiac disorder
+840,emedastine,Tachycardia
+849,ergotamine,Tachycardia
+850,ergotamine,Bradycardia
+851,erythromycin,Ventricular tachycardia
+852,erythromycin,Electrocardiogram QT prolonged
+854,estramustine,Cardiac arrest
+855,estramustine,Cardiac failure congestive
+856,estramustine,Myocardial infarction
+857,estramustine,Myocardial ischaemia
+858,estriol,Myocardial infarction
+861,etodolac,Cardiac failure congestive
+862,etodolac,Myocardial infarction
+863,etodolac,Tachycardia
+864,etoposide,Cardiovascular disorder
+865,etoposide,Cardiac arrest
+866,etoposide,Cardiac disorder
+867,etoposide,Cardiac failure
+868,etoposide,Cardiac failure congestive
+869,etoposide,Myocardial infarction
+870,etoposide,Tachycardia
+871,etoposide,Cardiotoxicity
+872,famciclovir,Cardiac disorder
+873,famotidine,Electrocardiogram QT prolonged
+874,famotidine,Bradycardia
+880,felodipine,Tachycardia
+881,felodipine,Bradycardia
+882,fenofibrate,Cardiovascular disorder
+883,fenofibrate,Cardiac disorder
+884,fenofibrate,Myocardial infarction
+885,fenofibrate,Tachycardia
+886,fenofibrate,Electrocardiogram abnormal
+887,fenoldopam,Cardiac failure
+888,fenoldopam,Myocardial infarction
+889,fenoldopam,Tachycardia
+890,fenoldopam,Myocardial ischaemia
+891,fenoldopam,Bradycardia
+892,fenoldopam,Electrocardiogram T wave inversion
+893,fenoprofen,Tachycardia
+894,fenoprofen,Supraventricular tachycardia
+895,fenoprofen,Electrocardiogram change
+896,fentanyl,Cardiac arrest
+897,fentanyl,Cardiac disorder
+898,fentanyl,Tachycardia
+899,fentanyl,Sinus tachycardia
+900,fentanyl,Bradycardia-tachycardia syndrome
+901,fentanyl,Bradycardia
+902,fentanyl,Non-cardiac chest pain
+903,fentanyl,Cardio-respiratory arrest
+904,fentanyl,Cardiovascular insufficiency
+905,fexofenadine,Cardiac failure congestive
+906,fexofenadine,Tachycardia
+907,flavoxate,Tachycardia
+908,flecainide,Cardiac arrest
+909,flecainide,Cardiac failure congestive
+910,flecainide,Tachycardia
+911,flecainide,Ventricular tachycardia
+912,flecainide,Sinus bradycardia
+913,flecainide,Bradycardia
+919,fludarabine,Cardiac failure
+920,fludarabine,Cardiac failure congestive
+921,fludarabine,Myocardial infarction
+922,fludarabine,Pericardial effusion
+923,fludarabine,Supraventricular tachycardia
+929,fludrocortisone,Cardiac failure congestive
+930,fluphenazine,Cardiac arrest
+931,fluphenazine,Tachycardia
+932,flumazenil,Tachycardia
+933,flumazenil,Junctional tachycardia
+934,flumazenil,Supraventricular tachycardia
+935,flumazenil,Ventricular tachycardia
+936,flumazenil,Bradycardia
+937,flunisolide,Tachycardia nervous
+938,flunisolide,Tachycardia
+950,fluoxetine,Cardiac arrest
+951,fluoxetine,Cardiac failure congestive
+952,fluoxetine,Myocardial infarction
+953,fluoxetine,Tachycardia
+954,fluoxetine,Ventricular tachycardia
+955,fluoxetine,Bradycardia
+956,fluoxetine,Cardiotoxicity
+957,flurbiprofen,Cardiac failure congestive
+958,flurbiprofen,Myocardial infarction
+959,flurbiprofen,Tachycardia
+960,flurbiprofen,Cardiac failure right
+961,fluvastatin,Cardiac disorder
+962,fluvoxamine,Cardiovascular disorder
+963,fluvoxamine,Cardiac arrest
+964,fluvoxamine,Cardiac disorder
+965,fluvoxamine,Cardiac failure
+966,fluvoxamine,Myocardial infarction
+967,fluvoxamine,Pericarditis
+968,fluvoxamine,Tachycardia
+969,fluvoxamine,Ventricular tachycardia
+970,fluvoxamine,Electrocardiogram QT prolonged
+971,fluvoxamine,Cardiac fibrillation
+972,fluvoxamine,Bradycardia
+973,fluvoxamine,Electrocardiogram ST segment
+974,fluvoxamine,Cardio-respiratory arrest
+975,fluvoxamine,Cardiomyopathy
+979,formoterol,Cardiac disorder
+980,formoterol,Tachycardia
+981,formoterol,Supraventricular tachycardia
+982,formoterol,Electrocardiogram QT prolonged
+983,formoterol,Cardiac failure congestive
+984,formoterol,Myocardial infarction
+985,formoterol,Electrocardiogram T wave inversion
+986,foscarnet,Cardiac arrest
+987,foscarnet,Sinus tachycardia
+1000,gabapentin,Cardiovascular disorder
+1001,gabapentin,Cardiac arrest
+1002,gabapentin,Cardiac disorder
+1003,gabapentin,Cardiac failure
+1004,gabapentin,Cardiac failure congestive
+1005,gabapentin,Myocardial infarction
+1006,gabapentin,Pericardial effusion
+1007,gabapentin,Pericarditis
+1008,gabapentin,Tachycardia
+1009,gabapentin,Pericardial rub
+1010,gabapentin,Bradycardia
+1011,galantamine,Cardiac disorder
+1012,galantamine,Cardiac failure
+1013,galantamine,Tachycardia
+1014,galantamine,Supraventricular tachycardia
+1015,galantamine,Ventricular tachycardia
+1016,galantamine,Sinus bradycardia
+1017,galantamine,Myocardial ischaemia
+1018,galantamine,Electrocardiogram QT prolonged
+1019,galantamine,Bradycardia
+1020,galantamine,Electrocardiogram T wave inversion
+1021,ganciclovir,Cardiac arrest
+1022,ganciclovir,Tachycardia
+1023,ganciclovir,Ventricular tachycardia
+1024,gemcitabine,Cardiac disorder
+1025,gemcitabine,Cardiac failure
+1026,gemcitabine,Cardiac failure congestive
+1027,gemcitabine,Myocardial infarction
+1028,gemcitabine,Cardiotoxicity
+1041,granisetron,Tachycardia
+1042,granisetron,Sinus bradycardia
+1043,granisetron,Bradycardia
+1046,guanfacine,Cardiac failure congestive
+1047,guanfacine,Myocardial infarction
+1048,guanfacine,Tachycardia
+1049,guanfacine,Cardiac fibrillation
+1050,guanfacine,Bradycardia
+1052,haloperidol,Cardiac arrest
+1053,haloperidol,Cardiac disorder
+1054,haloperidol,Tachycardia
+1055,haloperidol,Ventricular tachycardia
+1056,haloperidol,Electrocardiogram QT prolonged
+1057,homatropine,Cardiac disorder
+1058,homatropine,Tachycardia
+1077,hydromorphone,Cardiac arrest
+1078,hydromorphone,Cardiac disorder
+1079,hydromorphone,Tachycardia
+1080,hydromorphone,Ventricular tachycardia
+1081,hydromorphone,Bradycardia
+1082,hydromorphone,Cardiovascular insufficiency
+1086,atropine,Tachycardia
+1087,atropine,Cardiac arrest
+1088,atropine,Myocardial infarction
+1089,atropine,Junctional tachycardia
+1090,atropine,Supraventricular tachycardia
+1091,atropine,Sinus tachycardia
+1092,atropine,Ventricular tachycardia
+1093,atropine,Electrocardiogram QT prolonged
+1094,atropine,Bradycardia
+1095,atropine,Electrocardiogram QRS complex
+1096,atropine,Cardiac syncope
+1097,ibuprofen,Cardiac failure
+1098,ibuprofen,Cardiac failure congestive
+1099,ibuprofen,Myocardial infarction
+1100,ibuprofen,Tachycardia
+1101,ibuprofen,Sinus tachycardia
+1102,ibuprofen,Sinus bradycardia
+1103,phenelzine,Tachycardia
+1104,lidocaine,Cardiac arrest
+1105,lidocaine,Cardiac disorder
+1106,lidocaine,Ventricular tachycardia
+1107,lidocaine,Myocardial depression
+1108,lidocaine,Bradycardia
+1109,idarubicin,Cardiac failure congestive
+1110,idarubicin,Myocardial infarction
+1111,idarubicin,Myocarditis
+1112,idarubicin,Pericarditis
+1113,idarubicin,Sinus tachycardia
+1114,idarubicin,Cardiotoxicity
+1115,idarubicin,Cardiomyopathy
+1135,imipramine,Cardiac disorder
+1136,imipramine,Cardiac failure
+1137,imipramine,Cardiac failure congestive
+1138,imipramine,Myocardial infarction
+1139,imipramine,Tachycardia
+1140,imipramine,Sinus tachycardia
+1141,imipramine,Ventricular tachycardia
+1142,imipramine,Electrocardiogram QRS complex
+1150,indinavir,Cardiovascular disorder
+1151,indinavir,Myocardial infarction
+1152,indomethacin,Cardiac failure congestive
+1153,indomethacin,Tachycardia
+1154,indomethacin,Bradycardia
+1224,ipratropium,Cardiovascular disorder
+1225,ipratropium,Cardiac disorder
+1226,ipratropium,Tachycardia
+1227,ipratropium,Supraventricular tachycardia
+1239,isoflurane,Cardiac arrest
+1240,isoflurane,Cardiac disorder
+1248,isradipine,Cardiac disorder
+1249,isradipine,Cardiac failure
+1250,isradipine,Myocardial infarction
+1251,isradipine,Tachycardia
+1252,isradipine,Bradycardia
+1260,ketamine,Bradycardia
+1261,ketoconazole,Electrocardiogram QT prolonged
+1262,ketoprofen,Cardiac failure
+1263,ketoprofen,Cardiac failure congestive
+1264,ketoprofen,Myocardial infarction
+1265,ketoprofen,Tachycardia
+1266,ketorolac,Cardiac failure congestive
+1267,ketorolac,Myocardial infarction
+1268,ketorolac,Tachycardia
+1269,ketorolac,Bradycardia
+1270,labetalol,Cardiac failure
+1271,labetalol,Bradycardia
+1272,lamivudine,Cardiomyopathy
+1273,lamotrigine,Cardiac arrest
+1274,lamotrigine,Cardiac failure
+1275,lamotrigine,Myocardial infarction
+1276,lamotrigine,Tachycardia
+1295,levobunolol,Cardiac arrest
+1296,levobunolol,Cardiac failure congestive
+1297,levobunolol,Bradycardia
+1313,lisuride,Cardiac disorder
+1314,lisuride,Cardiac valve disease
+1315,lisuride,Pericardial effusion
+1316,lisuride,Pericarditis
+1317,lisuride,Tachycardia
+1319,lomefloxacin,Cardiac failure
+1320,lomefloxacin,Myocardial infarction
+1321,lomefloxacin,Tachycardia
+1322,lomefloxacin,Bradycardia
+1323,lomefloxacin,Cardio-respiratory arrest
+1324,lomefloxacin,Cardiomyopathy
+1325,loratadine,Cardiovascular disorder
+1326,loratadine,Tachycardia
+1334,loxapine,Tachycardia
+1335,maprotiline,Cardiac disorder
+1336,maprotiline,Myocardial infarction
+1337,maprotiline,Tachycardia
+1338,maprotiline,Sinus tachycardia
+1339,maprotiline,Ventricular tachycardia
+1340,maprotiline,Electrocardiogram QRS complex
+1358,meloxicam,Cardiac disorder
+1359,meloxicam,Cardiac failure
+1360,meloxicam,Cardiac failure congestive
+1361,meloxicam,Myocardial infarction
+1362,meloxicam,Tachycardia
+1365,memantine,Cardiovascular disorder
+1366,memantine,Cardiac arrest
+1367,memantine,Cardiac disorder
+1368,memantine,Cardiomegaly
+1369,memantine,Cardiac failure
+1370,memantine,Cardiac failure congestive
+1371,memantine,Cardiac murmur
+1372,memantine,Cardiac valve disease
+1373,memantine,Myocardial infarction
+1374,memantine,Tachycardia
+1375,memantine,Supraventricular tachycardia
+1376,memantine,Electrocardiogram QT prolonged
+1377,memantine,Electrocardiogram abnormal specific
+1378,memantine,Electrocardiogram abnormal
+1379,memantine,Bradycardia
+1380,memantine,Electrocardiogram change
+1381,memantine,Electrocardiogram QT corrected interval prolonged
+1383,meperidine,Cardiac arrest
+1384,meperidine,Tachycardia
+1385,meperidine,Bradycardia
+1386,meperidine,Cardiovascular insufficiency
+1387,mepivacaine,Cardiac output decreased
+1388,mepivacaine,Cardiac arrest
+1389,mepivacaine,Tachycardia
+1390,mepivacaine,Bradycardia
+1391,meprobamate,Tachycardia
+1404,methadone,Cardiac arrest
+1405,methadone,Cardiac failure
+1406,methadone,Tachycardia
+1407,methadone,Ventricular tachycardia
+1408,methadone,Electrocardiogram QT prolonged
+1409,methadone,Bradycardia
+1410,methadone,Electrocardiogram T wave inversion
+1411,methadone,Cardiomyopathy
+1412,methadone,Cardiovascular insufficiency
+1413,methocarbamol,Bradycardia
+1414,methotrexate,Cardiac tamponade
+1415,methotrexate,Cardiac disorder
+1416,methotrexate,Nocardiosis
+1417,methotrexate,Pericardial effusion
+1418,methotrexate,Pericarditis
+1420,methyldopa,Cardiac disorder
+1421,methyldopa,Cardiac failure congestive
+1422,methyldopa,Myocarditis
+1423,methyldopa,Pericarditis
+1424,methyldopa,Bradycardia
+1427,methylergometrine,Cardiac disorder
+1428,methylergometrine,Tachycardia
+1429,methylergometrine,Ventricular tachycardia
+1430,methylergometrine,Acute myocardial infarction
+1431,methylergometrine,Bradycardia
+1432,methylphenidate,Cardiac arrest
+1433,methylphenidate,Cardiac disorder
+1434,methylphenidate,Cardiac murmur
+1435,methylphenidate,Myocardial infarction
+1436,methylphenidate,Tachycardia
+1437,methylphenidate,Supraventricular tachycardia
+1438,methylphenidate,Sudden cardiac death
+1439,methylphenidate,Cardiac death
+1440,methylphenidate,Bradycardia
+1441,methylprednisolone,Hypertrophic cardiomyopathy
+1442,methylprednisolone,Cardiac disorder
+1443,methylprednisolone,Cardiomegaly
+1444,methylprednisolone,Cardiac failure
+1445,methylprednisolone,Tachycardia
+1446,methylprednisolone,Bradycardia
+1447,methysergide,Cardiac murmur
+1448,methysergide,Tachycardia
+1449,metoclopramide,Cardiac arrest
+1450,metoclopramide,Cardiac failure congestive
+1451,metoclopramide,Tachycardia
+1452,metoclopramide,Supraventricular tachycardia
+1453,metoclopramide,Ventricular tachycardia
+1454,metoclopramide,Bradycardia
+1455,metoclopramide,Cardio-respiratory arrest
+1456,metoprolol,Cardiac output decreased
+1457,metoprolol,Cardiac arrest
+1458,metoprolol,Cardiac disorder
+1459,metoprolol,Cardiac failure
+1460,metoprolol,Cardiac failure congestive
+1461,metoprolol,Cardiogenic shock
+1462,metoprolol,Tachycardia
+1463,metoprolol,Ventricular tachycardia
+1464,metoprolol,Acute myocardial infarction
+1465,metoprolol,Bradycardia
+1466,metoprolol,Cardiovascular disorder
+1468,mexiletine,Cardiac failure congestive
+1469,mexiletine,Cardiogenic shock
+1470,mexiletine,Bradycardia
+1471,mianserin,Cardiac arrest
+1472,mianserin,Cardiac disorder
+1473,mianserin,Cardiac failure
+1474,mianserin,Tachycardia
+1475,mianserin,Electrocardiogram QT prolonged
+1476,mianserin,Bradycardia
+1484,midodrine,Cardiac disorder
+1485,midodrine,Tachycardia
+1486,midodrine,Reflex bradycardia
+1487,midodrine,Bradycardia
+1488,milrinone,Ventricular tachycardia
+1489,milrinone,Non-sustained ventricular tachycardia
+1490,milrinone,Sustained ventricular tachycardia
+1498,mirtazapine,Cardiac disorder
+1499,mirtazapine,Cardiomegaly
+1500,mirtazapine,Myocardial infarction
+1501,mirtazapine,Tachycardia
+1502,mirtazapine,Bradycardia
+1503,mitoxantrone,Cardiac failure
+1504,mitoxantrone,Cardiac failure congestive
+1505,mitoxantrone,Myocardial infarction
+1506,mitoxantrone,Tachycardia
+1507,mitoxantrone,Sinus bradycardia
+1508,mitoxantrone,Myocardial ischaemia
+1509,mitoxantrone,Bradycardia
+1510,mitoxantrone,Electrocardiogram abnormal
+1511,mitoxantrone,Cardiotoxicity
+1512,mitoxantrone,Cardiomyopathy
+1513,moclobemide,Tachycardia
+1514,moclobemide,Bradycardia
+1515,modafinil,Cardiac arrest
+1516,modafinil,Cardiac disorder
+1517,modafinil,Tachycardia
+1518,modafinil,Myocardial ischaemia
+1519,modafinil,Bradycardia
+1520,modafinil,Electrocardiogram abnormal
+1522,morphine,Cardiac arrest
+1523,morphine,Tachycardia
+1524,morphine,Supraventricular tachycardia
+1525,morphine,Ventricular tachycardia
+1526,morphine,Bradycardia
+1527,morphine,Cardiovascular insufficiency
+1528,morphine,Cardiovascular disorder
+1529,morphine,Non-cardiogenic pulmonary oedema
+1530,moxifloxacin,Cardiovascular disorder
+1531,moxifloxacin,Cardiac arrest
+1532,moxifloxacin,Cardiac disorder
+1533,moxifloxacin,Cardiac failure
+1534,moxifloxacin,Cardiac failure congestive
+1535,moxifloxacin,Myocardial infarction
+1536,moxifloxacin,Tachycardia
+1537,moxifloxacin,Supraventricular tachycardia
+1538,moxifloxacin,Ventricular tachycardia
+1539,moxifloxacin,Electrocardiogram QT prolonged
+1540,moxifloxacin,Bradycardia
+1541,moxifloxacin,Electrocardiogram abnormal
+1542,moxifloxacin,Acute myocardial ischemia
+1543,moxifloxacin,Myocardial ischaemia
+1576,nabumetone,Myocardial infarction
+1577,nadolol,Cardiomegaly
+1578,nadolol,Cardiac failure
+1579,nadolol,Cardiac failure congestive
+1580,nadolol,Bradycardia
+1581,nalbuphine,Cardiac arrest
+1582,nalbuphine,Tachycardia
+1583,nalbuphine,Bradycardia
+1584,nalmefene,Cardiac disorder
+1585,nalmefene,Tachycardia
+1586,nalmefene,Bradycardia
+1587,naloxone,Cardiac arrest
+1588,naloxone,Cardiac disorder
+1589,naloxone,Tachycardia
+1590,naloxone,Ventricular tachycardia
+1591,naloxone,Cardiac fibrillation
+1592,naltrexone,Cardiac disorder
+1593,naltrexone,Cardiac failure congestive
+1594,naltrexone,Myocardial infarction
+1595,naltrexone,Tachycardia
+1596,naratriptan,Cardiac disorder
+1597,naratriptan,Cardiac murmur
+1598,naratriptan,Myocardial infarction
+1599,naratriptan,Ventricular tachycardia
+1600,naratriptan,Myocardial ischaemia
+1601,naratriptan,Bradycardia
+1602,naratriptan,Electrocardiogram abnormal
+1603,naratriptan,Electrocardiogram PR prolongation
+1604,naratriptan,Electrocardiogram QT corrected interval prolonged
+1605,naratriptan,Electrocardiogram QT prolonged
+1606,nefazodone,Cardiac failure congestive
+1607,nefazodone,Tachycardia
+1608,nefazodone,Sinus bradycardia
+1609,nefazodone,Bradycardia
+1613,neostigmine,Cardiovascular disorder
+1614,neostigmine,Cardiac arrest
+1615,neostigmine,Tachycardia
+1616,neostigmine,Bradycardia
+1617,nicardipine,Pericardial haemorrhage
+1618,nicardipine,Myocardial infarction
+1619,nicardipine,Pericarditis
+1620,nicardipine,Tachycardia
+1621,nicardipine,Supraventricular tachycardia
+1622,nicardipine,Ventricular tachycardia
+1623,nicardipine,Electrocardiogram ST segment depression
+1624,nicardipine,Electrocardiogram T wave inversion
+1625,nicardipine,Electrocardiogram abnormal
+1626,nifedipine,Cardiovascular disorder
+1627,nifedipine,Cardiac arrest
+1628,nifedipine,Cardiac disorder
+1629,nifedipine,Cardiac failure
+1630,nifedipine,Cardiac failure congestive
+1631,nifedipine,Cardiogenic shock
+1632,nifedipine,Tachycardia
+1633,nifedipine,Myocardial ischaemia
+1634,nifedipine,Bradycardia
+1635,nilutamide,Cardiac failure
+1636,nimodipine,Cardiac disorder
+1637,nimodipine,Cardiac failure congestive
+1638,nimodipine,Tachycardia
+1639,nimodipine,Bradycardia
+1640,nisoldipine,Cardiac failure congestive
+1641,nisoldipine,Myocardial infarction
+1642,nisoldipine,Tachycardia
+1643,nisoldipine,Supraventricular tachycardia
+1644,nisoldipine,Cardiac murmur
+1652,nizatidine,Ventricular tachycardia
+1653,norethisterone,Myocardial infarction
+1654,norfloxacin,Myocardial infarction
+1655,levonorgestrel,Cardiac disorder
+1656,nortriptyline,Myocardial infarction
+1657,nortriptyline,Tachycardia
+1658,nortriptyline,Ventricular tachycardia
+1659,nortriptyline,Electrocardiogram QRS complex
+1660,nortriptyline,Electrocardiogram QT corrected interval prolonged
+1661,nortriptyline,Electrocardiogram QT prolonged
+1662,repaglinide,Cardiovascular disorder
+1663,repaglinide,Cardiac disorder
+1664,repaglinide,Cardiac failure congestive
+1665,repaglinide,Myocardial infarction
+1666,repaglinide,Myocardial ischaemia
+1667,repaglinide,Electrocardiogram abnormal
+1669,ofloxacin,Cardiac arrest
+1670,ofloxacin,Tachycardia
+1671,ofloxacin,Cardiovascular disorder
+1672,ofloxacin,Endocarditis
+1673,ofloxacin,Cardiac disorder
+1674,ofloxacin,Cardiac failure
+1675,ofloxacin,Myocardial infarction
+1676,ofloxacin,Supraventricular tachycardia
+1677,ofloxacin,Ventricular tachycardia
+1678,ofloxacin,Electrocardiogram QT prolonged
+1679,ofloxacin,Bradycardia
+1680,olanzapine,Cardiac arrest
+1681,olanzapine,Cardiac disorder
+1682,olanzapine,Cardiac failure
+1683,olanzapine,Cardiac failure congestive
+1684,olanzapine,Tachycardia
+1685,olanzapine,Ventricular tachycardia
+1686,olanzapine,Cardiac fibrillation
+1687,olanzapine,Bradycardia
+1688,olanzapine,Electrocardiogram change
+1689,olanzapine,Electrocardiogram QT corrected interval prolonged
+1690,olanzapine,Electrocardiogram QT prolonged
+1693,ondansetron,Cardiovascular disorder
+1694,ondansetron,Cardiac disorder
+1695,ondansetron,Myocardial infarction
+1696,ondansetron,Tachycardia
+1697,ondansetron,Supraventricular tachycardia
+1698,ondansetron,Myocardial ischaemia
+1699,ondansetron,Bradycardia
+1700,ondansetron,Electrocardiogram ST segment depression
+1701,ondansetron,Cardio-respiratory arrest
+1702,ondansetron,Electrocardiogram QT corrected interval prolonged
+1703,ondansetron,Electrocardiogram QT prolonged
+1705,orphenadrine,Tachycardia
+1709,oxaprozin,Cardiac failure congestive
+1710,oxaprozin,Myocardial infarction
+1711,oxaprozin,Tachycardia
+1712,oxprenolol,Cardiac failure
+1713,oxprenolol,Bradycardia
+1714,oxybutynin,Cardiac disorder
+1715,oxybutynin,Tachycardia
+1716,oxycodone,Cardiac arrest
+1717,oxycodone,Cardiac disorder
+1718,oxycodone,Cardiac failure
+1719,oxycodone,Tachycardia
+1720,oxycodone,Supraventricular tachycardia
+1721,oxycodone,Ventricular tachycardia
+1722,oxycodone,Bradycardia
+1723,oxycodone,Electrocardiogram ST segment depression
+1724,oxycodone,Cardiovascular insufficiency
+1725,oxymorphone,Cardiac disorder
+1726,oxymorphone,Tachycardia
+1727,oxymorphone,Bradycardia
+1729,paclitaxel,Cardiac arrest
+1730,paclitaxel,Cardiac disorder
+1731,paclitaxel,Cardiac failure
+1732,paclitaxel,Cardiac failure congestive
+1733,paclitaxel,Myocardial infarction
+1734,paclitaxel,Tachycardia
+1735,paclitaxel,Sinus tachycardia
+1736,paclitaxel,Supraventricular tachycardia
+1737,paclitaxel,Ventricular tachycardia
+1738,paclitaxel,Sinus bradycardia
+1739,paclitaxel,Myocardial ischaemia
+1740,paclitaxel,Bradycardia
+1741,paclitaxel,Electrocardiogram abnormal
+1742,paclitaxel,Cardiomyopathy
+1747,pancuronium,Tachycardia
+1755,paroxetine,Cardiac output decreased
+1756,paroxetine,Cardiac disorder
+1757,paroxetine,Cardiac failure congestive
+1758,paroxetine,Myocardial infarction
+1759,paroxetine,Tachycardia
+1760,paroxetine,Sinus tachycardia
+1761,paroxetine,Supraventricular tachycardia
+1762,paroxetine,Ventricular tachycardia
+1763,paroxetine,Myocardial ischaemia
+1764,paroxetine,Bradycardia
+1765,paroxetine,Electrocardiogram abnormal
+1766,paroxetine,Electrocardiogram QT corrected interval prolonged
+1767,paroxetine,Electrocardiogram QT prolonged
+1768,penbutolol,Bradycardia
+1769,penciclovir,Cardiac disorder
+1775,pentazocine,Tachycardia
+1776,pentazocine,Cardiovascular insufficiency
+1777,pentobarbital,Bradycardia
+1783,pentoxifylline,Tachycardia
+1784,pergolide,Cardiac arrest
+1785,pergolide,Cardiac failure congestive
+1786,pergolide,Myocardial infarction
+1787,pergolide,Pericarditis
+1788,pergolide,Tachycardia
+1789,pergolide,Ventricular tachycardia
+1790,pergolide,Bradycardia
+1791,pergolide,Electrocardiogram abnormal
+1799,perphenazine,Cardiac arrest
+1800,perphenazine,Tachycardia
+1801,perphenazine,Bradycardia
+1802,phenobarbital,Bradycardia
+1803,phenoxybenzamine,Tachycardia
+1804,phentermine,Cardiac arrest
+1805,phentermine,Cardiac failure
+1806,phentermine,Cardiac valve disease
+1807,phentermine,Myocardial infarction
+1808,phentermine,Tachycardia
+1810,phenylephrine,Cardiac disorder
+1811,phenylephrine,Myocardial infarction
+1812,phenylephrine,Tachycardia
+1813,phenylephrine,Myocardial ischaemia
+1814,phenylephrine,Reflex bradycardia
+1815,phenylephrine,Bradycardia
+1816,phenylpropanolamine,Tachycardia
+1817,physostigmine,Bradycardia
+1818,pilocarpine,Myocardial infarction
+1819,pilocarpine,Tachycardia
+1820,pilocarpine,Bradycardia
+1821,pindolol,Cardiac disorder
+1822,pindolol,Cardiac failure
+1823,pindolol,Cardiac failure congestive
+1824,pindolol,Tachycardia
+1825,pindolol,Bradycardia
+1826,pioglitazone,Cardiac disorder
+1827,pioglitazone,Cardiac failure
+1828,pioglitazone,Cardiac failure congestive
+1829,pioglitazone,Myocardial infarction
+1830,pioglitazone,Myocardial ischaemia
+1831,pioglitazone,Electrocardiogram abnormal
+1832,pirbuterol,Tachycardia
+1833,pramipexole,Cardiac arrest
+1834,pramipexole,Cardiac disorder
+1835,pramipexole,Cardiomegaly
+1836,pramipexole,Cardiac failure
+1837,pramipexole,Cardiac failure congestive
+1838,pramipexole,Myocardial infarction
+1839,pramipexole,Tachycardia
+1840,pramipexole,Sinus tachycardia
+1841,pramipexole,Supraventricular tachycardia
+1842,pramipexole,Sinus bradycardia
+1843,pramipexole,Bradycardia
+1844,pravastatin,Cardiac disorder
+1845,pravastatin,Myocardial infarction
+1846,pravastatin,Cardiac pain
+1849,prazosin,Tachycardia
+1850,prazosin,Bradycardia
+1851,prednisolone,Hypertrophic cardiomyopathy
+1852,prednisolone,Cardiac arrest
+1853,prednisolone,Cardiomegaly
+1854,prednisolone,Cardiac failure congestive
+1855,prednisolone,Myocardial rupture
+1856,prednisolone,Myocardial infarction
+1857,prednisolone,Tachycardia
+1858,prednisolone,Bradycardia
+1859,prednisone,Hypertrophic cardiomyopathy
+1860,prednisone,Cardiac arrest
+1861,prednisone,Cardiomegaly
+1862,prednisone,Cardiac failure
+1863,prednisone,Cardiac failure congestive
+1864,prednisone,Myocardial rupture
+1865,prednisone,Myocardial infarction
+1866,prednisone,Tachycardia
+1867,prednisone,Bradycardia
+1868,prilocaine,Cardiac arrest
+1869,prilocaine,Cardiac failure
+1870,prilocaine,Myocardial depression
+1871,prilocaine,Bradycardia
+1872,procainamide,Cardiac arrest
+1873,procainamide,Cardiac disorder
+1874,procainamide,Cardiac failure
+1875,procainamide,Paroxysmal atrial tachycardia
+1876,procainamide,Atrial tachycardia
+1877,procainamide,Pericarditis
+1878,procainamide,Junctional tachycardia
+1879,procainamide,Supraventricular tachycardia
+1880,procainamide,Ventricular tachycardia
+1881,procainamide,Cardiac fibrillation
+1882,procainamide,Bradycardia
+1883,procainamide,Electrocardiogram QRS complex
+1884,procainamide,Electrocardiogram change
+1885,procaine,Cardiac output decreased
+1886,procaine,Cardiac arrest
+1887,procaine,Tachycardia
+1888,procaine,Bradycardia
+1889,procarbazine,Pericarditis
+1890,procarbazine,Tachycardia
+1891,procarbazine,Cardiotoxicity
+1892,prochlorperazine,Cardiac arrest
+1893,progesterone,Cardiac disorder
+1894,progesterone,Tachycardia
+1895,promethazine,Tachycardia
+1896,promethazine,Bradycardia
+1897,propafenone,Cardiac flutter
+1898,propafenone,Cardiac arrest
+1899,propafenone,Cardiac disorder
+1900,propafenone,Cardiac failure
+1901,propafenone,Cardiac failure congestive
+1902,propafenone,Cardiac murmur
+1903,propafenone,Pericarditis
+1904,propafenone,Tachycardia
+1905,propafenone,Supraventricular tachycardia
+1906,propafenone,Ventricular tachycardia
+1907,propafenone,Sinus bradycardia
+1908,propafenone,Electrocardiogram QT prolonged
+1909,propafenone,Bradycardia
+1910,propafenone,Electrocardiogram QRS complex
+1911,propafenone,Electrocardiogram abnormal
+1912,propafenone,Wide complex tachycardia
+1913,propafenone,Cardioactive drug level above therapeutic
+1914,propantheline,Tachycardia
+1915,propofol,Cardiac output decreased
+1916,propofol,Cardiac arrest
+1917,propofol,Cardiac failure
+1918,propofol,Myocardial infarction
+1919,propofol,Tachycardia
+1920,propofol,Supraventricular tachycardia
+1921,propofol,Ventricular tachycardia
+1922,propofol,Myocardial ischaemia
+1923,propofol,Cardiac failure right
+1924,propofol,Bradycardia
+1925,propofol,Nodal tachycardia
+1926,propofol,Electrocardiogram ST segment depression
+1927,propofol,Electrocardiogram abnormal
+1928,propranolol,Cardiac arrest
+1929,propranolol,Cardiac disorder
+1930,propranolol,Cardiac failure congestive
+1931,propranolol,Bradycardia
+1932,protriptyline,Myocardial infarction
+1933,protriptyline,Tachycardia
+1934,pyridostigmine,Cardiac arrest
+1935,pyridostigmine,Bradycardia
+1936,quetiapine,Cardiovascular disorder
+1937,quetiapine,Cardiac arrest
+1938,quetiapine,Cardiac disorder
+1939,quetiapine,Cardiac failure congestive
+1940,quetiapine,Myocarditis
+1941,quetiapine,Tachycardia
+1942,quetiapine,Sinus tachycardia
+1943,quetiapine,Electrocardiogram QT prolonged
+1944,quetiapine,Electrocardiogram QRS complex prolonged
+1945,quetiapine,Bradycardia
+1946,quetiapine,Electrocardiogram ST segment elevation
+1947,quetiapine,Electrocardiogram T wave inversion
+1948,quetiapine,Electrocardiogram abnormal
+1949,quetiapine,Electrocardiogram change
+1950,quetiapine,Cardiomyopathy
+1965,ephedrine,Tachycardia
+1966,ephedrine,Bradycardia
+1967,raloxifene,Cardiac disorder
+1972,ranitidine,Cardiac arrest
+1973,ranitidine,Tachycardia
+1974,ranitidine,Bradycardia
+1981,reserpine,Bradycardia
+1993,riluzole,Congestive cardiomyopathy
+1994,riluzole,Cardiac arrest
+1995,riluzole,Cardiac disorder
+1996,riluzole,Cardiac failure
+1997,riluzole,Cardiac failure congestive
+1998,riluzole,Cardiac murmur
+1999,riluzole,Myocardial infarction
+2000,riluzole,Pericarditis
+2001,riluzole,Tachycardia
+2002,riluzole,Supraventricular tachycardia
+2003,riluzole,Ventricular tachycardia
+2004,riluzole,Myocardial ischaemia
+2005,riluzole,Bradycardia
+2008,risperidone,Cardiovascular disorder
+2009,risperidone,Cardiac arrest
+2010,risperidone,Cardiac disorder
+2011,risperidone,Myocardial infarction
+2012,risperidone,Myocarditis
+2013,risperidone,Tachycardia
+2014,risperidone,Sinus tachycardia
+2015,risperidone,Ventricular tachycardia
+2016,risperidone,Sinus bradycardia
+2017,risperidone,Myocardial ischaemia
+2018,risperidone,Electrocardiogram QT prolonged
+2019,risperidone,Bradycardia
+2020,risperidone,Electrocardiogram ST segment depression
+2021,risperidone,Electrocardiogram T wave inversion
+2022,risperidone,Electrocardiogram abnormal
+2023,risperidone,Cardio-respiratory arrest
+2024,risperidone,Electrocardiogram change
+2025,risperidone,Electrocardiogram QT corrected interval prolonged
+2026,risperidone,Postural orthostatic tachycardia syndrome
+2027,risperidone,Reflex tachycardia
+2028,risperidone,Electrocardiogram QT interval abnormal
+2029,ritonavir,Cardiovascular disorder
+2030,ritonavir,Cardiac disorder
+2031,ritonavir,Myocardial infarction
+2032,ritonavir,Tachycardia
+2033,rivastigmine,Cardiovascular disorder
+2034,rivastigmine,Cardiac arrest
+2035,rivastigmine,Cardiac disorder
+2036,rivastigmine,Cardiac failure
+2037,rivastigmine,Myocardial infarction
+2038,rivastigmine,Tachycardia
+2039,rivastigmine,Supraventricular tachycardia
+2040,rivastigmine,Sudden cardiac death
+2041,rivastigmine,Myocardial ischaemia
+2042,rivastigmine,Electrocardiogram QT prolonged
+2043,rivastigmine,Cardiac fibrillation
+2044,rivastigmine,Bradycardia
+2045,rivastigmine,Electrocardiogram abnormal
+2046,rizatriptan,Myocardial infarction
+2047,rizatriptan,Tachycardia
+2048,rizatriptan,Ventricular tachycardia
+2049,rizatriptan,Myocardial ischaemia
+2050,rizatriptan,Bradycardia
+2051,rofecoxib,Cardiac failure congestive
+2052,rofecoxib,Myocardial infarction
+2053,rofecoxib,Tachycardia
+2054,rofecoxib,Bradycardia
+2055,ropinirole,Cardiovascular disorder
+2056,ropinirole,Cardiac arrest
+2057,ropinirole,Cardiac disorder
+2058,ropinirole,Cardiomegaly
+2059,ropinirole,Cardiac failure
+2060,ropinirole,Cardiac valve disease
+2061,ropinirole,Myocardial infarction
+2062,ropinirole,Tachycardia
+2063,ropinirole,Supraventricular tachycardia
+2064,ropinirole,Ventricular tachycardia
+2065,ropinirole,Myocardial ischaemia
+2066,ropinirole,Cardiac fibrillation
+2067,ropinirole,Bradycardia
+2068,ropinirole,Electrocardiogram abnormal
+2069,salmeterol,Cardiac disorder
+2070,salmeterol,Tachycardia
+2071,salmeterol,Supraventricular tachycardia
+2072,salmeterol,Ventricular tachycardia
+2073,salmeterol,Sustained ventricular tachycardia
+2074,scopolamine,Tachycardia
+2075,scopolamine,Bradycardia
+2076,secobarbital,Bradycardia
+2089,sertraline,Cardiac disorder
+2090,sertraline,Myocardial infarction
+2091,sertraline,Tachycardia
+2092,sertraline,Ventricular tachycardia
+2093,sertraline,Electrocardiogram QT prolonged
+2094,sertraline,Bradycardia
+2095,sertraline,Electrocardiogram QT corrected interval prolonged
+2096,sevoflurane,Cardiac arrest
+2097,sevoflurane,Cardiac disorder
+2098,sevoflurane,Tachycardia
+2099,sevoflurane,Ventricular tachycardia
+2100,sevoflurane,Electrocardiogram QT prolonged
+2101,sevoflurane,Bradycardia
+2102,sevoflurane,Electrocardiogram ST segment depression
+2103,sevoflurane,Electrocardiogram T wave inversion
+2104,sibutramine,Cardiovascular disorder
+2105,sibutramine,Cardiac arrest
+2106,sibutramine,Cardiac failure congestive
+2107,sibutramine,Myocardial infarction
+2108,sibutramine,Tachycardia
+2109,sibutramine,Supraventricular tachycardia
+2110,sibutramine,Ventricular tachycardia
+2111,sibutramine,Bradycardia
+2112,sibutramine,Electrocardiogram abnormal
+2113,sildenafil,Cardiovascular disorder
+2114,sildenafil,Cardiac arrest
+2115,sildenafil,Cardiac disorder
+2116,sildenafil,Cardiac failure
+2117,sildenafil,Myocardial infarction
+2118,sildenafil,Cardiogenic shock
+2119,sildenafil,Tachycardia
+2120,sildenafil,Sudden cardiac death
+2121,sildenafil,Myocardial ischaemia
+2122,sildenafil,Electrocardiogram abnormal
+2123,sildenafil,Cardiomyopathy
+2127,sotalol,Cardiovascular disorder
+2128,sotalol,Cardiac failure
+2129,sotalol,Myocardial infarction
+2130,sotalol,Cardiogenic shock
+2131,sotalol,Ventricular tachycardia
+2132,sotalol,Electrocardiogram QT prolonged
+2133,sotalol,Multifocal ventricular tachycardia
+2134,sotalol,Cardiac pain
+2135,sotalol,Bradycardia
+2136,sotalol,Electrocardiogram abnormal
+2137,sotalol,Non-sustained ventricular tachycardia
+2138,sotalol,Sustained ventricular tachycardia
+2139,sparfloxacin,Cardiovascular disorder
+2140,sparfloxacin,Tachycardia
+2141,sparfloxacin,Sinus bradycardia
+2142,sparfloxacin,Electrocardiogram PR shortened
+2143,sparfloxacin,Electrocardiogram abnormal
+2144,sparfloxacin,Cardio-respiratory arrest
+2154,vorinostat,Myocardial infarction
+2155,succinylcholine,Cardiac arrest
+2156,succinylcholine,Tachycardia
+2157,succinylcholine,Bradycardia
+2159,sulindac,Cardiac failure congestive
+2160,sulindac,Tachycardia
+2161,sumatriptan,Myocardial infarction
+2162,sumatriptan,Tachycardia
+2163,sumatriptan,Ventricular tachycardia
+2164,sumatriptan,Myocardial ischaemia
+2165,sumatriptan,Bradycardia-tachycardia syndrome
+2166,sumatriptan,Bradycardia
+2167,sumatriptan,Electrocardiogram change
+2168,sumatriptan,Cardiomyopathy
+2193,tamoxifen,Cardiovascular disorder
+2194,tamoxifen,Myocardial infarction
+2195,tamoxifen,Myocardial ischaemia
+2196,gatifloxacin,Tachycardia
+2197,gatifloxacin,Bradycardia
+2200,teniposide,Tachycardia
+2201,teniposide,Electrocardiogram change
+2202,teniposide,Cardiotoxicity
+2203,terazosin,Cardiac failure
+2204,terazosin,Tachycardia
+2205,terbutaline,Tachycardia
+2206,testosterone,Cardiac arrest
+2207,testosterone,Cardiac disorder
+2208,testosterone,Cardiac failure
+2209,testosterone,Myocardial infarction
+2210,testosterone,Tachycardia
+2212,thalidomide,Cardiac arrest
+2213,thalidomide,Cardiac disorder
+2214,thalidomide,Cardiac failure
+2215,thalidomide,Cardiac failure congestive
+2216,thalidomide,Myocardial infarction
+2217,thalidomide,Pericarditis
+2218,thalidomide,Tachycardia
+2219,thalidomide,Sinus bradycardia
+2220,thalidomide,Myocardial ischaemia
+2221,thalidomide,Bradycardia
+2222,thioridazine,Cardiac arrest
+2223,thioridazine,Tachycardia
+2224,thioridazine,Electrocardiogram U wave present
+2225,thioridazine,Electrocardiogram U-wave abnormality
+2226,thioridazine,Multifocal ventricular tachycardia
+2227,thioridazine,Ventricular tachycardia
+2235,thiothixene,Cardiac arrest
+2236,thiothixene,Tachycardia
+2240,tibolone,Myocardial infarction
+2241,timolol,Cardiac arrest
+2242,timolol,Cardiac disorder
+2243,timolol,Cardiac failure
+2244,timolol,Cardiac failure congestive
+2245,timolol,Cardiac failure acute
+2246,timolol,Bradycardia
+2253,tizanidine,Cardiac arrest
+2254,tizanidine,Cardiac disorder
+2255,tizanidine,Cardiac failure
+2256,tizanidine,Myocardial infarction
+2257,tizanidine,Tachycardia
+2258,tizanidine,Ventricular tachycardia
+2259,tizanidine,Electrocardiogram QT prolonged
+2260,tizanidine,Bradycardia
+2261,tizanidine,Cardio-respiratory arrest
+2262,tolmetin,Cardiac failure congestive
+2263,tolterodine,Tachycardia
+2264,topiramate,Cardiovascular disorder
+2265,topiramate,Cardiac disorder
+2266,topiramate,Tachycardia
+2267,topiramate,Sinus bradycardia
+2268,topiramate,Bradycardia
+2269,topiramate,Electrocardiogram abnormal
+2270,topotecan,Cardiac arrest
+2273,tramadol,Cardiovascular disorder
+2274,tramadol,Cardiac disorder
+2275,tramadol,Cardiac murmur
+2276,tramadol,Myocardial infarction
+2277,tramadol,Tachycardia
+2278,tramadol,Sinus tachycardia
+2279,tramadol,Myocardial ischaemia
+2280,tramadol,Acute myocardial infarction
+2281,tramadol,Bradycardia
+2282,tramadol,Electrocardiogram abnormal
+2301,tranylcypromine,Tachycardia
+2302,tranylcypromine,Bradycardia
+2303,trazodone,Cardiac arrest
+2304,trazodone,Cardiac failure congestive
+2305,trazodone,Myocardial infarction
+2306,trazodone,Tachycardia
+2307,trazodone,Ventricular tachycardia
+2308,trazodone,Sinus bradycardia
+2309,trazodone,Electrocardiogram QT prolonged
+2310,trazodone,Bradycardia
+2311,trazodone,Electrocardiogram PR prolongation
+2325,triamcinolone,Hypertrophic cardiomyopathy
+2326,triamcinolone,Cardiac arrest
+2327,triamcinolone,Cardiomegaly
+2328,triamcinolone,Cardiac failure congestive
+2329,triamcinolone,Myocardial rupture
+2330,triamcinolone,Myocardial infarction
+2331,triamcinolone,Tachycardia
+2332,triamcinolone,Bradycardia
+2334,trifluoperazine,Cardiac arrest
+2335,trihexyphenidyl,Tachycardia
+2336,trihexyphenidyl,Sinus bradycardia
+2337,trimipramine,Myocardial infarction
+2338,trimipramine,Tachycardia
+2339,troglitazone,Cardiac failure congestive
+2340,tropicamide,Tachycardia
+2341,tropisetron,Bradycardia
+2342,trospium,Cardiac disorder
+2343,trospium,Tachycardia
+2344,trospium,Supraventricular tachycardia
+2345,trospium,Electrocardiogram abnormal
+2346,delavirdine,Cardiac failure
+2347,delavirdine,Tachycardia
+2348,delavirdine,Bradycardia
+2349,delavirdine,Cardiomyopathy
+2365,venlafaxine,Cardiovascular disorder
+2366,venlafaxine,Cardiac arrest
+2367,venlafaxine,Cardiac disorder
+2368,venlafaxine,Cardiac failure congestive
+2369,venlafaxine,Myocardial infarction
+2370,venlafaxine,Tachycardia
+2371,venlafaxine,Supraventricular tachycardia
+2372,venlafaxine,Ventricular tachycardia
+2373,venlafaxine,Bradycardia
+2380,zalcitabine,Cardiac failure
+2381,zalcitabine,Tachycardia
+2382,zalcitabine,Cardiomyopathy
+2383,zaleplon,Pericardial effusion
+2384,zaleplon,Tachycardia
+2385,zaleplon,Ventricular tachycardia
+2386,zaleplon,Sinus bradycardia
+2387,zidovudine,Cardiac disorder
+2388,zidovudine,Cardiac failure congestive
+2389,zidovudine,Cardiomyopathy
+2390,zolmitriptan,Cardiac disorder
+2391,zolmitriptan,Myocardial infarction
+2392,zolmitriptan,Tachycardia
+2393,zolmitriptan,Ventricular tachycardia
+2394,zolmitriptan,Myocardial ischaemia
+2395,zolmitriptan,Bradycardia
+2396,zolmitriptan,Electrocardiogram abnormal
+2397,zolpidem,Cardiac disorder
+2398,zolpidem,Myocardial infarction
+2399,zolpidem,Tachycardia
+2400,zolpidem,Ventricular tachycardia
+2401,zonisamide,Cardiac failure
+2402,zonisamide,Tachycardia
+2403,zonisamide,Bradycardia
+2404,zopiclone,Tachycardia
+2414,phentolamine,Cardiac disorder
+2415,phentolamine,Myocardial infarction
+2416,phentolamine,Tachycardia
+2417,phentolamine,Bradycardia
+2424,tetrabenazine,Cardiac disorder
+2425,tetrabenazine,Bradycardia
+2438,cyclizine,Tachycardia
+2439,diethylpropion,Cardiac valve disease
+2440,diethylpropion,Tachycardia
+2441,diethylpropion,Electrocardiogram change
+2447,chloroprocaine,Cardiac arrest
+2448,chloroprocaine,Tachycardia
+2449,chloroprocaine,Bradycardia
+2450,methohexital,Tachycardia
+2451,methohexital,Cardio-respiratory arrest
+2452,methohexital,Cardiovascular insufficiency
+2453,aminophylline,Cardiac flutter
+2454,aminophylline,Tachycardia
+2455,aminophylline,Sinus tachycardia
+2456,aminophylline,Supraventricular tachycardia
+2457,aminophylline,Multifocal atrial tachycardia
+2458,aminophylline,Atrial tachycardia
+2467,dimenhydrinate,Tachycardia
+2470,zuclopenthixol,Cardiac disorder
+2471,zuclopenthixol,Tachycardia
+2472,zuclopenthixol,Ventricular tachycardia
+2473,zuclopenthixol,Electrocardiogram QT prolonged
+2474,phendimetrazine,Cardiac valve disease
+2475,phendimetrazine,Tachycardia
+2503,pimozide,Cardiac disorder
+2504,pimozide,Tachycardia
+2505,pimozide,Ventricular tachycardia
+2506,pimozide,Electrocardiogram QT prolonged
+2507,pimozide,Electrocardiogram U wave present
+2508,pimozide,Electrocardiogram U-wave abnormality
+2509,pimozide,Electrocardiogram abnormal
+2510,pimozide,Electrocardiogram change
+2529,hydrocodone,Non-cardiac chest pain
+2532,molindone,Tachycardia
+2569,dexrazoxane,Cardiac disorder
+2570,dexrazoxane,Cardiac failure congestive
+2571,dexrazoxane,Cardiotoxicity
+2572,fludrocortisone,Cardiomegaly
+2573,metipranolol,Myocardial infarction
+2574,metipranolol,Bradycardia
+2581,etomidate,Tachycardia
+2582,etomidate,Bradycardia
+2583,dobutamine,Tachycardia
+2590,bezafibrate,Myocardial infarction
+2591,vecuronium,Cardiac disorder
+2592,vecuronium,Tachycardia
+2597,sufentanil,Cardiac arrest
+2598,sufentanil,Tachycardia
+2599,sufentanil,Bradycardia
+2601,desflurane,Cardiac arrest
+2602,desflurane,Cardiac disorder
+2603,desflurane,Myocardial infarction
+2604,desflurane,Tachycardia
+2605,desflurane,Myocardial ischaemia
+2606,desflurane,Bradycardia
+2607,desflurane,Electrocardiogram T wave inversion
+2608,desflurane,Electrocardiogram abnormal
+2609,desflurane,Electrocardiogram ST-T change
+2618,cisatracurium,Cardiovascular disorder
+2619,cisatracurium,Cardiac arrest
+2620,cisatracurium,Tachycardia
+2621,cisatracurium,Bradycardia
+2630,alfentanil,Cardiac arrest
+2631,alfentanil,Cardiac disorder
+2632,alfentanil,Tachycardia
+2633,alfentanil,Bradycardia
+2644,clarithromycin,Cardiac arrest
+2645,clarithromycin,Cardiac disorder
+2646,clarithromycin,Ventricular tachycardia
+2647,clarithromycin,Electrocardiogram QT prolonged
+2652,atomoxetine,Cardiac disorder
+2653,atomoxetine,Tachycardia
+2654,atomoxetine,Sinus tachycardia
+2662,milnacipran,Cardiac disorder
+2663,milnacipran,Tachycardia
+2664,milnacipran,Supraventricular tachycardia
+2665,fosphenytoin,Cardiac arrest
+2666,fosphenytoin,Cardiomegaly
+2667,fosphenytoin,Cardiac failure congestive
+2668,fosphenytoin,Tachycardia
+2669,fosphenytoin,Sinus bradycardia
+2670,fosphenytoin,Bradycardia
+2671,ranolazine,Cardiac disorder
+2672,ranolazine,Electrocardiogram QT prolonged
+2673,ranolazine,Bradycardia
+2686,rotigotine,Electrocardiogram T wave abnormal
+2687,esmolol,Cardiac arrest
+2688,esmolol,Cardiac disorder
+2689,esmolol,Cardiac failure
+2690,esmolol,Cardiac failure congestive
+2691,esmolol,Myocardial infarction
+2692,esmolol,Myocardial ischaemia
+2693,esmolol,Inferior myocardial infarction
+2694,esmolol,Bradycardia
+2695,esmolol,Electrocardiogram ST segment depression
+2696,esmolol,Electrocardiogram abnormal
+2697,tamsulosin,Cardiac disorder
+2698,tamsulosin,Tachycardia
+2711,amlodipine,Cardiac failure
+2712,amlodipine,Myocardial infarction
+2713,dexmedetomidine,Cardiac output decreased
+2714,dexmedetomidine,Cardiovascular disorder
+2715,dexmedetomidine,Cardiac arrest
+2716,dexmedetomidine,Cardiac disorder
+2717,dexmedetomidine,Myocardial infarction
+2718,dexmedetomidine,Tachycardia
+2719,dexmedetomidine,Supraventricular tachycardia
+2720,dexmedetomidine,Ventricular tachycardia
+2721,dexmedetomidine,Myocardial ischaemia
+2722,dexmedetomidine,Bradycardia
+2723,dexmedetomidine,Electrocardiogram T wave inversion
+2724,dexmedetomidine,Sinus tachycardia
+2725,cidofovir,Cardiovascular disorder
+2726,cidofovir,Cardiac failure congestive
+2727,cidofovir,Tachycardia
+2728,cidofovir,Cardiomyopathy
+2729,rocuronium,Cardiovascular disorder
+2730,rocuronium,Tachycardia
+2731,rocuronium,Electrocardiogram abnormal
+2741,ibutilide,Cardiac failure congestive
+2742,ibutilide,Tachycardia
+2743,ibutilide,Sinus tachycardia
+2744,ibutilide,Supraventricular tachycardia
+2745,ibutilide,Sinus bradycardia
+2746,ibutilide,Monomorphic ventricular tachycardia
+2747,ibutilide,Ventricular tachycardia
+2748,ibutilide,Multifocal ventricular tachycardia
+2749,ibutilide,Bradycardia
+2755,saquinavir,Cardiovascular disorder
+2756,saquinavir,Cardiac disorder
+2757,saquinavir,Cardiac murmur
+2758,saquinavir,Cardiac valve disease
+2759,aripiprazole,Cardiac arrest
+2760,aripiprazole,Cardiac disorder
+2761,aripiprazole,Cardiomegaly
+2762,aripiprazole,Cardiac failure
+2763,aripiprazole,Cardiac murmur
+2764,aripiprazole,Myocardial infarction
+2765,aripiprazole,Tachycardia
+2766,aripiprazole,Sinus tachycardia
+2767,aripiprazole,Supraventricular tachycardia
+2768,aripiprazole,Ventricular tachycardia
+2769,aripiprazole,Myocardial ischaemia
+2770,aripiprazole,Electrocardiogram QT prolonged
+2771,aripiprazole,Bradycardia
+2772,aripiprazole,Electrocardiogram T wave amplitude decreased
+2773,aripiprazole,Electrocardiogram T wave abnormal
+2774,aripiprazole,Electrocardiogram T wave inversion
+2775,aripiprazole,Electrocardiogram abnormal
+2776,aripiprazole,Electrocardiogram PR prolongation
+2777,aripiprazole,Cardio-respiratory arrest
+2778,aripiprazole,Electrocardiogram QT corrected interval prolonged
+2779,aripiprazole,Electrocardiogram ST segment abnormal
+2780,aripiprazole,Cardiomyopathy
+2781,aripiprazole,ECG signs of myocardial ischaemia
+2782,aripiprazole,Cardiopulmonary failure
+2783,remifentanil,Cardiac output decreased
+2784,remifentanil,Cardiac arrest
+2785,remifentanil,Cardiac disorder
+2786,remifentanil,Pericarditis
+2787,remifentanil,Tachycardia
+2788,remifentanil,Myocardial ischaemia
+2789,remifentanil,Bradycardia
+2790,remifentanil,Electrocardiogram change
+2791,tiotropium,Tachycardia
+2792,tiotropium,Supraventricular tachycardia
+2793,tiotropium,Ventricular tachycardia
+2794,tiotropium,Cardiac death
+2795,duloxetine,Cardiac disorder
+2796,duloxetine,Cardiac failure
+2797,duloxetine,Cardiac failure congestive
+2798,duloxetine,Myocardial infarction
+2799,duloxetine,Tachycardia
+2800,duloxetine,Supraventricular tachycardia
+2801,duloxetine,Cardiac fibrillation
+2802,pemetrexed,Myocardial infarction
+2803,pemetrexed,Ventricular tachycardia
+2804,pemetrexed,Myocardial ischaemia
+2808,ziprasidone,Cardiac disorder
+2809,ziprasidone,Cardiomegaly
+2810,ziprasidone,Myocarditis
+2811,ziprasidone,Tachycardia
+2812,ziprasidone,Bradycardia
+2813,ziprasidone,Electrocardiogram QT corrected interval prolonged
+2814,ziprasidone,Electrocardiogram QT prolonged
+2815,levosimendan,Cardiac disorder
+2816,levosimendan,Cardiac failure
+2817,levosimendan,Tachycardia
+2818,levosimendan,Ventricular tachycardia
+2819,levosimendan,Myocardial ischaemia
+2825,capecitabine,Oedema due to cardiac disease
+2826,capecitabine,Cardiac arrest
+2827,capecitabine,Cardiac disorder
+2828,capecitabine,Cardiac failure
+2829,capecitabine,Myocardial infarction
+2830,capecitabine,Myocarditis
+2831,capecitabine,Pericardial effusion
+2832,capecitabine,Tachycardia
+2833,capecitabine,Sinus tachycardia
+2834,capecitabine,Supraventricular tachycardia
+2835,capecitabine,Myocardial ischaemia
+2836,capecitabine,Cardiac pain
+2837,capecitabine,Bradycardia
+2838,capecitabine,Cardiomyopathy
+2848,trovafloxacin,Tachycardia
+2849,trovafloxacin,Bradycardia
+2858,testosterone,Cardiovascular disorder
+2872,reboxetine,Cardiac disorder
+2873,reboxetine,Tachycardia
+2874,reboxetine,Sinus tachycardia
+2875,reboxetine,Myocardial ischaemia
+2876,reboxetine,Bradycardia
+2877,reboxetine,Electrocardiogram abnormal
+2878,reboxetine,Electrocardiogram change
+2899,brinzolamide,Cardiac disorder
+2900,brinzolamide,Tachycardia
+2901,brinzolamide,Bradycardia
+2902,brinzolamide,Cardio-respiratory distress
+2910,ropivacaine,Cardiac output decreased
+2911,ropivacaine,Cardiac arrest
+2912,ropivacaine,Cardiac disorder
+2913,ropivacaine,Myocardial infarction
+2914,ropivacaine,Tachycardia
+2915,ropivacaine,Ventricular tachycardia
+2916,ropivacaine,Tachycardia foetal
+2917,ropivacaine,Bradycardia foetal
+2918,ropivacaine,Bradycardia
+2919,ropivacaine,Electrocardiogram ST segment
+2920,nebivolol,Cardiac disorder
+2921,nebivolol,Myocardial infarction
+2922,nebivolol,Bradycardia
+2923,mivacurium,Cardiac disorder
+2924,mivacurium,Tachycardia
+2925,mivacurium,Bradycardia
+2926,dofetilide,Cardiac arrest
+2927,dofetilide,Cardiac failure
+2928,dofetilide,Myocardial infarction
+2929,dofetilide,Supraventricular tachycardia
+2930,dofetilide,Ventricular tachycardia
+2931,dofetilide,Bradycardia
+2941,iloperidone,Cardiac disorder
+2942,iloperidone,Cardiac failure
+2943,iloperidone,Tachycardia
+2963,darifenacin,Tachycardia
+2969,bleomycin,Myocardial infarction
+2970,bleomycin,Pleuropericarditis
+2971,gemifloxacin,Congestive cardiomyopathy
+2972,gemifloxacin,Cardiac disorder
+2973,gemifloxacin,Tachycardia
+2974,gemifloxacin,Supraventricular tachycardia
+2975,gemifloxacin,Electrocardiogram QT prolonged
+2980,frovatriptan,Cardiovascular disorder
+2981,frovatriptan,Myocardial infarction
+2982,frovatriptan,Tachycardia
+2983,frovatriptan,Ventricular tachycardia
+2984,frovatriptan,Myocardial ischaemia
+2985,frovatriptan,Bradycardia
+2986,frovatriptan,Electrocardiogram abnormal
+2987,eletriptan,Myocardial infarction
+2988,eletriptan,Tachycardia
+2989,eletriptan,Ventricular tachycardia
+2990,eletriptan,Myocardial ischaemia
+2991,eletriptan,Bradycardia
+2997,rosiglitazone,Cardiac disorder
+2998,rosiglitazone,Cardiac failure
+2999,rosiglitazone,Cardiac failure congestive
+3000,rosiglitazone,Myocardial infarction
+3001,rosiglitazone,Myocardial ischaemia
+3018,ketorolac,Cardiac disorder
+3019,ketorolac,Cardiac failure
+3020,ketorolac,Ventricular tachycardia
+3042,nelarabine,Cardiac disorder
+3043,nelarabine,Sinus tachycardia
+3044,nelarabine,Non-cardiac chest pain
+3046,raltitrexed,Cardiac failure congestive
+3047,raltitrexed,Sinus tachycardia
+3048,raltitrexed,Supraventricular tachycardia
+3065,vardenafil,Cardiovascular disorder
+3066,vardenafil,Cardiac disorder
+3067,vardenafil,Myocardial infarction
+3068,vardenafil,Tachycardia
+3069,vardenafil,Sudden cardiac death
+3070,vardenafil,Myocardial ischaemia
+3071,tadalafil,Cardiovascular disorder
+3072,tadalafil,Cardiac disorder
+3073,tadalafil,Myocardial infarction
+3074,tadalafil,Tachycardia
+3075,tadalafil,Sudden cardiac death
+3076,tadalafil,Sinus bradycardia
+3077,tadalafil,Non-cardiac chest pain
+3078,paliperidone,Cardiac arrest
+3079,paliperidone,Cardiac disorder
+3080,paliperidone,Tachycardia
+3081,paliperidone,Sinus tachycardia
+3082,paliperidone,Ventricular tachycardia
+3083,paliperidone,Electrocardiogram QT prolonged
+3084,paliperidone,Bradycardia
+3085,paliperidone,Electrocardiogram T wave abnormal
+3086,paliperidone,Electrocardiogram T wave inversion
+3087,paliperidone,Electrocardiogram abnormal
+3088,paliperidone,Electrocardiogram QT corrected interval prolonged
+3089,paliperidone,Postural orthostatic tachycardia syndrome
+3090,clofarabine,Cardiac disorder
+3091,clofarabine,Pericardial effusion
+3092,clofarabine,Pericarditis
+3093,clofarabine,Tachycardia
+3094,valdecoxib,Cardiac failure congestive
+3095,valdecoxib,Cardiac murmur
+3096,valdecoxib,Cardiac valve disease
+3097,valdecoxib,Myocardial infarction
+3098,valdecoxib,Pericarditis
+3099,valdecoxib,Tachycardia
+3100,valdecoxib,Myocardial ischaemia
+3101,valdecoxib,Bradycardia
+3102,valdecoxib,Electrocardiogram abnormal
+3103,valdecoxib,Cardiomyopathy
+3104,parecoxib,Cardiac disorder
+3105,parecoxib,Cardiac failure congestive
+3106,parecoxib,Myocardial infarction
+3107,parecoxib,Tachycardia
+3108,parecoxib,Bradycardia
+3112,rasagiline,Cardiac disorder
+3113,rasagiline,Cardiac failure
+3114,rasagiline,Myocardial infarction
+3115,rasagiline,Ventricular tachycardia
+3122,almotriptan,Cardiac disorder
+3123,almotriptan,Myocardial infarction
+3124,almotriptan,Tachycardia
+3125,almotriptan,Ventricular tachycardia
+3126,almotriptan,Myocardial ischaemia
+3127,almotriptan,Acute myocardial infarction
+3139,etoricoxib,Cardiac arrest
+3140,etoricoxib,Cardiac disorder
+3141,etoricoxib,Cardiac failure congestive
+3142,etoricoxib,Myocardial infarction
+3155,desloratadine,Cardiac disorder
+3156,desloratadine,Tachycardia
+3157,desloratadine,Electrocardiogram abnormal
+3158,desvenlafaxine,Cardiac disorder
+3159,desvenlafaxine,Myocardial infarction
+3160,desvenlafaxine,Tachycardia
+3161,desvenlafaxine,Myocardial ischaemia
+3195,fosamprenavir,Cardiac disorder
+3196,fosamprenavir,Myocardial infarction
+3219,pomalidomide,Cardiac disorder
+3220,pomalidomide,Cardiac failure congestive
+3223,drospirenone,Myocardial infarction
+3238,pralatrexate,Tachycardia
+3239,pralatrexate,Cardio-respiratory arrest
+3240,ospemifene,Cardiovascular disorder
+3243,atazanavir,Cardiac arrest
+3244,atazanavir,Cardiac disorder
+3245,atazanavir,Myocarditis
+3246,atazanavir,Electrocardiogram QT corrected interval prolonged
+3247,atazanavir,Electrocardiogram QT prolonged
+3248,palonosetron,Tachycardia
+3249,palonosetron,Sinus tachycardia
+3250,palonosetron,Myocardial ischaemia
+3251,palonosetron,Bradycardia
+3252,palonosetron,Cardiac disorder
+3253,palonosetron,Sinus bradycardia
+3254,palonosetron,Electrocardiogram QT prolonged
+3255,palonosetron,Electrocardiogram T wave amplitude decreased
+3256,palonosetron,Electrocardiogram QT corrected interval prolonged
+3284,solifenacin,Cardiac disorder
+3285,solifenacin,Tachycardia
+3286,bazedoxifene,Cardiac disorder
+3287,asenapine,Tachycardia
+3288,asenapine,Cardiac disorder
+3289,asenapine,Sinus tachycardia
+3290,asenapine,Sinus bradycardia
+3291,asenapine,Electrocardiogram QT prolonged
+3311,varenicline,Cardiac flutter
+3312,varenicline,Cardiac disorder
+3313,varenicline,Myocardial infarction
+3314,varenicline,Tachycardia
+3315,varenicline,Bradycardia
+3316,varenicline,Electrocardiogram T wave amplitude decreased
+3317,varenicline,Electrocardiogram ST segment depression
+3318,varenicline,Electrocardiogram abnormal
+3319,erlotinib,Cardiovascular disorder
+3320,erlotinib,Myocardial infarction
+3352,dronedarone,Cardiac disorder
+3353,dronedarone,Cardiac failure
+3354,dronedarone,Cardiac failure congestive
+3355,dronedarone,Bradycardia
+3364,darunavir,Cardiac disorder
+3365,darunavir,Myocardial infarction
+3366,darunavir,Myocarditis
+3367,darunavir,Tachycardia
+3368,darunavir,Sinus bradycardia
+3369,darunavir,Acute myocardial infarction
+3370,darunavir,Bradycardia
+3371,darunavir,Electrocardiogram abnormal
+3372,lurasidone,Cardiovascular disorder
+3373,lurasidone,Cardiac disorder
+3374,lurasidone,Tachycardia
+3375,lurasidone,Bradycardia
+3376,lurasidone,Electrocardiogram change
+3398,lenalidomide,Cardiac arrest
+3399,lenalidomide,Cardiac disorder
+3400,lenalidomide,Cardiac failure
+3401,lenalidomide,Cardiac failure congestive
+3402,lenalidomide,Myocardial infarction
+3403,lenalidomide,Cardiogenic shock
+3404,lenalidomide,Tachycardia
+3405,lenalidomide,Supraventricular tachycardia
+3406,lenalidomide,Myocardial ischaemia
+3407,lenalidomide,Bradycardia
+3408,lenalidomide,Cardio-respiratory arrest
+3409,lenalidomide,Cardiomyopathy
+3410,lasofoxifene,Cardiac disorder
+3411,lasofoxifene,Cardiomegaly
+3412,lasofoxifene,Cardiac failure
+3413,lasofoxifene,Tachycardia
+3414,lasofoxifene,Electrocardiogram T wave abnormal
+3469,silodosin,Cardiac disorder
+3470,silodosin,Tachycardia
+3565,sulfasalazine,Cardiac disorder
+3566,sulfasalazine,Myocarditis
+3567,sulfasalazine,Pericarditis
+3568,sulfasalazine,Eosinophilic myocarditis
+3570,balsalazide,Myocarditis
+3571,balsalazide,Pericarditis
+3572,balsalazide,Tachycardia
+3584,tegaserod,Cardiac disorder
+3585,tegaserod,Supraventricular tachycardia
+3595,tapentadol,Cardiac disorder
+3596,tapentadol,Tachycardia
+3597,tapentadol,Bradycardia
+3598,indacaterol,Cardiac disorder
+3599,indacaterol,Tachycardia
+3600,indacaterol,Myocardial ischaemia
+3635,vilazodone,Cardiac disorder
+3639,fesoterodine,Cardiac disorder
+3640,fesoterodine,Tachycardia
+3641,fesoterodine,Electrocardiogram QT corrected interval
+3642,fesoterodine,Electrocardiogram QT interval
+3679,mirabegron,Cardiac disorder
+3680,mirabegron,Tachycardia
+3681,avanafil,Cardiac disorder
+3682,avanafil,Cardiac murmur
+3683,avanafil,Tachycardia
+3684,avanafil,Electrocardiogram abnormal
+3726,aclidinium,Cardiac failure
+3727,aclidinium,Tachycardia
+3728,aclidinium,Cardio-respiratory arrest
+3734,umeclidinium,Cardiac disorder
+3735,umeclidinium,Tachycardia
+3736,umeclidinium,Sinus tachycardia
+3737,umeclidinium,Supraventricular tachycardia
+3856,piroxicam,Cardiac failure congestive
+3857,piroxicam,Myocardial infarction
+3858,piroxicam,Tachycardia
+3899,tenoxicam,Cardiac disorder
+3900,tenoxicam,Cardiac failure
+3901,tenoxicam,Myocardial infarction
