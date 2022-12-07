@@ -1,0 +1,2009 @@
+drug_name,target
+bupropion,Cardiovascular disorder
+bupropion,Cardiac flutter
+bupropion,Cardiac disorder
+bupropion,Myocardial infarction
+bupropion,Tachycardia
+bupropion,Supraventricular tachycardia
+estradiol,Cardiovascular disorder
+estradiol,Cardiac disorder
+estradiol,Myocardial infarction
+estradiol,Tachycardia
+estradiol,Myocardial ischaemia
+cytarabine,Cardiac disorder
+cytarabine,Cardiomegaly
+cytarabine,Pericarditis
+cytarabine,Tachycardia
+cytarabine,Cardio-respiratory arrest
+cytarabine,Cardiotoxicity
+cytarabine,Cardiomyopathy
+cytarabine,Non-cardiogenic pulmonary oedema
+dopamine,Tachycardia
+dopamine,Bradycardia
+dopamine,Electrocardiogram QRS complex
+estrone,Myocardial infarction
+histamine,Cardiac disorder
+histamine,Tachycardia
+epinephrine,Myocardial infarction
+epinephrine,Tachycardia
+epinephrine,Supraventricular tachycardia
+epinephrine,Myocardial ischaemia
+melatonin,Cardiac disorder
+nicotine,Cardiac disorder
+nicotine,Cardiac failure
+nicotine,Tachycardia
+norepinephrine,Bradycardia
+quinidine,Electrocardiogram abnormal
+quinidine,Cardiac arrest
+quinidine,Cardiac disorder
+quinidine,Tachycardia
+quinidine,Ventricular tachycardia
+quinidine,Electrocardiogram U wave present
+quinidine,Electrocardiogram U-wave abnormality
+quinidine,Bradycardia
+quinidine,Electrocardiogram QRS complex
+quinidine,Cardiotoxicity
+naproxen,Cardiac disorder
+naproxen,Cardiac failure
+naproxen,Cardiac failure congestive
+naproxen,Myocardial infarction
+naproxen,Tachycardia
+naproxen,Electrocardiogram abnormal
+cladribine,Cardiac disorder
+cladribine,Cardiac failure
+cladribine,Cardiac murmur
+cladribine,Tachycardia
+cladribine,Myocardial ischaemia
+cladribine,Decompensation cardiac
+doxorubicin,Congestive cardiomyopathy
+doxorubicin,Cardiovascular disorder
+doxorubicin,Cardiac arrest
+doxorubicin,Cardiac disorder
+doxorubicin,Cardiomegaly
+doxorubicin,Cardiac failure
+doxorubicin,Cardiac failure congestive
+doxorubicin,Myocarditis
+doxorubicin,Pericardial effusion
+doxorubicin,Pericarditis
+doxorubicin,Cardiogenic shock
+doxorubicin,Tachycardia
+doxorubicin,Sinus tachycardia
+doxorubicin,Ventricular tachycardia
+doxorubicin,Electrocardiogram QRS complex abnormal
+doxorubicin,Bradycardia
+doxorubicin,Electrocardiogram ST segment depression
+doxorubicin,Cardiotoxicity
+doxorubicin,Cardiomyopathy
+doxorubicin,Acute cardiac toxicity
+phenytoin,Cardiac arrest
+phenytoin,Cardiomegaly
+phenytoin,Cardiac failure congestive
+phenytoin,Tachycardia
+phenytoin,Sinus bradycardia
+phenytoin,Bradycardia
+methylprednisolone,Cardiac arrest
+methylprednisolone,Cardiac failure congestive
+methylprednisolone,Myocardial rupture
+methylprednisolone,Myocardial infarction
+abacavir,Myocardial infarction
+acebutolol,Cardiac output decreased
+acebutolol,Cardiac failure
+acebutolol,Cardiac failure congestive
+acebutolol,Bradycardia
+acetaminophen,Cardiac disorder
+acetaminophen,Tachycardia
+methacholine,Cardiac arrest
+methacholine,Bradycardia
+acyclovir,Cardiac tamponade
+acyclovir,Tachycardia
+salbutamol,Cardiac disorder
+salbutamol,Cardiac murmur
+salbutamol,Tachycardia
+salbutamol,Supraventricular tachycardia
+salbutamol,Cardiac output increased
+salbutamol,Cardiac failure high output
+salbutamol,Myocardial ischaemia
+salbutamol,Cardiac fibrillation
+salbutamol,Tachycardia foetal
+salbutamol,Electrocardiogram ST segment depression
+salbutamol,Electrocardiogram abnormal
+salbutamol,Electrocardiogram change
+alfuzosin,Cardiovascular disorder
+alfuzosin,Oedema due to cardiac disease
+alfuzosin,Cardiac disorder
+alfuzosin,Tachycardia
+alfuzosin,Ventricular tachycardia
+alfuzosin,Cardiac fibrillation
+amantadine,Cardiac arrest
+amantadine,Cardiac disorder
+amantadine,Cardiac failure
+amantadine,Cardiac failure congestive
+amantadine,Tachycardia
+theophylline,Cardiac flutter
+theophylline,Tachycardia
+theophylline,Sinus tachycardia
+theophylline,Supraventricular tachycardia
+theophylline,Multifocal atrial tachycardia
+theophylline,Atrial tachycardia
+theophylline,Cardio-respiratory arrest
+amiodarone,Cardiac arrest
+amiodarone,Cardiac failure
+amiodarone,Cardiac failure congestive
+amiodarone,Paroxysmal ventricular tachycardia
+amiodarone,Ventricular tachycardia
+amiodarone,Cardiogenic shock
+amiodarone,Tachycardia
+amiodarone,Sinus bradycardia
+amiodarone,Myocardial ischaemia
+amiodarone,Electrocardiogram QT prolonged
+amiodarone,Multifocal ventricular tachycardia
+amiodarone,Bradycardia
+amiodarone,Incessant ventricular tachycardia
+amisulpride,Cardiovascular disorder
+amisulpride,Cardiac arrest
+amisulpride,Cardiac disorder
+amisulpride,Ventricular tachycardia
+amisulpride,Bradycardia
+amitriptyline,Myocardial infarction
+amitriptyline,Tachycardia
+amitriptyline,Ventricular tachycardia
+amitriptyline,Electrocardiogram QRS complex
+amitriptyline,Electrocardiogram QT corrected interval prolonged
+amitriptyline,Electrocardiogram QT prolonged
+amitriptyline,Cardiomyopathy
+amlodipine,Cardiac disorder
+amlodipine,Cardiac failure congestive
+amlodipine,Tachycardia
+amlodipine,Ventricular tachycardia
+amlodipine,Bradycardia
+amobarbital,Bradycardia
+amoxapine,Myocardial infarction
+amoxapine,Tachycardia
+amprenavir,Cardiac disorder
+amprenavir,Myocardial infarction
+amsacrine,Cardiac disorder
+amsacrine,Cardiac failure congestive
+amsacrine,Tachycardia
+amsacrine,Sinus tachycardia
+amsacrine,Bradycardia
+amsacrine,Cardiomyopathy
+anagrelide,Cardiovascular disorder
+anagrelide,Cardiac disorder
+anagrelide,Cardiomegaly
+anagrelide,Cardiac failure
+anagrelide,Cardiac failure congestive
+anagrelide,Myocardial infarction
+anagrelide,Pericardial effusion
+anagrelide,Pericarditis
+anagrelide,Tachycardia
+anagrelide,Supraventricular tachycardia
+anagrelide,Ventricular tachycardia
+anagrelide,Cardiac fibrillation
+anagrelide,Cardiomyopathy
+apomorphine,Cardiac failure congestive
+apraclonidine,Bradycardia
+atenolol,Cardiac arrest
+atenolol,Cardiomegaly
+atenolol,Cardiac failure
+atenolol,Cardiac failure congestive
+atenolol,Cardiac septal defect
+atenolol,Cardiogenic shock
+atenolol,Tachycardia
+atenolol,Supraventricular tachycardia
+atenolol,Ventricular tachycardia
+atenolol,Bradycardia
+atenolol,Myocardial reinfarction
+atenolol,Myocardial infarction
+azelastine,Tachycardia
+benzphetamine,Cardiac valve disease
+benzphetamine,Tachycardia
+benzphetamine,Cardiomyopathy
+bepridil,Cardiac disorder
+bepridil,Cardiac failure
+bepridil,Sinus tachycardia
+bepridil,Ventricular tachycardia
+bepridil,Sinus bradycardia
+bepridil,Electrocardiogram QT prolonged
+bepridil,Acute myocardial infarction
+bepridil,Bradycardia
+betahistine,Tachycardia
+dexamethasone,Hypertrophic cardiomyopathy
+dexamethasone,Cardiac failure congestive
+dexamethasone,Myocardial rupture
+dexamethasone,Myocardial infarction
+betaxolol,Cardiac disorder
+betaxolol,Cardiac failure
+betaxolol,Myocardial infarction
+betaxolol,Tachycardia
+betaxolol,Cardiac failure acute
+betaxolol,Bradycardia
+bethanechol,Reflex tachycardia
+bethanechol,Tachycardia
+bicalutamide,Cardiac arrest
+bicalutamide,Cardiac disorder
+bicalutamide,Cardiac failure
+bicalutamide,Cardiac failure congestive
+bicalutamide,Myocardial infarction
+bicalutamide,Bradycardia
+bisoprolol,Cardiac arrest
+bisoprolol,Cardiac disorder
+bisoprolol,Cardiac failure
+bisoprolol,Cardiac failure congestive
+bisoprolol,Myocardial infarction
+bisoprolol,Tachycardia
+bisoprolol,Bradycardia
+bisoprolol,Cardiomyopathy
+brimonidine,Cardiac disorder
+brimonidine,Tachycardia
+brimonidine,Bradycardia
+bromocriptine,Cardiac disorder
+bromocriptine,Cardiac failure congestive
+bromocriptine,Cardiac valve disease
+bromocriptine,Myocardial infarction
+bromocriptine,Pericardial effusion
+bromocriptine,Pericarditis
+bromocriptine,Pericarditis constrictive
+bromocriptine,Tachycardia
+bromocriptine,Ventricular tachycardia
+bromocriptine,Bradycardia
+budesonide,Cardiac disorder
+budesonide,Tachycardia
+bupivacaine,Cardiac output decreased
+bupivacaine,Cardiac arrest
+bupivacaine,Cardiac disorder
+bupivacaine,Tachycardia
+bupivacaine,Ventricular tachycardia
+bupivacaine,Sinus bradycardia
+bupivacaine,Cardiac fibrillation
+bupivacaine,Bradycardia
+bupivacaine,Cardiovascular disorder
+bupivacaine,Electrocardiogram abnormal
+buprenorphine,Cardiac disorder
+buprenorphine,Tachycardia
+buprenorphine,Bradycardia
+buprenorphine,Cardiovascular disorder
+buprenorphine,Electrocardiogram QT corrected interval prolonged
+buprenorphine,Electrocardiogram QT prolonged
+buspirone,Cardiac failure congestive
+buspirone,Myocardial infarction
+buspirone,Tachycardia
+buspirone,Bradycardia
+buspirone,Electrocardiogram change
+buspirone,Cardiomyopathy
+butabarbital,Bradycardia
+butorphanol,Tachycardia
+cabergoline,Cardiac disorder
+cabergoline,Cardiac failure
+cabergoline,Cardiac valve disease
+cabergoline,Pericardial effusion
+cabergoline,Pericarditis
+cabergoline,Pericarditis constrictive
+caffeine,Cardiac disorder
+caffeine,Tachycardia
+verapamil,Hypertrophic cardiomyopathy
+verapamil,Cardiac flutter
+verapamil,Cardiac arrest
+verapamil,Cardiac failure
+verapamil,Myocardial infarction
+verapamil,Tachycardia
+verapamil,Bradycardia
+verapamil,Electrocardiogram abnormal
+carbamazepine,Cardiac arrest
+carbamazepine,Cardiac disorder
+carbamazepine,Cardiac failure
+carbamazepine,Cardiac failure congestive
+carbamazepine,Tachycardia
+carbamazepine,Bradycardia
+carbamazepine,Electrocardiogram QRS complex
+carbinoxamine,Tachycardia
+carteolol,Cardiac failure congestive
+carteolol,Bradycardia
+carvedilol,Cardiovascular disorder
+carvedilol,Cardiac arrest
+carvedilol,Cardiac failure
+carvedilol,Myocardial infarction
+carvedilol,Cardiogenic shock
+carvedilol,Tachycardia
+carvedilol,Ventricular tachycardia
+carvedilol,Sinus bradycardia
+carvedilol,Myocardial ischaemia
+carvedilol,Acute myocardial infarction
+carvedilol,Ischaemic cardiomyopathy
+carvedilol,Bradycardia
+carvedilol,Cardioactive drug level increased
+celecoxib,Cardiac disorder
+celecoxib,Cardiac failure
+celecoxib,Cardiac failure congestive
+celecoxib,Myocardial infarction
+celecoxib,Tachycardia
+celecoxib,Sinus bradycardia
+celiprolol,Cardiac failure
+celiprolol,Tachycardia
+celiprolol,Bradycardia
+cetirizine,Cardiac disorder
+cetirizine,Cardiac failure
+cetirizine,Tachycardia
+cevimeline,Cardiovascular disorder
+cevimeline,Cardiac disorder
+cevimeline,Cardiomegaly
+cevimeline,Cardiac murmur
+cevimeline,Myocardial infarction
+cevimeline,Pericarditis
+cevimeline,Tachycardia
+cevimeline,Supraventricular tachycardia
+cevimeline,Electrocardiogram T wave inversion
+cevimeline,Electrocardiogram abnormal
+chlorpheniramine,Tachycardia
+chlorpromazine,Cardiac arrest
+chlorpromazine,Tachycardia
+cilostazol,Cardiac arrest
+cilostazol,Cardiac disorder
+cilostazol,Cardiac failure
+cilostazol,Cardiac failure congestive
+cilostazol,Myocardial infarction
+cilostazol,Tachycardia
+cilostazol,Supraventricular tachycardia
+cilostazol,Ventricular tachycardia
+cilostazol,Myocardial ischaemia
+cilostazol,Electrocardiogram QT corrected interval prolonged
+cilostazol,Electrocardiogram QT prolonged
+cimetidine,Tachycardia
+cimetidine,Sinus bradycardia
+cimetidine,Bradycardia
+ciprofloxacin,Cardiac arrest
+ciprofloxacin,Cardiac disorder
+ciprofloxacin,Cardiac murmur
+ciprofloxacin,Myocardial infarction
+ciprofloxacin,Pericarditis
+ciprofloxacin,Tachycardia
+ciprofloxacin,Ventricular tachycardia
+ciprofloxacin,Bradycardia
+ciprofloxacin,Cardio-respiratory arrest
+citalopram,Cardiovascular disorder
+citalopram,Cardiac arrest
+citalopram,Cardiac disorder
+citalopram,Cardiac failure
+citalopram,Myocardial infarction
+citalopram,Tachycardia
+citalopram,Sinus tachycardia
+citalopram,Myocardial ischaemia
+citalopram,Electrocardiogram QT prolonged
+citalopram,Pericardial disease
+citalopram,Bradycardia
+citalopram,Electrocardiogram abnormal
+citalopram,Myocarditis
+citalopram,Ventricular tachycardia
+citalopram,Sinus bradycardia
+citalopram,Electrocardiogram PR shortened
+clemastine,Tachycardia
+clomipramine,Cardiac arrest
+clomipramine,Cardiac disorder
+clomipramine,Cardiac failure
+clomipramine,Cardiac failure congestive
+clomipramine,Myocardial infarction
+clomipramine,Tachycardia
+clomipramine,Sinus tachycardia
+clomipramine,Ventricular tachycardia
+clomipramine,Myocardial ischaemia
+clomipramine,Bradycardia
+clomipramine,Electrocardiogram QRS complex
+clomipramine,Electrocardiogram abnormal
+clomipramine,Electrocardiogram QT corrected interval prolonged
+clomipramine,Electrocardiogram QT prolonged
+clomipramine,Cardiomyopathy
+clonidine,Cardiac disorder
+clonidine,Cardiac failure congestive
+clonidine,Tachycardia
+clonidine,Sinus bradycardia
+clonidine,Electrocardiogram QT prolonged
+clonidine,Bradycardia
+clonidine,Electrocardiogram abnormal
+clonidine,Junctional bradycardia
+clozapine,Cardiac arrest
+clozapine,Cardiac disorder
+clozapine,Cardiac failure
+clozapine,Myocardial infarction
+clozapine,Pericardial effusion
+clozapine,Pericarditis
+clozapine,Tachycardia
+clozapine,Ventricular tachycardia
+clozapine,Bradycardia
+clozapine,Electrocardiogram change
+clozapine,Cardiomyopathy
+codeine,Cardiac arrest
+codeine,Cardiac disorder
+codeine,Tachycardia
+codeine,Bradycardia
+codeine,Cardiovascular insufficiency
+cyclobenzaprine,Myocardial infarction
+cyclobenzaprine,Tachycardia
+cyclopentolate,Tachycardia
+cyproheptadine,Tachycardia
+danazol,Myocardial infarction
+danazol,Tachycardia
+desipramine,Myocardial infarction
+desipramine,Tachycardia
+desipramine,Ventricular tachycardia
+dexamethasone,Cardiac arrest
+dexamethasone,Cardiomegaly
+dexamethasone,Cardiac failure
+dexamethasone,Tachycardia
+dexamethasone,Bradycardia
+amphetamine,Myocardial infarction
+amphetamine,Tachycardia
+amphetamine,Cardiomyopathy
+amphetamine,Cardiac disorder
+amphetamine,Cardiac death
+diazoxide,Tachycardia
+diclofenac,Cardiovascular disorder
+diclofenac,Cardiac disorder
+diclofenac,Cardiac failure
+diclofenac,Cardiac failure congestive
+diclofenac,Myocardial infarction
+diclofenac,Tachycardia
+diclofenac,Bradycardia
+dicyclomine,Cardiac disorder
+dicyclomine,Tachycardia
+dihydroergotamine,Myocardial infarction
+dihydroergotamine,Tachycardia
+dihydroergotamine,Ventricular tachycardia
+dihydroergotamine,Myocardial ischaemia
+diphenhydramine,Tachycardia
+dipivefrin,Tachycardia
+dipyridamole,Cardiac arrest
+dipyridamole,Cardiac disorder
+dipyridamole,Myocardial infarction
+dipyridamole,Tachycardia
+dipyridamole,Supraventricular tachycardia
+dipyridamole,Ventricular tachycardia
+dipyridamole,Cardiac fibrillation
+dipyridamole,Cardiac death
+dipyridamole,Bradycardia
+dipyridamole,Electrocardiogram abnormal
+dipyridamole,Sustained ventricular tachycardia
+dipyridamole,Electrocardiogram change
+dipyridamole,Cardiomyopathy
+dipyridamole,Electrocardiogram ST-T change
+disopyramide,Cardiac output decreased
+disopyramide,Cardiac arrest
+disopyramide,Cardiac failure
+disopyramide,Cardiac failure congestive
+disopyramide,Cardiogenic shock
+disopyramide,Ventricular tachycardia
+disopyramide,Cardiac fibrillation
+disopyramide,Bradycardia
+disopyramide,Electrocardiogram QRS complex
+dolasetron,Cardiac arrest
+dolasetron,Myocardial infarction
+dolasetron,Tachycardia
+dolasetron,Ventricular tachycardia
+dolasetron,Myocardial ischaemia
+dolasetron,Cardiac fibrillation
+dolasetron,Electrocardiogram U wave present
+dolasetron,Electrocardiogram U-wave abnormality
+dolasetron,Electrocardiogram abnormal specific
+dolasetron,Electrocardiogram abnormal
+dolasetron,Bradycardia
+dolasetron,Wide complex tachycardia
+dolasetron,Electrocardiogram poor R-wave progression
+donepezil,Cardiomegaly
+donepezil,Cardiac failure
+donepezil,Cardiac failure congestive
+donepezil,Myocardial infarction
+donepezil,Supraventricular tachycardia
+donepezil,Bradycardia
+donepezil,Electrocardiogram abnormal
+dorzolamide,Cardiac arrest
+dorzolamide,Cardiac failure
+dorzolamide,Cardiac failure congestive
+dorzolamide,Myocardial infarction
+dorzolamide,Bradycardia
+doxazosin,Cardiac failure
+doxazosin,Myocardial infarction
+doxazosin,Tachycardia
+doxazosin,Myocardial ischaemia
+doxazosin,Bradycardia
+doxazosin,Electrocardiogram abnormal
+doxepin,Cardiac disorder
+doxepin,Tachycardia
+doxepin,Cardiac death
+doxepin,Bradycardia
+doxepin,Electrocardiogram QRS complex abnormal
+doxepin,Electrocardiogram ST-T segment abnormal
+doxepin,Electrocardiogram change
+droperidol,Cardiac arrest
+droperidol,Tachycardia
+droperidol,Ventricular tachycardia
+dyphylline,Tachycardia
+edrophonium,Cardiac arrest
+edrophonium,Bradycardia
+efavirenz,Cardiac disorder
+efavirenz,Cardiac failure congestive
+efavirenz,Tachycardia
+emedastine,Cardiac disorder
+emedastine,Tachycardia
+ergotamine,Tachycardia
+ergotamine,Bradycardia
+erythromycin,Ventricular tachycardia
+erythromycin,Electrocardiogram QT prolonged
+estramustine,Cardiac arrest
+estramustine,Cardiac failure congestive
+estramustine,Myocardial infarction
+estramustine,Myocardial ischaemia
+estriol,Myocardial infarction
+etodolac,Cardiac failure congestive
+etodolac,Myocardial infarction
+etodolac,Tachycardia
+etoposide,Cardiovascular disorder
+etoposide,Cardiac arrest
+etoposide,Cardiac disorder
+etoposide,Cardiac failure
+etoposide,Cardiac failure congestive
+etoposide,Myocardial infarction
+etoposide,Tachycardia
+etoposide,Cardiotoxicity
+famciclovir,Cardiac disorder
+famotidine,Electrocardiogram QT prolonged
+famotidine,Bradycardia
+felodipine,Tachycardia
+felodipine,Bradycardia
+fenofibrate,Cardiovascular disorder
+fenofibrate,Cardiac disorder
+fenofibrate,Myocardial infarction
+fenofibrate,Tachycardia
+fenofibrate,Electrocardiogram abnormal
+fenoldopam,Cardiac failure
+fenoldopam,Myocardial infarction
+fenoldopam,Tachycardia
+fenoldopam,Myocardial ischaemia
+fenoldopam,Bradycardia
+fenoldopam,Electrocardiogram T wave inversion
+fenoprofen,Tachycardia
+fenoprofen,Supraventricular tachycardia
+fenoprofen,Electrocardiogram change
+fentanyl,Cardiac arrest
+fentanyl,Cardiac disorder
+fentanyl,Tachycardia
+fentanyl,Sinus tachycardia
+fentanyl,Bradycardia-tachycardia syndrome
+fentanyl,Bradycardia
+fentanyl,Non-cardiac chest pain
+fentanyl,Cardio-respiratory arrest
+fentanyl,Cardiovascular insufficiency
+fexofenadine,Cardiac failure congestive
+fexofenadine,Tachycardia
+flavoxate,Tachycardia
+flecainide,Cardiac arrest
+flecainide,Cardiac failure congestive
+flecainide,Tachycardia
+flecainide,Ventricular tachycardia
+flecainide,Sinus bradycardia
+flecainide,Bradycardia
+fludarabine,Cardiac failure
+fludarabine,Cardiac failure congestive
+fludarabine,Myocardial infarction
+fludarabine,Pericardial effusion
+fludarabine,Supraventricular tachycardia
+fludrocortisone,Cardiac failure congestive
+fluphenazine,Cardiac arrest
+fluphenazine,Tachycardia
+flumazenil,Tachycardia
+flumazenil,Junctional tachycardia
+flumazenil,Supraventricular tachycardia
+flumazenil,Ventricular tachycardia
+flumazenil,Bradycardia
+flunisolide,Tachycardia nervous
+flunisolide,Tachycardia
+fluoxetine,Cardiac arrest
+fluoxetine,Cardiac failure congestive
+fluoxetine,Myocardial infarction
+fluoxetine,Tachycardia
+fluoxetine,Ventricular tachycardia
+fluoxetine,Bradycardia
+fluoxetine,Cardiotoxicity
+flurbiprofen,Cardiac failure congestive
+flurbiprofen,Myocardial infarction
+flurbiprofen,Tachycardia
+flurbiprofen,Cardiac failure right
+fluvastatin,Cardiac disorder
+fluvoxamine,Cardiovascular disorder
+fluvoxamine,Cardiac arrest
+fluvoxamine,Cardiac disorder
+fluvoxamine,Cardiac failure
+fluvoxamine,Myocardial infarction
+fluvoxamine,Pericarditis
+fluvoxamine,Tachycardia
+fluvoxamine,Ventricular tachycardia
+fluvoxamine,Electrocardiogram QT prolonged
+fluvoxamine,Cardiac fibrillation
+fluvoxamine,Bradycardia
+fluvoxamine,Electrocardiogram ST segment
+fluvoxamine,Cardio-respiratory arrest
+fluvoxamine,Cardiomyopathy
+formoterol,Cardiac disorder
+formoterol,Tachycardia
+formoterol,Supraventricular tachycardia
+formoterol,Electrocardiogram QT prolonged
+formoterol,Cardiac failure congestive
+formoterol,Myocardial infarction
+formoterol,Electrocardiogram T wave inversion
+foscarnet,Cardiac arrest
+foscarnet,Sinus tachycardia
+gabapentin,Cardiovascular disorder
+gabapentin,Cardiac arrest
+gabapentin,Cardiac disorder
+gabapentin,Cardiac failure
+gabapentin,Cardiac failure congestive
+gabapentin,Myocardial infarction
+gabapentin,Pericardial effusion
+gabapentin,Pericarditis
+gabapentin,Tachycardia
+gabapentin,Pericardial rub
+gabapentin,Bradycardia
+galantamine,Cardiac disorder
+galantamine,Cardiac failure
+galantamine,Tachycardia
+galantamine,Supraventricular tachycardia
+galantamine,Ventricular tachycardia
+galantamine,Sinus bradycardia
+galantamine,Myocardial ischaemia
+galantamine,Electrocardiogram QT prolonged
+galantamine,Bradycardia
+galantamine,Electrocardiogram T wave inversion
+ganciclovir,Cardiac arrest
+ganciclovir,Tachycardia
+ganciclovir,Ventricular tachycardia
+gemcitabine,Cardiac disorder
+gemcitabine,Cardiac failure
+gemcitabine,Cardiac failure congestive
+gemcitabine,Myocardial infarction
+gemcitabine,Cardiotoxicity
+granisetron,Tachycardia
+granisetron,Sinus bradycardia
+granisetron,Bradycardia
+guanfacine,Cardiac failure congestive
+guanfacine,Myocardial infarction
+guanfacine,Tachycardia
+guanfacine,Cardiac fibrillation
+guanfacine,Bradycardia
+haloperidol,Cardiac arrest
+haloperidol,Cardiac disorder
+haloperidol,Tachycardia
+haloperidol,Ventricular tachycardia
+haloperidol,Electrocardiogram QT prolonged
+homatropine,Cardiac disorder
+homatropine,Tachycardia
+hydromorphone,Cardiac arrest
+hydromorphone,Cardiac disorder
+hydromorphone,Tachycardia
+hydromorphone,Ventricular tachycardia
+hydromorphone,Bradycardia
+hydromorphone,Cardiovascular insufficiency
+atropine,Tachycardia
+atropine,Cardiac arrest
+atropine,Myocardial infarction
+atropine,Junctional tachycardia
+atropine,Supraventricular tachycardia
+atropine,Sinus tachycardia
+atropine,Ventricular tachycardia
+atropine,Electrocardiogram QT prolonged
+atropine,Bradycardia
+atropine,Electrocardiogram QRS complex
+atropine,Cardiac syncope
+ibuprofen,Cardiac failure
+ibuprofen,Cardiac failure congestive
+ibuprofen,Myocardial infarction
+ibuprofen,Tachycardia
+ibuprofen,Sinus tachycardia
+ibuprofen,Sinus bradycardia
+phenelzine,Tachycardia
+lidocaine,Cardiac arrest
+lidocaine,Cardiac disorder
+lidocaine,Ventricular tachycardia
+lidocaine,Myocardial depression
+lidocaine,Bradycardia
+idarubicin,Cardiac failure congestive
+idarubicin,Myocardial infarction
+idarubicin,Myocarditis
+idarubicin,Pericarditis
+idarubicin,Sinus tachycardia
+idarubicin,Cardiotoxicity
+idarubicin,Cardiomyopathy
+imipramine,Cardiac disorder
+imipramine,Cardiac failure
+imipramine,Cardiac failure congestive
+imipramine,Myocardial infarction
+imipramine,Tachycardia
+imipramine,Sinus tachycardia
+imipramine,Ventricular tachycardia
+imipramine,Electrocardiogram QRS complex
+indinavir,Cardiovascular disorder
+indinavir,Myocardial infarction
+indomethacin,Cardiac failure congestive
+indomethacin,Tachycardia
+indomethacin,Bradycardia
+ipratropium,Cardiovascular disorder
+ipratropium,Cardiac disorder
+ipratropium,Tachycardia
+ipratropium,Supraventricular tachycardia
+isoflurane,Cardiac arrest
+isoflurane,Cardiac disorder
+isradipine,Cardiac disorder
+isradipine,Cardiac failure
+isradipine,Myocardial infarction
+isradipine,Tachycardia
+isradipine,Bradycardia
+ketamine,Bradycardia
+ketoconazole,Electrocardiogram QT prolonged
+ketoprofen,Cardiac failure
+ketoprofen,Cardiac failure congestive
+ketoprofen,Myocardial infarction
+ketoprofen,Tachycardia
+ketorolac,Cardiac failure congestive
+ketorolac,Myocardial infarction
+ketorolac,Tachycardia
+ketorolac,Bradycardia
+labetalol,Cardiac failure
+labetalol,Bradycardia
+lamivudine,Cardiomyopathy
+lamotrigine,Cardiac arrest
+lamotrigine,Cardiac failure
+lamotrigine,Myocardial infarction
+lamotrigine,Tachycardia
+levobunolol,Cardiac arrest
+levobunolol,Cardiac failure congestive
+levobunolol,Bradycardia
+lisuride,Cardiac disorder
+lisuride,Cardiac valve disease
+lisuride,Pericardial effusion
+lisuride,Pericarditis
+lisuride,Tachycardia
+lomefloxacin,Cardiac failure
+lomefloxacin,Myocardial infarction
+lomefloxacin,Tachycardia
+lomefloxacin,Bradycardia
+lomefloxacin,Cardio-respiratory arrest
+lomefloxacin,Cardiomyopathy
+loratadine,Cardiovascular disorder
+loratadine,Tachycardia
+loxapine,Tachycardia
+maprotiline,Cardiac disorder
+maprotiline,Myocardial infarction
+maprotiline,Tachycardia
+maprotiline,Sinus tachycardia
+maprotiline,Ventricular tachycardia
+maprotiline,Electrocardiogram QRS complex
+meloxicam,Cardiac disorder
+meloxicam,Cardiac failure
+meloxicam,Cardiac failure congestive
+meloxicam,Myocardial infarction
+meloxicam,Tachycardia
+memantine,Cardiovascular disorder
+memantine,Cardiac arrest
+memantine,Cardiac disorder
+memantine,Cardiomegaly
+memantine,Cardiac failure
+memantine,Cardiac failure congestive
+memantine,Cardiac murmur
+memantine,Cardiac valve disease
+memantine,Myocardial infarction
+memantine,Tachycardia
+memantine,Supraventricular tachycardia
+memantine,Electrocardiogram QT prolonged
+memantine,Electrocardiogram abnormal specific
+memantine,Electrocardiogram abnormal
+memantine,Bradycardia
+memantine,Electrocardiogram change
+memantine,Electrocardiogram QT corrected interval prolonged
+meperidine,Cardiac arrest
+meperidine,Tachycardia
+meperidine,Bradycardia
+meperidine,Cardiovascular insufficiency
+mepivacaine,Cardiac output decreased
+mepivacaine,Cardiac arrest
+mepivacaine,Tachycardia
+mepivacaine,Bradycardia
+meprobamate,Tachycardia
+methadone,Cardiac arrest
+methadone,Cardiac failure
+methadone,Tachycardia
+methadone,Ventricular tachycardia
+methadone,Electrocardiogram QT prolonged
+methadone,Bradycardia
+methadone,Electrocardiogram T wave inversion
+methadone,Cardiomyopathy
+methadone,Cardiovascular insufficiency
+methocarbamol,Bradycardia
+methotrexate,Cardiac tamponade
+methotrexate,Cardiac disorder
+methotrexate,Nocardiosis
+methotrexate,Pericardial effusion
+methotrexate,Pericarditis
+methyldopa,Cardiac disorder
+methyldopa,Cardiac failure congestive
+methyldopa,Myocarditis
+methyldopa,Pericarditis
+methyldopa,Bradycardia
+methylergometrine,Cardiac disorder
+methylergometrine,Tachycardia
+methylergometrine,Ventricular tachycardia
+methylergometrine,Acute myocardial infarction
+methylergometrine,Bradycardia
+methylphenidate,Cardiac arrest
+methylphenidate,Cardiac disorder
+methylphenidate,Cardiac murmur
+methylphenidate,Myocardial infarction
+methylphenidate,Tachycardia
+methylphenidate,Supraventricular tachycardia
+methylphenidate,Sudden cardiac death
+methylphenidate,Cardiac death
+methylphenidate,Bradycardia
+methylprednisolone,Hypertrophic cardiomyopathy
+methylprednisolone,Cardiac disorder
+methylprednisolone,Cardiomegaly
+methylprednisolone,Cardiac failure
+methylprednisolone,Tachycardia
+methylprednisolone,Bradycardia
+methysergide,Cardiac murmur
+methysergide,Tachycardia
+metoclopramide,Cardiac arrest
+metoclopramide,Cardiac failure congestive
+metoclopramide,Tachycardia
+metoclopramide,Supraventricular tachycardia
+metoclopramide,Ventricular tachycardia
+metoclopramide,Bradycardia
+metoclopramide,Cardio-respiratory arrest
+metoprolol,Cardiac output decreased
+metoprolol,Cardiac arrest
+metoprolol,Cardiac disorder
+metoprolol,Cardiac failure
+metoprolol,Cardiac failure congestive
+metoprolol,Cardiogenic shock
+metoprolol,Tachycardia
+metoprolol,Ventricular tachycardia
+metoprolol,Acute myocardial infarction
+metoprolol,Bradycardia
+metoprolol,Cardiovascular disorder
+mexiletine,Cardiac failure congestive
+mexiletine,Cardiogenic shock
+mexiletine,Bradycardia
+mianserin,Cardiac arrest
+mianserin,Cardiac disorder
+mianserin,Cardiac failure
+mianserin,Tachycardia
+mianserin,Electrocardiogram QT prolonged
+mianserin,Bradycardia
+midodrine,Cardiac disorder
+midodrine,Tachycardia
+midodrine,Reflex bradycardia
+midodrine,Bradycardia
+milrinone,Ventricular tachycardia
+milrinone,Non-sustained ventricular tachycardia
+milrinone,Sustained ventricular tachycardia
+mirtazapine,Cardiac disorder
+mirtazapine,Cardiomegaly
+mirtazapine,Myocardial infarction
+mirtazapine,Tachycardia
+mirtazapine,Bradycardia
+mitoxantrone,Cardiac failure
+mitoxantrone,Cardiac failure congestive
+mitoxantrone,Myocardial infarction
+mitoxantrone,Tachycardia
+mitoxantrone,Sinus bradycardia
+mitoxantrone,Myocardial ischaemia
+mitoxantrone,Bradycardia
+mitoxantrone,Electrocardiogram abnormal
+mitoxantrone,Cardiotoxicity
+mitoxantrone,Cardiomyopathy
+moclobemide,Tachycardia
+moclobemide,Bradycardia
+modafinil,Cardiac arrest
+modafinil,Cardiac disorder
+modafinil,Tachycardia
+modafinil,Myocardial ischaemia
+modafinil,Bradycardia
+modafinil,Electrocardiogram abnormal
+morphine,Cardiac arrest
+morphine,Tachycardia
+morphine,Supraventricular tachycardia
+morphine,Ventricular tachycardia
+morphine,Bradycardia
+morphine,Cardiovascular insufficiency
+morphine,Cardiovascular disorder
+morphine,Non-cardiogenic pulmonary oedema
+moxifloxacin,Cardiovascular disorder
+moxifloxacin,Cardiac arrest
+moxifloxacin,Cardiac disorder
+moxifloxacin,Cardiac failure
+moxifloxacin,Cardiac failure congestive
+moxifloxacin,Myocardial infarction
+moxifloxacin,Tachycardia
+moxifloxacin,Supraventricular tachycardia
+moxifloxacin,Ventricular tachycardia
+moxifloxacin,Electrocardiogram QT prolonged
+moxifloxacin,Bradycardia
+moxifloxacin,Electrocardiogram abnormal
+moxifloxacin,Acute myocardial ischemia
+moxifloxacin,Myocardial ischaemia
+nabumetone,Myocardial infarction
+nadolol,Cardiomegaly
+nadolol,Cardiac failure
+nadolol,Cardiac failure congestive
+nadolol,Bradycardia
+nalbuphine,Cardiac arrest
+nalbuphine,Tachycardia
+nalbuphine,Bradycardia
+nalmefene,Cardiac disorder
+nalmefene,Tachycardia
+nalmefene,Bradycardia
+naloxone,Cardiac arrest
+naloxone,Cardiac disorder
+naloxone,Tachycardia
+naloxone,Ventricular tachycardia
+naloxone,Cardiac fibrillation
+naltrexone,Cardiac disorder
+naltrexone,Cardiac failure congestive
+naltrexone,Myocardial infarction
+naltrexone,Tachycardia
+naratriptan,Cardiac disorder
+naratriptan,Cardiac murmur
+naratriptan,Myocardial infarction
+naratriptan,Ventricular tachycardia
+naratriptan,Myocardial ischaemia
+naratriptan,Bradycardia
+naratriptan,Electrocardiogram abnormal
+naratriptan,Electrocardiogram PR prolongation
+naratriptan,Electrocardiogram QT corrected interval prolonged
+naratriptan,Electrocardiogram QT prolonged
+nefazodone,Cardiac failure congestive
+nefazodone,Tachycardia
+nefazodone,Sinus bradycardia
+nefazodone,Bradycardia
+neostigmine,Cardiovascular disorder
+neostigmine,Cardiac arrest
+neostigmine,Tachycardia
+neostigmine,Bradycardia
+nicardipine,Pericardial haemorrhage
+nicardipine,Myocardial infarction
+nicardipine,Pericarditis
+nicardipine,Tachycardia
+nicardipine,Supraventricular tachycardia
+nicardipine,Ventricular tachycardia
+nicardipine,Electrocardiogram ST segment depression
+nicardipine,Electrocardiogram T wave inversion
+nicardipine,Electrocardiogram abnormal
+nifedipine,Cardiovascular disorder
+nifedipine,Cardiac arrest
+nifedipine,Cardiac disorder
+nifedipine,Cardiac failure
+nifedipine,Cardiac failure congestive
+nifedipine,Cardiogenic shock
+nifedipine,Tachycardia
+nifedipine,Myocardial ischaemia
+nifedipine,Bradycardia
+nilutamide,Cardiac failure
+nimodipine,Cardiac disorder
+nimodipine,Cardiac failure congestive
+nimodipine,Tachycardia
+nimodipine,Bradycardia
+nisoldipine,Cardiac failure congestive
+nisoldipine,Myocardial infarction
+nisoldipine,Tachycardia
+nisoldipine,Supraventricular tachycardia
+nisoldipine,Cardiac murmur
+nizatidine,Ventricular tachycardia
+norethisterone,Myocardial infarction
+norfloxacin,Myocardial infarction
+levonorgestrel,Cardiac disorder
+nortriptyline,Myocardial infarction
+nortriptyline,Tachycardia
+nortriptyline,Ventricular tachycardia
+nortriptyline,Electrocardiogram QRS complex
+nortriptyline,Electrocardiogram QT corrected interval prolonged
+nortriptyline,Electrocardiogram QT prolonged
+repaglinide,Cardiovascular disorder
+repaglinide,Cardiac disorder
+repaglinide,Cardiac failure congestive
+repaglinide,Myocardial infarction
+repaglinide,Myocardial ischaemia
+repaglinide,Electrocardiogram abnormal
+ofloxacin,Cardiac arrest
+ofloxacin,Tachycardia
+ofloxacin,Cardiovascular disorder
+ofloxacin,Endocarditis
+ofloxacin,Cardiac disorder
+ofloxacin,Cardiac failure
+ofloxacin,Myocardial infarction
+ofloxacin,Supraventricular tachycardia
+ofloxacin,Ventricular tachycardia
+ofloxacin,Electrocardiogram QT prolonged
+ofloxacin,Bradycardia
+olanzapine,Cardiac arrest
+olanzapine,Cardiac disorder
+olanzapine,Cardiac failure
+olanzapine,Cardiac failure congestive
+olanzapine,Tachycardia
+olanzapine,Ventricular tachycardia
+olanzapine,Cardiac fibrillation
+olanzapine,Bradycardia
+olanzapine,Electrocardiogram change
+olanzapine,Electrocardiogram QT corrected interval prolonged
+olanzapine,Electrocardiogram QT prolonged
+ondansetron,Cardiovascular disorder
+ondansetron,Cardiac disorder
+ondansetron,Myocardial infarction
+ondansetron,Tachycardia
+ondansetron,Supraventricular tachycardia
+ondansetron,Myocardial ischaemia
+ondansetron,Bradycardia
+ondansetron,Electrocardiogram ST segment depression
+ondansetron,Cardio-respiratory arrest
+ondansetron,Electrocardiogram QT corrected interval prolonged
+ondansetron,Electrocardiogram QT prolonged
+orphenadrine,Tachycardia
+oxaprozin,Cardiac failure congestive
+oxaprozin,Myocardial infarction
+oxaprozin,Tachycardia
+oxprenolol,Cardiac failure
+oxprenolol,Bradycardia
+oxybutynin,Cardiac disorder
+oxybutynin,Tachycardia
+oxycodone,Cardiac arrest
+oxycodone,Cardiac disorder
+oxycodone,Cardiac failure
+oxycodone,Tachycardia
+oxycodone,Supraventricular tachycardia
+oxycodone,Ventricular tachycardia
+oxycodone,Bradycardia
+oxycodone,Electrocardiogram ST segment depression
+oxycodone,Cardiovascular insufficiency
+oxymorphone,Cardiac disorder
+oxymorphone,Tachycardia
+oxymorphone,Bradycardia
+paclitaxel,Cardiac arrest
+paclitaxel,Cardiac disorder
+paclitaxel,Cardiac failure
+paclitaxel,Cardiac failure congestive
+paclitaxel,Myocardial infarction
+paclitaxel,Tachycardia
+paclitaxel,Sinus tachycardia
+paclitaxel,Supraventricular tachycardia
+paclitaxel,Ventricular tachycardia
+paclitaxel,Sinus bradycardia
+paclitaxel,Myocardial ischaemia
+paclitaxel,Bradycardia
+paclitaxel,Electrocardiogram abnormal
+paclitaxel,Cardiomyopathy
+pancuronium,Tachycardia
+paroxetine,Cardiac output decreased
+paroxetine,Cardiac disorder
+paroxetine,Cardiac failure congestive
+paroxetine,Myocardial infarction
+paroxetine,Tachycardia
+paroxetine,Sinus tachycardia
+paroxetine,Supraventricular tachycardia
+paroxetine,Ventricular tachycardia
+paroxetine,Myocardial ischaemia
+paroxetine,Bradycardia
+paroxetine,Electrocardiogram abnormal
+paroxetine,Electrocardiogram QT corrected interval prolonged
+paroxetine,Electrocardiogram QT prolonged
+penbutolol,Bradycardia
+penciclovir,Cardiac disorder
+pentazocine,Tachycardia
+pentazocine,Cardiovascular insufficiency
+pentobarbital,Bradycardia
+pentoxifylline,Tachycardia
+pergolide,Cardiac arrest
+pergolide,Cardiac failure congestive
+pergolide,Myocardial infarction
+pergolide,Pericarditis
+pergolide,Tachycardia
+pergolide,Ventricular tachycardia
+pergolide,Bradycardia
+pergolide,Electrocardiogram abnormal
+perphenazine,Cardiac arrest
+perphenazine,Tachycardia
+perphenazine,Bradycardia
+phenobarbital,Bradycardia
+phenoxybenzamine,Tachycardia
+phentermine,Cardiac arrest
+phentermine,Cardiac failure
+phentermine,Cardiac valve disease
+phentermine,Myocardial infarction
+phentermine,Tachycardia
+phenylephrine,Cardiac disorder
+phenylephrine,Myocardial infarction
+phenylephrine,Tachycardia
+phenylephrine,Myocardial ischaemia
+phenylephrine,Reflex bradycardia
+phenylephrine,Bradycardia
+phenylpropanolamine,Tachycardia
+physostigmine,Bradycardia
+pilocarpine,Myocardial infarction
+pilocarpine,Tachycardia
+pilocarpine,Bradycardia
+pindolol,Cardiac disorder
+pindolol,Cardiac failure
+pindolol,Cardiac failure congestive
+pindolol,Tachycardia
+pindolol,Bradycardia
+pioglitazone,Cardiac disorder
+pioglitazone,Cardiac failure
+pioglitazone,Cardiac failure congestive
+pioglitazone,Myocardial infarction
+pioglitazone,Myocardial ischaemia
+pioglitazone,Electrocardiogram abnormal
+pirbuterol,Tachycardia
+pramipexole,Cardiac arrest
+pramipexole,Cardiac disorder
+pramipexole,Cardiomegaly
+pramipexole,Cardiac failure
+pramipexole,Cardiac failure congestive
+pramipexole,Myocardial infarction
+pramipexole,Tachycardia
+pramipexole,Sinus tachycardia
+pramipexole,Supraventricular tachycardia
+pramipexole,Sinus bradycardia
+pramipexole,Bradycardia
+pravastatin,Cardiac disorder
+pravastatin,Myocardial infarction
+pravastatin,Cardiac pain
+prazosin,Tachycardia
+prazosin,Bradycardia
+prednisolone,Hypertrophic cardiomyopathy
+prednisolone,Cardiac arrest
+prednisolone,Cardiomegaly
+prednisolone,Cardiac failure congestive
+prednisolone,Myocardial rupture
+prednisolone,Myocardial infarction
+prednisolone,Tachycardia
+prednisolone,Bradycardia
+prednisone,Hypertrophic cardiomyopathy
+prednisone,Cardiac arrest
+prednisone,Cardiomegaly
+prednisone,Cardiac failure
+prednisone,Cardiac failure congestive
+prednisone,Myocardial rupture
+prednisone,Myocardial infarction
+prednisone,Tachycardia
+prednisone,Bradycardia
+prilocaine,Cardiac arrest
+prilocaine,Cardiac failure
+prilocaine,Myocardial depression
+prilocaine,Bradycardia
+procainamide,Cardiac arrest
+procainamide,Cardiac disorder
+procainamide,Cardiac failure
+procainamide,Paroxysmal atrial tachycardia
+procainamide,Atrial tachycardia
+procainamide,Pericarditis
+procainamide,Junctional tachycardia
+procainamide,Supraventricular tachycardia
+procainamide,Ventricular tachycardia
+procainamide,Cardiac fibrillation
+procainamide,Bradycardia
+procainamide,Electrocardiogram QRS complex
+procainamide,Electrocardiogram change
+procaine,Cardiac output decreased
+procaine,Cardiac arrest
+procaine,Tachycardia
+procaine,Bradycardia
+procarbazine,Pericarditis
+procarbazine,Tachycardia
+procarbazine,Cardiotoxicity
+prochlorperazine,Cardiac arrest
+progesterone,Cardiac disorder
+progesterone,Tachycardia
+promethazine,Tachycardia
+promethazine,Bradycardia
+propafenone,Cardiac flutter
+propafenone,Cardiac arrest
+propafenone,Cardiac disorder
+propafenone,Cardiac failure
+propafenone,Cardiac failure congestive
+propafenone,Cardiac murmur
+propafenone,Pericarditis
+propafenone,Tachycardia
+propafenone,Supraventricular tachycardia
+propafenone,Ventricular tachycardia
+propafenone,Sinus bradycardia
+propafenone,Electrocardiogram QT prolonged
+propafenone,Bradycardia
+propafenone,Electrocardiogram QRS complex
+propafenone,Electrocardiogram abnormal
+propafenone,Wide complex tachycardia
+propafenone,Cardioactive drug level above therapeutic
+propantheline,Tachycardia
+propofol,Cardiac output decreased
+propofol,Cardiac arrest
+propofol,Cardiac failure
+propofol,Myocardial infarction
+propofol,Tachycardia
+propofol,Supraventricular tachycardia
+propofol,Ventricular tachycardia
+propofol,Myocardial ischaemia
+propofol,Cardiac failure right
+propofol,Bradycardia
+propofol,Nodal tachycardia
+propofol,Electrocardiogram ST segment depression
+propofol,Electrocardiogram abnormal
+propranolol,Cardiac arrest
+propranolol,Cardiac disorder
+propranolol,Cardiac failure congestive
+propranolol,Bradycardia
+protriptyline,Myocardial infarction
+protriptyline,Tachycardia
+pyridostigmine,Cardiac arrest
+pyridostigmine,Bradycardia
+quetiapine,Cardiovascular disorder
+quetiapine,Cardiac arrest
+quetiapine,Cardiac disorder
+quetiapine,Cardiac failure congestive
+quetiapine,Myocarditis
+quetiapine,Tachycardia
+quetiapine,Sinus tachycardia
+quetiapine,Electrocardiogram QT prolonged
+quetiapine,Electrocardiogram QRS complex prolonged
+quetiapine,Bradycardia
+quetiapine,Electrocardiogram ST segment elevation
+quetiapine,Electrocardiogram T wave inversion
+quetiapine,Electrocardiogram abnormal
+quetiapine,Electrocardiogram change
+quetiapine,Cardiomyopathy
+ephedrine,Tachycardia
+ephedrine,Bradycardia
+raloxifene,Cardiac disorder
+ranitidine,Cardiac arrest
+ranitidine,Tachycardia
+ranitidine,Bradycardia
+reserpine,Bradycardia
+riluzole,Congestive cardiomyopathy
+riluzole,Cardiac arrest
+riluzole,Cardiac disorder
+riluzole,Cardiac failure
+riluzole,Cardiac failure congestive
+riluzole,Cardiac murmur
+riluzole,Myocardial infarction
+riluzole,Pericarditis
+riluzole,Tachycardia
+riluzole,Supraventricular tachycardia
+riluzole,Ventricular tachycardia
+riluzole,Myocardial ischaemia
+riluzole,Bradycardia
+risperidone,Cardiovascular disorder
+risperidone,Cardiac arrest
+risperidone,Cardiac disorder
+risperidone,Myocardial infarction
+risperidone,Myocarditis
+risperidone,Tachycardia
+risperidone,Sinus tachycardia
+risperidone,Ventricular tachycardia
+risperidone,Sinus bradycardia
+risperidone,Myocardial ischaemia
+risperidone,Electrocardiogram QT prolonged
+risperidone,Bradycardia
+risperidone,Electrocardiogram ST segment depression
+risperidone,Electrocardiogram T wave inversion
+risperidone,Electrocardiogram abnormal
+risperidone,Cardio-respiratory arrest
+risperidone,Electrocardiogram change
+risperidone,Electrocardiogram QT corrected interval prolonged
+risperidone,Postural orthostatic tachycardia syndrome
+risperidone,Reflex tachycardia
+risperidone,Electrocardiogram QT interval abnormal
+ritonavir,Cardiovascular disorder
+ritonavir,Cardiac disorder
+ritonavir,Myocardial infarction
+ritonavir,Tachycardia
+rivastigmine,Cardiovascular disorder
+rivastigmine,Cardiac arrest
+rivastigmine,Cardiac disorder
+rivastigmine,Cardiac failure
+rivastigmine,Myocardial infarction
+rivastigmine,Tachycardia
+rivastigmine,Supraventricular tachycardia
+rivastigmine,Sudden cardiac death
+rivastigmine,Myocardial ischaemia
+rivastigmine,Electrocardiogram QT prolonged
+rivastigmine,Cardiac fibrillation
+rivastigmine,Bradycardia
+rivastigmine,Electrocardiogram abnormal
+rizatriptan,Myocardial infarction
+rizatriptan,Tachycardia
+rizatriptan,Ventricular tachycardia
+rizatriptan,Myocardial ischaemia
+rizatriptan,Bradycardia
+rofecoxib,Cardiac failure congestive
+rofecoxib,Myocardial infarction
+rofecoxib,Tachycardia
+rofecoxib,Bradycardia
+ropinirole,Cardiovascular disorder
+ropinirole,Cardiac arrest
+ropinirole,Cardiac disorder
+ropinirole,Cardiomegaly
+ropinirole,Cardiac failure
+ropinirole,Cardiac valve disease
+ropinirole,Myocardial infarction
+ropinirole,Tachycardia
+ropinirole,Supraventricular tachycardia
+ropinirole,Ventricular tachycardia
+ropinirole,Myocardial ischaemia
+ropinirole,Cardiac fibrillation
+ropinirole,Bradycardia
+ropinirole,Electrocardiogram abnormal
+salmeterol,Cardiac disorder
+salmeterol,Tachycardia
+salmeterol,Supraventricular tachycardia
+salmeterol,Ventricular tachycardia
+salmeterol,Sustained ventricular tachycardia
+scopolamine,Tachycardia
+scopolamine,Bradycardia
+secobarbital,Bradycardia
+sertraline,Cardiac disorder
+sertraline,Myocardial infarction
+sertraline,Tachycardia
+sertraline,Ventricular tachycardia
+sertraline,Electrocardiogram QT prolonged
+sertraline,Bradycardia
+sertraline,Electrocardiogram QT corrected interval prolonged
+sevoflurane,Cardiac arrest
+sevoflurane,Cardiac disorder
+sevoflurane,Tachycardia
+sevoflurane,Ventricular tachycardia
+sevoflurane,Electrocardiogram QT prolonged
+sevoflurane,Bradycardia
+sevoflurane,Electrocardiogram ST segment depression
+sevoflurane,Electrocardiogram T wave inversion
+sibutramine,Cardiovascular disorder
+sibutramine,Cardiac arrest
+sibutramine,Cardiac failure congestive
+sibutramine,Myocardial infarction
+sibutramine,Tachycardia
+sibutramine,Supraventricular tachycardia
+sibutramine,Ventricular tachycardia
+sibutramine,Bradycardia
+sibutramine,Electrocardiogram abnormal
+sildenafil,Cardiovascular disorder
+sildenafil,Cardiac arrest
+sildenafil,Cardiac disorder
+sildenafil,Cardiac failure
+sildenafil,Myocardial infarction
+sildenafil,Cardiogenic shock
+sildenafil,Tachycardia
+sildenafil,Sudden cardiac death
+sildenafil,Myocardial ischaemia
+sildenafil,Electrocardiogram abnormal
+sildenafil,Cardiomyopathy
+sotalol,Cardiovascular disorder
+sotalol,Cardiac failure
+sotalol,Myocardial infarction
+sotalol,Cardiogenic shock
+sotalol,Ventricular tachycardia
+sotalol,Electrocardiogram QT prolonged
+sotalol,Multifocal ventricular tachycardia
+sotalol,Cardiac pain
+sotalol,Bradycardia
+sotalol,Electrocardiogram abnormal
+sotalol,Non-sustained ventricular tachycardia
+sotalol,Sustained ventricular tachycardia
+sparfloxacin,Cardiovascular disorder
+sparfloxacin,Tachycardia
+sparfloxacin,Sinus bradycardia
+sparfloxacin,Electrocardiogram PR shortened
+sparfloxacin,Electrocardiogram abnormal
+sparfloxacin,Cardio-respiratory arrest
+vorinostat,Myocardial infarction
+succinylcholine,Cardiac arrest
+succinylcholine,Tachycardia
+succinylcholine,Bradycardia
+sulindac,Cardiac failure congestive
+sulindac,Tachycardia
+sumatriptan,Myocardial infarction
+sumatriptan,Tachycardia
+sumatriptan,Ventricular tachycardia
+sumatriptan,Myocardial ischaemia
+sumatriptan,Bradycardia-tachycardia syndrome
+sumatriptan,Bradycardia
+sumatriptan,Electrocardiogram change
+sumatriptan,Cardiomyopathy
+tamoxifen,Cardiovascular disorder
+tamoxifen,Myocardial infarction
+tamoxifen,Myocardial ischaemia
+gatifloxacin,Tachycardia
+gatifloxacin,Bradycardia
+teniposide,Tachycardia
+teniposide,Electrocardiogram change
+teniposide,Cardiotoxicity
+terazosin,Cardiac failure
+terazosin,Tachycardia
+terbutaline,Tachycardia
+testosterone,Cardiac arrest
+testosterone,Cardiac disorder
+testosterone,Cardiac failure
+testosterone,Myocardial infarction
+testosterone,Tachycardia
+thalidomide,Cardiac arrest
+thalidomide,Cardiac disorder
+thalidomide,Cardiac failure
+thalidomide,Cardiac failure congestive
+thalidomide,Myocardial infarction
+thalidomide,Pericarditis
+thalidomide,Tachycardia
+thalidomide,Sinus bradycardia
+thalidomide,Myocardial ischaemia
+thalidomide,Bradycardia
+thioridazine,Cardiac arrest
+thioridazine,Tachycardia
+thioridazine,Electrocardiogram U wave present
+thioridazine,Electrocardiogram U-wave abnormality
+thioridazine,Multifocal ventricular tachycardia
+thioridazine,Ventricular tachycardia
+thiothixene,Cardiac arrest
+thiothixene,Tachycardia
+tibolone,Myocardial infarction
+timolol,Cardiac arrest
+timolol,Cardiac disorder
+timolol,Cardiac failure
+timolol,Cardiac failure congestive
+timolol,Cardiac failure acute
+timolol,Bradycardia
+tizanidine,Cardiac arrest
+tizanidine,Cardiac disorder
+tizanidine,Cardiac failure
+tizanidine,Myocardial infarction
+tizanidine,Tachycardia
+tizanidine,Ventricular tachycardia
+tizanidine,Electrocardiogram QT prolonged
+tizanidine,Bradycardia
+tizanidine,Cardio-respiratory arrest
+tolmetin,Cardiac failure congestive
+tolterodine,Tachycardia
+topiramate,Cardiovascular disorder
+topiramate,Cardiac disorder
+topiramate,Tachycardia
+topiramate,Sinus bradycardia
+topiramate,Bradycardia
+topiramate,Electrocardiogram abnormal
+topotecan,Cardiac arrest
+tramadol,Cardiovascular disorder
+tramadol,Cardiac disorder
+tramadol,Cardiac murmur
+tramadol,Myocardial infarction
+tramadol,Tachycardia
+tramadol,Sinus tachycardia
+tramadol,Myocardial ischaemia
+tramadol,Acute myocardial infarction
+tramadol,Bradycardia
+tramadol,Electrocardiogram abnormal
+tranylcypromine,Tachycardia
+tranylcypromine,Bradycardia
+trazodone,Cardiac arrest
+trazodone,Cardiac failure congestive
+trazodone,Myocardial infarction
+trazodone,Tachycardia
+trazodone,Ventricular tachycardia
+trazodone,Sinus bradycardia
+trazodone,Electrocardiogram QT prolonged
+trazodone,Bradycardia
+trazodone,Electrocardiogram PR prolongation
+triamcinolone,Hypertrophic cardiomyopathy
+triamcinolone,Cardiac arrest
+triamcinolone,Cardiomegaly
+triamcinolone,Cardiac failure congestive
+triamcinolone,Myocardial rupture
+triamcinolone,Myocardial infarction
+triamcinolone,Tachycardia
+triamcinolone,Bradycardia
+trifluoperazine,Cardiac arrest
+trihexyphenidyl,Tachycardia
+trihexyphenidyl,Sinus bradycardia
+trimipramine,Myocardial infarction
+trimipramine,Tachycardia
+troglitazone,Cardiac failure congestive
+tropicamide,Tachycardia
+tropisetron,Bradycardia
+trospium,Cardiac disorder
+trospium,Tachycardia
+trospium,Supraventricular tachycardia
+trospium,Electrocardiogram abnormal
+delavirdine,Cardiac failure
+delavirdine,Tachycardia
+delavirdine,Bradycardia
+delavirdine,Cardiomyopathy
+venlafaxine,Cardiovascular disorder
+venlafaxine,Cardiac arrest
+venlafaxine,Cardiac disorder
+venlafaxine,Cardiac failure congestive
+venlafaxine,Myocardial infarction
+venlafaxine,Tachycardia
+venlafaxine,Supraventricular tachycardia
+venlafaxine,Ventricular tachycardia
+venlafaxine,Bradycardia
+zalcitabine,Cardiac failure
+zalcitabine,Tachycardia
+zalcitabine,Cardiomyopathy
+zaleplon,Pericardial effusion
+zaleplon,Tachycardia
+zaleplon,Ventricular tachycardia
+zaleplon,Sinus bradycardia
+zidovudine,Cardiac disorder
+zidovudine,Cardiac failure congestive
+zidovudine,Cardiomyopathy
+zolmitriptan,Cardiac disorder
+zolmitriptan,Myocardial infarction
+zolmitriptan,Tachycardia
+zolmitriptan,Ventricular tachycardia
+zolmitriptan,Myocardial ischaemia
+zolmitriptan,Bradycardia
+zolmitriptan,Electrocardiogram abnormal
+zolpidem,Cardiac disorder
+zolpidem,Myocardial infarction
+zolpidem,Tachycardia
+zolpidem,Ventricular tachycardia
+zonisamide,Cardiac failure
+zonisamide,Tachycardia
+zonisamide,Bradycardia
+zopiclone,Tachycardia
+phentolamine,Cardiac disorder
+phentolamine,Myocardial infarction
+phentolamine,Tachycardia
+phentolamine,Bradycardia
+tetrabenazine,Cardiac disorder
+tetrabenazine,Bradycardia
+cyclizine,Tachycardia
+diethylpropion,Cardiac valve disease
+diethylpropion,Tachycardia
+diethylpropion,Electrocardiogram change
+chloroprocaine,Cardiac arrest
+chloroprocaine,Tachycardia
+chloroprocaine,Bradycardia
+methohexital,Tachycardia
+methohexital,Cardio-respiratory arrest
+methohexital,Cardiovascular insufficiency
+aminophylline,Cardiac flutter
+aminophylline,Tachycardia
+aminophylline,Sinus tachycardia
+aminophylline,Supraventricular tachycardia
+aminophylline,Multifocal atrial tachycardia
+aminophylline,Atrial tachycardia
+dimenhydrinate,Tachycardia
+zuclopenthixol,Cardiac disorder
+zuclopenthixol,Tachycardia
+zuclopenthixol,Ventricular tachycardia
+zuclopenthixol,Electrocardiogram QT prolonged
+phendimetrazine,Cardiac valve disease
+phendimetrazine,Tachycardia
+pimozide,Cardiac disorder
+pimozide,Tachycardia
+pimozide,Ventricular tachycardia
+pimozide,Electrocardiogram QT prolonged
+pimozide,Electrocardiogram U wave present
+pimozide,Electrocardiogram U-wave abnormality
+pimozide,Electrocardiogram abnormal
+pimozide,Electrocardiogram change
+hydrocodone,Non-cardiac chest pain
+molindone,Tachycardia
+dexrazoxane,Cardiac disorder
+dexrazoxane,Cardiac failure congestive
+dexrazoxane,Cardiotoxicity
+fludrocortisone,Cardiomegaly
+metipranolol,Myocardial infarction
+metipranolol,Bradycardia
+etomidate,Tachycardia
+etomidate,Bradycardia
+dobutamine,Tachycardia
+bezafibrate,Myocardial infarction
+vecuronium,Cardiac disorder
+vecuronium,Tachycardia
+sufentanil,Cardiac arrest
+sufentanil,Tachycardia
+sufentanil,Bradycardia
+desflurane,Cardiac arrest
+desflurane,Cardiac disorder
+desflurane,Myocardial infarction
+desflurane,Tachycardia
+desflurane,Myocardial ischaemia
+desflurane,Bradycardia
+desflurane,Electrocardiogram T wave inversion
+desflurane,Electrocardiogram abnormal
+desflurane,Electrocardiogram ST-T change
+cisatracurium,Cardiovascular disorder
+cisatracurium,Cardiac arrest
+cisatracurium,Tachycardia
+cisatracurium,Bradycardia
+alfentanil,Cardiac arrest
+alfentanil,Cardiac disorder
+alfentanil,Tachycardia
+alfentanil,Bradycardia
+clarithromycin,Cardiac arrest
+clarithromycin,Cardiac disorder
+clarithromycin,Ventricular tachycardia
+clarithromycin,Electrocardiogram QT prolonged
+atomoxetine,Cardiac disorder
+atomoxetine,Tachycardia
+atomoxetine,Sinus tachycardia
+milnacipran,Cardiac disorder
+milnacipran,Tachycardia
+milnacipran,Supraventricular tachycardia
+fosphenytoin,Cardiac arrest
+fosphenytoin,Cardiomegaly
+fosphenytoin,Cardiac failure congestive
+fosphenytoin,Tachycardia
+fosphenytoin,Sinus bradycardia
+fosphenytoin,Bradycardia
+ranolazine,Cardiac disorder
+ranolazine,Electrocardiogram QT prolonged
+ranolazine,Bradycardia
+rotigotine,Electrocardiogram T wave abnormal
+esmolol,Cardiac arrest
+esmolol,Cardiac disorder
+esmolol,Cardiac failure
+esmolol,Cardiac failure congestive
+esmolol,Myocardial infarction
+esmolol,Myocardial ischaemia
+esmolol,Inferior myocardial infarction
+esmolol,Bradycardia
+esmolol,Electrocardiogram ST segment depression
+esmolol,Electrocardiogram abnormal
+tamsulosin,Cardiac disorder
+tamsulosin,Tachycardia
+amlodipine,Cardiac failure
+amlodipine,Myocardial infarction
+dexmedetomidine,Cardiac output decreased
+dexmedetomidine,Cardiovascular disorder
+dexmedetomidine,Cardiac arrest
+dexmedetomidine,Cardiac disorder
+dexmedetomidine,Myocardial infarction
+dexmedetomidine,Tachycardia
+dexmedetomidine,Supraventricular tachycardia
+dexmedetomidine,Ventricular tachycardia
+dexmedetomidine,Myocardial ischaemia
+dexmedetomidine,Bradycardia
+dexmedetomidine,Electrocardiogram T wave inversion
+dexmedetomidine,Sinus tachycardia
+cidofovir,Cardiovascular disorder
+cidofovir,Cardiac failure congestive
+cidofovir,Tachycardia
+cidofovir,Cardiomyopathy
+rocuronium,Cardiovascular disorder
+rocuronium,Tachycardia
+rocuronium,Electrocardiogram abnormal
+ibutilide,Cardiac failure congestive
+ibutilide,Tachycardia
+ibutilide,Sinus tachycardia
+ibutilide,Supraventricular tachycardia
+ibutilide,Sinus bradycardia
+ibutilide,Monomorphic ventricular tachycardia
+ibutilide,Ventricular tachycardia
+ibutilide,Multifocal ventricular tachycardia
+ibutilide,Bradycardia
+saquinavir,Cardiovascular disorder
+saquinavir,Cardiac disorder
+saquinavir,Cardiac murmur
+saquinavir,Cardiac valve disease
+aripiprazole,Cardiac arrest
+aripiprazole,Cardiac disorder
+aripiprazole,Cardiomegaly
+aripiprazole,Cardiac failure
+aripiprazole,Cardiac murmur
+aripiprazole,Myocardial infarction
+aripiprazole,Tachycardia
+aripiprazole,Sinus tachycardia
+aripiprazole,Supraventricular tachycardia
+aripiprazole,Ventricular tachycardia
+aripiprazole,Myocardial ischaemia
+aripiprazole,Electrocardiogram QT prolonged
+aripiprazole,Bradycardia
+aripiprazole,Electrocardiogram T wave amplitude decreased
+aripiprazole,Electrocardiogram T wave abnormal
+aripiprazole,Electrocardiogram T wave inversion
+aripiprazole,Electrocardiogram abnormal
+aripiprazole,Electrocardiogram PR prolongation
+aripiprazole,Cardio-respiratory arrest
+aripiprazole,Electrocardiogram QT corrected interval prolonged
+aripiprazole,Electrocardiogram ST segment abnormal
+aripiprazole,Cardiomyopathy
+aripiprazole,ECG signs of myocardial ischaemia
+aripiprazole,Cardiopulmonary failure
+remifentanil,Cardiac output decreased
+remifentanil,Cardiac arrest
+remifentanil,Cardiac disorder
+remifentanil,Pericarditis
+remifentanil,Tachycardia
+remifentanil,Myocardial ischaemia
+remifentanil,Bradycardia
+remifentanil,Electrocardiogram change
+tiotropium,Tachycardia
+tiotropium,Supraventricular tachycardia
+tiotropium,Ventricular tachycardia
+tiotropium,Cardiac death
+duloxetine,Cardiac disorder
+duloxetine,Cardiac failure
+duloxetine,Cardiac failure congestive
+duloxetine,Myocardial infarction
+duloxetine,Tachycardia
+duloxetine,Supraventricular tachycardia
+duloxetine,Cardiac fibrillation
+pemetrexed,Myocardial infarction
+pemetrexed,Ventricular tachycardia
+pemetrexed,Myocardial ischaemia
+ziprasidone,Cardiac disorder
+ziprasidone,Cardiomegaly
+ziprasidone,Myocarditis
+ziprasidone,Tachycardia
+ziprasidone,Bradycardia
+ziprasidone,Electrocardiogram QT corrected interval prolonged
+ziprasidone,Electrocardiogram QT prolonged
+levosimendan,Cardiac disorder
+levosimendan,Cardiac failure
+levosimendan,Tachycardia
+levosimendan,Ventricular tachycardia
+levosimendan,Myocardial ischaemia
+capecitabine,Oedema due to cardiac disease
+capecitabine,Cardiac arrest
+capecitabine,Cardiac disorder
+capecitabine,Cardiac failure
+capecitabine,Myocardial infarction
+capecitabine,Myocarditis
+capecitabine,Pericardial effusion
+capecitabine,Tachycardia
+capecitabine,Sinus tachycardia
+capecitabine,Supraventricular tachycardia
+capecitabine,Myocardial ischaemia
+capecitabine,Cardiac pain
+capecitabine,Bradycardia
+capecitabine,Cardiomyopathy
+trovafloxacin,Tachycardia
+trovafloxacin,Bradycardia
+testosterone,Cardiovascular disorder
+reboxetine,Cardiac disorder
+reboxetine,Tachycardia
+reboxetine,Sinus tachycardia
+reboxetine,Myocardial ischaemia
+reboxetine,Bradycardia
+reboxetine,Electrocardiogram abnormal
+reboxetine,Electrocardiogram change
+brinzolamide,Cardiac disorder
+brinzolamide,Tachycardia
+brinzolamide,Bradycardia
+brinzolamide,Cardio-respiratory distress
+ropivacaine,Cardiac output decreased
+ropivacaine,Cardiac arrest
+ropivacaine,Cardiac disorder
+ropivacaine,Myocardial infarction
+ropivacaine,Tachycardia
+ropivacaine,Ventricular tachycardia
+ropivacaine,Tachycardia foetal
+ropivacaine,Bradycardia foetal
+ropivacaine,Bradycardia
+ropivacaine,Electrocardiogram ST segment
+nebivolol,Cardiac disorder
+nebivolol,Myocardial infarction
+nebivolol,Bradycardia
+mivacurium,Cardiac disorder
+mivacurium,Tachycardia
+mivacurium,Bradycardia
+dofetilide,Cardiac arrest
+dofetilide,Cardiac failure
+dofetilide,Myocardial infarction
+dofetilide,Supraventricular tachycardia
+dofetilide,Ventricular tachycardia
+dofetilide,Bradycardia
+iloperidone,Cardiac disorder
+iloperidone,Cardiac failure
+iloperidone,Tachycardia
+darifenacin,Tachycardia
+bleomycin,Myocardial infarction
+bleomycin,Pleuropericarditis
+gemifloxacin,Congestive cardiomyopathy
+gemifloxacin,Cardiac disorder
+gemifloxacin,Tachycardia
+gemifloxacin,Supraventricular tachycardia
+gemifloxacin,Electrocardiogram QT prolonged
+frovatriptan,Cardiovascular disorder
+frovatriptan,Myocardial infarction
+frovatriptan,Tachycardia
+frovatriptan,Ventricular tachycardia
+frovatriptan,Myocardial ischaemia
+frovatriptan,Bradycardia
+frovatriptan,Electrocardiogram abnormal
+eletriptan,Myocardial infarction
+eletriptan,Tachycardia
+eletriptan,Ventricular tachycardia
+eletriptan,Myocardial ischaemia
+eletriptan,Bradycardia
+rosiglitazone,Cardiac disorder
+rosiglitazone,Cardiac failure
+rosiglitazone,Cardiac failure congestive
+rosiglitazone,Myocardial infarction
+rosiglitazone,Myocardial ischaemia
+ketorolac,Cardiac disorder
+ketorolac,Cardiac failure
+ketorolac,Ventricular tachycardia
+nelarabine,Cardiac disorder
+nelarabine,Sinus tachycardia
+nelarabine,Non-cardiac chest pain
+raltitrexed,Cardiac failure congestive
+raltitrexed,Sinus tachycardia
+raltitrexed,Supraventricular tachycardia
+vardenafil,Cardiovascular disorder
+vardenafil,Cardiac disorder
+vardenafil,Myocardial infarction
+vardenafil,Tachycardia
+vardenafil,Sudden cardiac death
+vardenafil,Myocardial ischaemia
+tadalafil,Cardiovascular disorder
+tadalafil,Cardiac disorder
+tadalafil,Myocardial infarction
+tadalafil,Tachycardia
+tadalafil,Sudden cardiac death
+tadalafil,Sinus bradycardia
+tadalafil,Non-cardiac chest pain
+paliperidone,Cardiac arrest
+paliperidone,Cardiac disorder
+paliperidone,Tachycardia
+paliperidone,Sinus tachycardia
+paliperidone,Ventricular tachycardia
+paliperidone,Electrocardiogram QT prolonged
+paliperidone,Bradycardia
+paliperidone,Electrocardiogram T wave abnormal
+paliperidone,Electrocardiogram T wave inversion
+paliperidone,Electrocardiogram abnormal
+paliperidone,Electrocardiogram QT corrected interval prolonged
+paliperidone,Postural orthostatic tachycardia syndrome
+clofarabine,Cardiac disorder
+clofarabine,Pericardial effusion
+clofarabine,Pericarditis
+clofarabine,Tachycardia
+valdecoxib,Cardiac failure congestive
+valdecoxib,Cardiac murmur
+valdecoxib,Cardiac valve disease
+valdecoxib,Myocardial infarction
+valdecoxib,Pericarditis
+valdecoxib,Tachycardia
+valdecoxib,Myocardial ischaemia
+valdecoxib,Bradycardia
+valdecoxib,Electrocardiogram abnormal
+valdecoxib,Cardiomyopathy
+parecoxib,Cardiac disorder
+parecoxib,Cardiac failure congestive
+parecoxib,Myocardial infarction
+parecoxib,Tachycardia
+parecoxib,Bradycardia
+rasagiline,Cardiac disorder
+rasagiline,Cardiac failure
+rasagiline,Myocardial infarction
+rasagiline,Ventricular tachycardia
+almotriptan,Cardiac disorder
+almotriptan,Myocardial infarction
+almotriptan,Tachycardia
+almotriptan,Ventricular tachycardia
+almotriptan,Myocardial ischaemia
+almotriptan,Acute myocardial infarction
+etoricoxib,Cardiac arrest
+etoricoxib,Cardiac disorder
+etoricoxib,Cardiac failure congestive
+etoricoxib,Myocardial infarction
+desloratadine,Cardiac disorder
+desloratadine,Tachycardia
+desloratadine,Electrocardiogram abnormal
+desvenlafaxine,Cardiac disorder
+desvenlafaxine,Myocardial infarction
+desvenlafaxine,Tachycardia
+desvenlafaxine,Myocardial ischaemia
+fosamprenavir,Cardiac disorder
+fosamprenavir,Myocardial infarction
+pomalidomide,Cardiac disorder
+pomalidomide,Cardiac failure congestive
+drospirenone,Myocardial infarction
+pralatrexate,Tachycardia
+pralatrexate,Cardio-respiratory arrest
+ospemifene,Cardiovascular disorder
+atazanavir,Cardiac arrest
+atazanavir,Cardiac disorder
+atazanavir,Myocarditis
+atazanavir,Electrocardiogram QT corrected interval prolonged
+atazanavir,Electrocardiogram QT prolonged
+palonosetron,Tachycardia
+palonosetron,Sinus tachycardia
+palonosetron,Myocardial ischaemia
+palonosetron,Bradycardia
+palonosetron,Cardiac disorder
+palonosetron,Sinus bradycardia
+palonosetron,Electrocardiogram QT prolonged
+palonosetron,Electrocardiogram T wave amplitude decreased
+palonosetron,Electrocardiogram QT corrected interval prolonged
+solifenacin,Cardiac disorder
+solifenacin,Tachycardia
+bazedoxifene,Cardiac disorder
+asenapine,Tachycardia
+asenapine,Cardiac disorder
+asenapine,Sinus tachycardia
+asenapine,Sinus bradycardia
+asenapine,Electrocardiogram QT prolonged
+varenicline,Cardiac flutter
+varenicline,Cardiac disorder
+varenicline,Myocardial infarction
+varenicline,Tachycardia
+varenicline,Bradycardia
+varenicline,Electrocardiogram T wave amplitude decreased
+varenicline,Electrocardiogram ST segment depression
+varenicline,Electrocardiogram abnormal
+erlotinib,Cardiovascular disorder
+erlotinib,Myocardial infarction
+dronedarone,Cardiac disorder
+dronedarone,Cardiac failure
+dronedarone,Cardiac failure congestive
+dronedarone,Bradycardia
+darunavir,Cardiac disorder
+darunavir,Myocardial infarction
+darunavir,Myocarditis
+darunavir,Tachycardia
+darunavir,Sinus bradycardia
+darunavir,Acute myocardial infarction
+darunavir,Bradycardia
+darunavir,Electrocardiogram abnormal
+lurasidone,Cardiovascular disorder
+lurasidone,Cardiac disorder
+lurasidone,Tachycardia
+lurasidone,Bradycardia
+lurasidone,Electrocardiogram change
+lenalidomide,Cardiac arrest
+lenalidomide,Cardiac disorder
+lenalidomide,Cardiac failure
+lenalidomide,Cardiac failure congestive
+lenalidomide,Myocardial infarction
+lenalidomide,Cardiogenic shock
+lenalidomide,Tachycardia
+lenalidomide,Supraventricular tachycardia
+lenalidomide,Myocardial ischaemia
+lenalidomide,Bradycardia
+lenalidomide,Cardio-respiratory arrest
+lenalidomide,Cardiomyopathy
+lasofoxifene,Cardiac disorder
+lasofoxifene,Cardiomegaly
+lasofoxifene,Cardiac failure
+lasofoxifene,Tachycardia
+lasofoxifene,Electrocardiogram T wave abnormal
+silodosin,Cardiac disorder
+silodosin,Tachycardia
+sulfasalazine,Cardiac disorder
+sulfasalazine,Myocarditis
+sulfasalazine,Pericarditis
+sulfasalazine,Eosinophilic myocarditis
+balsalazide,Myocarditis
+balsalazide,Pericarditis
+balsalazide,Tachycardia
+tegaserod,Cardiac disorder
+tegaserod,Supraventricular tachycardia
+tapentadol,Cardiac disorder
+tapentadol,Tachycardia
+tapentadol,Bradycardia
+indacaterol,Cardiac disorder
+indacaterol,Tachycardia
+indacaterol,Myocardial ischaemia
+vilazodone,Cardiac disorder
+fesoterodine,Cardiac disorder
+fesoterodine,Tachycardia
+fesoterodine,Electrocardiogram QT corrected interval
+fesoterodine,Electrocardiogram QT interval
+mirabegron,Cardiac disorder
+mirabegron,Tachycardia
+avanafil,Cardiac disorder
+avanafil,Cardiac murmur
+avanafil,Tachycardia
+avanafil,Electrocardiogram abnormal
+aclidinium,Cardiac failure
+aclidinium,Tachycardia
+aclidinium,Cardio-respiratory arrest
+umeclidinium,Cardiac disorder
+umeclidinium,Tachycardia
+umeclidinium,Sinus tachycardia
+umeclidinium,Supraventricular tachycardia
+piroxicam,Cardiac failure congestive
+piroxicam,Myocardial infarction
+piroxicam,Tachycardia
+tenoxicam,Cardiac disorder
+tenoxicam,Cardiac failure
+tenoxicam,Myocardial infarction
